@@ -1,0 +1,999 @@
+Row ID,Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,Country,City,State,Postal Code,Region,Product ID,Product Name,Sales,Category,Sub-Category,Quantity,Discount,Profit
+1,2142,11/11/2016,12/14/2014,First Class,9152,Darnall Helling,Home Office,Slovenia,Cerklje na Gorenjskem,,4207,West,2191,Cocoa Butter,Euro,Office Supplies,Paper,15,0.02,Krona
+2,8662,9/2/2019,9/14/2014,Same Day,4502,Millard Pinsent,Home Office,China,Jingyang,,,North,1032,Kellogs Special K Cereal,Yuan Renminbi,Furniture,Chairs,62,0.22,Shekel
+3,7871,11/18/2021,1/8/2015,First Class,3235,Tades Kynoch,Consumer,Iran,Jīroft,,,West,9185,"Pasta - Bauletti, Chicken White",Rial,Furniture,Phones,92,0.25,Yuan Renminbi
+4,2609,8/22/2015,1/22/2019,Second Class,7653,Otis Wheeliker,Consumer,Taiwan,Taibao,,,North,5172,Beer - True North Lager,Dollar,Technology,Chairs,51,0.1,Rupiah
+5,2368,11/5/2022,5/21/2020,First Class,9633,Christie Malacrida,Consumer,Brazil,Guaraciaba do Norte,,62380-000,North,2191,Sauce - Hp,Real,Office Supplies,Phones,28,0.27,Peso
+6,9773,2/27/2010,1/23/2012,First Class,5995,Jamima Binley,Home Office,China,Guangsheng,,,East,6253,Caviar - Salmon,Yuan Renminbi,Furniture,Tables,67,0.34,Rupiah
+7,6230,3/1/2013,7/30/2020,Same Day,6670,Jasmina Russen,Corporate,Serbia,Rumenka,,,West,4523,"Salt - Rock, Course",Dinar,Technology,Tables,65,0.31,Rupiah
+8,1585,2/28/2011,2/11/2017,Same Day,5786,Cammy Saurin,Corporate,Mongolia,Tögrög,,,West,3925,Dried Peach,Tugrik,Office Supplies,Tables,44,0.39,Rupiah
+9,6200,6/16/2011,2/23/2017,Same Day,9868,Robenia Tink,Home Office,Portugal,Freixo de Numão,Guarda,5155-205,North,6378,Sauce - Hp,Euro,Furniture,Chairs,79,0.33,Peso
+10,9826,3/28/2014,1/15/2011,Standard Class,4793,Thebault Cleugh,Corporate,Vietnam,An Châu,,,West,2262,"Beef - Baby, Liver",Dong,Furniture,Accessories,14,0.04,Yuan Renminbi
+11,4761,11/3/2016,4/6/2011,Same Day,5125,Jeanine Mariyushkin,Home Office,China,Guangshun,,,East,3944,"Pasta - Bauletti, Chicken White",Yuan Renminbi,Office Supplies,Phones,96,0.1,Zloty
+12,1890,4/4/2019,8/16/2010,Second Class,8179,Kiel Roggers,Home Office,China,Zhangjiafan,,,West,1624,Crackers - Soda / Saltins,Yuan Renminbi,Furniture,Chairs,44,0.19,Peso
+13,3107,1/23/2015,4/8/2021,Same Day,7184,Lillis Clist,Consumer,South Korea,Andong,,,West,6316,"Wine - Red, Antinori Santa",Won,Technology,Paper,100,0.17,Krona
+14,3596,3/21/2012,2/18/2015,Second Class,5665,Millisent Southeran,Corporate,Indonesia,Babakan,,,West,9113,Glycerine,Rupiah,Office Supplies,Paper,78,0.18,Yuan Renminbi
+15,5992,10/21/2014,8/30/2020,Standard Class,3189,Lanie Vaughton,Consumer,France,Grenoble,Rhône-Alpes,38014 CEDEX 1,North,9299,Wine - Chateau Aqueria Tavel,Euro,Furniture,Accessories,25,0.05,Lempira
+16,7850,1/31/2020,12/18/2016,Standard Class,6049,Thebault Phethean,Corporate,Maldives,Vilufushi,,,West,4593,Cheese - Gouda,Rufiyaa,Office Supplies,Paper,78,0.16,Zloty
+17,4263,4/5/2013,4/20/2010,First Class,7099,Cosmo Rosettini,Corporate,Moldova,Ialoveni,,MD-6801,West,8801,Mushroom - White Button,Leu,Furniture,Chairs,50,0.08,Peso
+18,3195,7/15/2012,12/12/2015,First Class,9811,Krishna Phlippsen,Corporate,Indonesia,Wolofeo,,,South,3745,Juice - Prune,Rupiah,Furniture,Chairs,90,0.02,Ruble
+19,7795,11/1/2017,12/13/2012,Same Day,8878,Darcy Cundy,Home Office,Poland,Klimontów,,32-112,South,8907,Soup - Campbells - Tomato,Zloty,Office Supplies,Chairs,34,0.03,Real
+20,4073,4/3/2020,8/10/2012,Standard Class,5281,Ruddy Lamba,Corporate,Brazil,Panorama,,17980-000,South,9350,"Cup - 3.5oz, Foam",Real,Office Supplies,Tables,98,0.33,Naira
+21,9740,7/11/2013,10/24/2010,Same Day,1667,Ivy Apple,Consumer,China,Hengpi,,,North,1567,Carrots - Jumbo,Yuan Renminbi,Office Supplies,Tables,8,0.08,Euro
+22,5684,6/2/2018,11/6/2013,Second Class,4034,Nikki Trevaskis,Home Office,Tajikistan,Palos,,,South,5007,Squid - Breaded,Somoni,Furniture,Tables,59,0.22,Yuan Renminbi
+23,5510,4/7/2016,12/30/2021,Same Day,8598,Christian Duinbleton,Corporate,Kazakhstan,Talghar,,,West,7769,Flavouring - Rum,Tenge,Technology,Phones,53,0.25,Yuan Renminbi
+24,6539,6/17/2021,6/17/2021,Second Class,7113,Madelle Dovington,Corporate,Czech Republic,Poříčí nad Sázavou,,257 21,West,9725,"Wine - Saint - Bris 2002, Sauv",Koruna,Office Supplies,Chairs,91,0.1,Dollar
+25,8918,6/7/2013,1/15/2021,Second Class,9314,Nathanael Denerley,Home Office,Indonesia,Kablukan,,,West,4537,Flavouring - Raspberry,Rupiah,Furniture,Phones,37,0.44,Rupiah
+26,4083,2/8/2020,1/9/2020,Second Class,1665,Rodrick Whittle,Consumer,Poland,Drawsko,,64-733,South,7878,Jam - Apricot,Zloty,Technology,Phones,27,0.03,Zloty
+27,1003,9/18/2015,2/24/2011,First Class,6875,Rees Klee,Consumer,Philippines,Nangalisan,,4516,West,3328,Lidsoupcont Rp12dn,Peso,Office Supplies,Paper,3,0.15,Euro
+28,6074,9/26/2016,1/20/2015,Same Day,1522,Ruthi Steinham,Home Office,Madagascar,Antalaha,,,East,1526,Grand Marnier,Ariary,Office Supplies,Phones,19,0.39,Yuan Renminbi
+29,6109,5/30/2017,9/28/2017,First Class,6694,Arda Tschierse,Corporate,France,Lunéville,Lorraine,54304 CEDEX,North,9291,Garbag Bags - Black,Euro,Office Supplies,Tables,32,0.02,Hryvnia
+30,6745,5/12/2013,3/30/2011,First Class,5398,Sully Hune,Corporate,Colombia,Buenaventura,,764517,North,1530,Bread Cranberry Foccacia,Peso,Technology,Phones,89,0.09,Yuan Renminbi
+31,5402,2/11/2015,12/27/2022,First Class,5068,Florie Dartnell,Home Office,Czech Republic,Bechyně,,391 65,West,9454,Squash - Butternut,Koruna,Office Supplies,Paper,48,0.21,Euro
+32,3394,6/24/2014,11/10/2010,Same Day,5182,Aloin Dewar,Corporate,Indonesia,Bosen,,,West,2453,Dried Apple,Rupiah,Furniture,Tables,88,0.1,Baht
+33,8004,11/2/2010,5/1/2011,Standard Class,7658,Chaim Hallin,Consumer,Liberia,Bensonville,,,West,9816,"Soup - Campbells, Butternut",Dollar,Furniture,Tables,26,0.23,Ruble
+34,8100,10/11/2020,7/20/2016,Same Day,6894,Glenn Sprankling,Consumer,France,Avignon,Provence-Alpes-Côte d'Azur,84072 CEDEX 4,West,4456,"Shrimp - 16 - 20 Cooked, Peeled",Euro,Technology,Tables,84,0.04,Real
+35,1603,5/1/2017,12/4/2010,Same Day,2399,Munmro Butterwick,Corporate,United States,Merrifield,Virginia,22119,East,3129,Wine - Rubyport,Dollar,Office Supplies,Phones,12,0.32,Rupiah
+36,3916,11/9/2022,8/4/2014,Standard Class,6086,Engelbert Hedderly,Consumer,Colombia,Puerto Guzmán,,861088,East,8257,Jolt Cola,Peso,Office Supplies,Phones,11,0.37,Peso
+37,9016,7/26/2017,7/7/2022,Standard Class,5711,Estell Graves,Home Office,China,Guolemude,,,North,8121,Cheese - Goat With Herbs,Yuan Renminbi,Office Supplies,Tables,53,0.36,Rial
+38,6598,4/30/2021,12/6/2021,Same Day,4182,Bogey Milch,Corporate,China,Hepingjie,,,North,2592,Pastry - French Mini Assorted,Yuan Renminbi,Furniture,Tables,44,0.45,Dollar
+39,3426,6/23/2017,8/23/2012,Same Day,9923,Bronnie Ellyatt,Consumer,Russia,Petrokamenskoye,,624273,West,4815,Bread - Wheat Baguette,Ruble,Office Supplies,Phones,60,0.26,Naira
+40,2532,6/27/2011,12/6/2017,Standard Class,6506,Angeli Peete,Home Office,Japan,Shibukawa,,979-1451,East,6914,Bagel - Everything Presliced,Yen,Technology,Paper,78,0.02,Dollar
+41,2177,12/10/2017,12/7/2016,Second Class,2114,Giffer Drewet,Corporate,Indonesia,Babakansalam,,,East,1188,Wine - Chardonnay South,Rupiah,Technology,Phones,69,0.45,Lek
+42,5008,7/17/2019,5/28/2014,First Class,9901,Brandy Vauter,Home Office,Netherlands,Emmen,Provincie Drenthe,7824,West,4435,Rappini - Andy Boy,Euro,Furniture,Accessories,12,0.35,Lempira
+43,2989,1/5/2020,9/25/2017,Second Class,7237,Anette Reedshaw,Corporate,China,Shangrao,,,North,4407,Sausage - Meat,Yuan Renminbi,Office Supplies,Accessories,48,0.26,Dinar
+44,9401,2/24/2013,8/3/2017,Standard Class,1355,Ingmar Rummin,Home Office,Palestinian Territory,Jīt,,,West,9568,Ice Cream - Turtles Stick Bar,Shekel,Technology,Paper,60,0.19,Yuan Renminbi
+45,6411,12/3/2010,4/2/2016,Standard Class,4189,Adorne Breadon,Corporate,Portugal,Cortiçóis,Santarém,2080-381,North,2794,"Juice - Apple, 500 Ml",Euro,Office Supplies,Tables,9,0.11,Rupiah
+46,9322,6/28/2010,2/10/2014,Same Day,1260,Kalina Evequot,Corporate,Portugal,Sangalhos,Aveiro,3780-115,North,7970,Beets,Euro,Technology,Accessories,55,0.49,Peso
+47,1943,6/30/2016,6/19/2018,Second Class,8729,Elyse Brandrick,Home Office,United States,Baton Rouge,Louisiana,70820,East,6309,"Mushroom - Enoki, Dry",Dollar,Technology,Chairs,66,0.38,Real
+48,2524,7/9/2017,12/16/2016,First Class,2360,Allene Domb,Home Office,Gambia,Daru Rilwan,,,South,2847,Puree - Kiwi,Dalasi,Office Supplies,Phones,68,0.45,Real
+49,6991,11/5/2011,8/11/2020,Standard Class,7753,Raimundo Leggat,Home Office,Colombia,Jamundí,,764008,East,4721,Bag Stand,Peso,Technology,Phones,18,0.1,Cordoba
+50,9472,7/23/2020,11/7/2015,Standard Class,2300,Vonnie Karpol,Consumer,Indonesia,Mauponggo,,,West,4021,Corn - Mini,Rupiah,Furniture,Accessories,66,0.19,Zloty
+51,9258,11/17/2014,1/30/2014,Same Day,8006,Sven Dallinder,Home Office,South Africa,Peddie,,6139,North,3276,Skewers - Bamboo,Rand,Furniture,Chairs,81,0.17,Yuan Renminbi
+52,2278,7/1/2022,10/11/2018,Second Class,9532,Nowell Flieger,Corporate,Indonesia,Cikadu,,,North,4995,"Syrup - Monin, Amaretta",Rupiah,Technology,Chairs,87,0.32,Peso
+53,7927,6/15/2010,8/12/2021,Second Class,3956,Demetris Kinnerk,Corporate,Czech Republic,Holýšov,,345 62,South,9139,Cookie - Oreo 100x2,Koruna,Technology,Chairs,71,0.48,Yuan Renminbi
+54,1922,8/30/2020,1/24/2010,Same Day,9291,Dyann De la Barre,Consumer,France,Pantin,Île-de-France,93691 CEDEX,South,5747,Arizona - Plum Green Tea,Euro,Technology,Accessories,49,0.37,Rand
+55,5456,9/24/2012,1/8/2018,Same Day,1952,Dalenna Thorns,Home Office,Slovenia,Laško,,3270,North,8249,"Crab - Back Fin Meat, Canned",Euro,Technology,Paper,68,0.03,Yen
+56,2664,8/15/2013,8/25/2019,Standard Class,9525,Sallyann Eaglen,Corporate,Thailand,Chang Klang,,84240,South,8589,Whmis - Spray Bottle Trigger,Baht,Technology,Chairs,15,0.41,Won
+57,6983,4/12/2013,11/21/2019,First Class,1859,Haskel Keetley,Home Office,Iran,Gonbad-e Kāvūs,,,South,7271,Mints - Striped Red,Rial,Technology,Tables,78,0.06,Cordoba
+58,8498,7/14/2012,8/22/2022,Same Day,3486,Nickie Beese,Home Office,Greece,Kallífytos,,,West,6115,Wine - Riesling Alsace Ac 2001,Euro,Technology,Paper,14,0.42,Won
+59,4776,8/16/2014,5/29/2011,First Class,4234,Siward Corbett,Consumer,China,Jiguan,,,West,4867,Bouq All Italian - Primerba,Yuan Renminbi,Furniture,Chairs,18,0.26,Dollar
+60,7800,1/5/2014,12/29/2012,Standard Class,9131,Elvyn Birkett,Consumer,China,Shuyuan,,,North,6472,Tofu - Soft,Yuan Renminbi,Furniture,Phones,15,0.09,Yen
+61,6107,11/29/2013,4/16/2013,Standard Class,9959,Modesta Vanichkov,Consumer,France,Vannes,Bretagne,56902 CEDEX 9,East,3703,Longos - Lasagna Beef,Euro,Office Supplies,Phones,53,0.39,Peso
+62,8753,2/19/2019,12/3/2014,Same Day,9671,Idalia Coope,Consumer,Indonesia,Ancol,,,East,6885,Cups 10oz Trans,Rupiah,Furniture,Chairs,37,0.12,Yuan Renminbi
+63,4098,10/10/2017,9/17/2019,Second Class,1305,Orion Crosdill,Consumer,Kenya,Mbale,,,South,9841,"Split Peas - Green, Dry",Shilling,Office Supplies,Paper,87,0.1,Rupiah
+64,1039,8/10/2016,8/19/2011,Second Class,5146,Norbie De Gowe,Corporate,China,Fuyang,,,South,3135,Bread Cranberry Foccacia,Yuan Renminbi,Furniture,Paper,93,0.26,Euro
+65,8987,1/4/2021,9/27/2015,Standard Class,9615,Brear Castelow,Consumer,Belarus,Kokhanava,,,West,8404,Island Oasis - Magarita Mix,Ruble,Technology,Chairs,10,0.01,Euro
+66,9888,4/23/2015,5/28/2015,First Class,7913,Ellen Signorelli,Home Office,France,Cran-Gevrier,Rhône-Alpes,74964 CEDEX,East,1142,"Crab - Dungeness, Whole",Euro,Office Supplies,Chairs,78,0.23,Sol
+67,4627,3/15/2018,12/7/2020,Second Class,4363,Waverly Waryk,Corporate,Philippines,Jagupit,,1060,East,1310,Cheese - Bakers Cream Cheese,Peso,Office Supplies,Paper,27,0.48,Baht
+68,9109,9/22/2019,7/8/2022,Same Day,3719,Ruperto Habeshaw,Consumer,Poland,Opatowiec,,28-520,North,6701,Water - Perrier,Zloty,Furniture,Paper,13,0.2,Krona
+69,5719,4/5/2017,6/25/2018,Standard Class,7657,Flemming Chalker,Corporate,Colombia,Sabanalarga,,855058,East,1706,Soup Campbells Beef With Veg,Peso,Furniture,Accessories,79,0.28,Yuan Renminbi
+70,6744,4/29/2014,2/11/2021,Second Class,3107,Patrica Alsopp,Home Office,Brazil,Ibiúna,,18150-000,South,8115,Red Currants,Real,Office Supplies,Chairs,22,0.43,Peso
+71,4600,10/9/2022,5/12/2015,Second Class,6696,Rip Stryde,Consumer,Russia,Yaroslavskaya,,352857,North,7015,Lamb Tenderloin Nz Fr,Ruble,Technology,Chairs,5,0.26,Pula
+72,8534,5/13/2019,5/5/2015,Same Day,8511,Raimund Petford,Home Office,Portugal,Livramento,Lisboa,2765-366,North,1284,Lid Coffee Cup 8oz Blk,Euro,Technology,Tables,27,0.38,Yen
+73,6206,4/9/2011,12/10/2022,Second Class,2971,Mela Couser,Corporate,China,Huquan,,,East,5576,"Brandy - Orange, Mc Guiness",Yuan Renminbi,Office Supplies,Paper,84,0.48,Ruble
+74,8503,11/19/2016,5/6/2019,Same Day,2123,Anders Espinos,Consumer,Venezuela,Anaco,,,South,1829,Wine - Barolo Fontanafredda,Bolivar,Office Supplies,Accessories,25,0.32,Euro
+75,7205,1/11/2012,8/17/2011,Second Class,3605,Belinda Wogdon,Consumer,China,Longxi,,,North,3700,Squash - Sunburst,Yuan Renminbi,Furniture,Phones,71,0.23,Peso
+76,7870,11/18/2021,2/12/2016,Same Day,2327,Krystyna Spearing,Consumer,Jamaica,Bull Savanna,,,West,8659,Pasta - Angel Hair,Dollar,Office Supplies,Accessories,2,0.02,Rial
+77,5020,1/9/2021,11/3/2011,Second Class,7055,Dani Camelin,Home Office,Germany,Stuttgart,Baden-Württemberg,70190,South,4890,"Basil - Dry, Rubbed",Euro,Technology,Paper,97,0.45,Peso
+78,1489,8/3/2022,12/17/2019,Same Day,7841,Bridie Oatley,Consumer,China,Hefu,,,South,1517,Tequila Rose Cream Liquor,Yuan Renminbi,Furniture,Accessories,51,0.07,Manat
+79,7246,12/14/2022,4/1/2015,Second Class,4905,Farrel Hubert,Home Office,United States,Richmond,Virginia,23285,East,2126,Muffin Orange Individual,Dollar,Furniture,Tables,88,0.25,Euro
+80,4943,10/18/2010,11/2/2017,Standard Class,1997,Glen Limbourne,Consumer,China,Gaoping,,,East,4326,Irish Cream - Baileys,Yuan Renminbi,Technology,Chairs,34,0.16,Yuan Renminbi
+81,5009,11/3/2012,4/7/2010,First Class,1479,Kerrin Miskimmon,Home Office,Japan,Fukuyama,,999-8241,South,8848,Salmon Steak - Cohoe 8 Oz,Yen,Technology,Paper,45,0.07,Yen
+82,4142,5/2/2014,12/30/2018,Second Class,7105,Walden Iamittii,Home Office,Equatorial Guinea,Río Campo,,,West,2476,Beef - Bresaola,Franc,Office Supplies,Chairs,27,0.41,Yuan Renminbi
+83,2689,5/13/2014,7/24/2018,First Class,6601,Clevie Drakard,Corporate,China,Zhoukoudian,,,West,4386,Beans - French,Yuan Renminbi,Office Supplies,Chairs,65,0.42,Pula
+84,1730,12/16/2018,1/15/2012,Second Class,6233,Eryn Josefsen,Home Office,Belarus,Starobin,,,South,1176,"Carrots - Purple, Organic",Ruble,Technology,Paper,31,0.48,Rupiah
+85,7710,6/17/2022,6/17/2013,First Class,9544,Daile Keeri,Consumer,Philippines,Mabunga,,4307,South,7764,Rice - Basmati,Peso,Office Supplies,Tables,12,0.25,Dollar
+86,5659,11/13/2011,7/2/2019,Standard Class,7893,Giuseppe Rodgier,Home Office,China,Mawang,,,West,1225,Squash - Pepper,Yuan Renminbi,Technology,Chairs,29,0.24,Leu
+87,9346,6/2/2014,1/22/2022,Same Day,6964,Lucias Pattle,Home Office,Guatemala,Concepción,,07023,North,7094,Tahini Paste,Quetzal,Furniture,Accessories,7,0.33,Taka
+88,7254,7/7/2010,3/15/2017,Second Class,9282,Barnebas Kearns,Home Office,Portugal,Estombar,Faro,8400-017,West,7201,Knife Plastic - White,Euro,Technology,Chairs,57,0.25,Rupiah
+89,3948,11/23/2016,11/9/2011,Same Day,9036,Tildie Askie,Home Office,Argentina,Cerro Azul,,3313,East,1290,Triple Sec - Mcguinness,Peso,Office Supplies,Chairs,41,0.37,Peso
+90,9937,8/9/2014,12/30/2013,Second Class,2474,Melany Folbigg,Home Office,Zimbabwe,Gokwe,,,East,3415,Broom And Broom Rack White,Dollar,Technology,Chairs,84,0.14,Yen
+91,4953,3/30/2022,5/14/2014,Same Day,3847,Ettore Knock,Corporate,Ukraine,Volodymyrets’,,,South,5546,Wine - Alsace Riesling Reserve,Hryvnia,Office Supplies,Tables,76,0.16,Peso
+92,9835,3/22/2022,3/20/2012,Second Class,3641,Fonz Seggie,Corporate,Venezuela,Aroa,,,North,9970,Pastry - Choclate Baked,Bolivar,Technology,Phones,71,0.15,Yuan Renminbi
+93,8456,4/23/2019,11/5/2013,Second Class,4421,Louella Banghe,Consumer,France,Nantes,Pays de la Loire,44036 CEDEX 1,North,3198,Beef - Tenderloin,Euro,Furniture,Chairs,25,0.35,Euro
+94,5557,12/19/2013,10/30/2015,Same Day,2755,Nessa Jurgen,Home Office,Indonesia,Sepanjang,,,North,6906,"Yogurt - Cherry, 175 Gr",Rupiah,Furniture,Phones,97,0.23,Yuan Renminbi
+95,9645,12/29/2021,5/10/2020,First Class,8257,Juline Spriggin,Home Office,Russia,Perfilovo,,665220,West,4464,Grapes - Green,Ruble,Technology,Accessories,83,0.08,Rupiah
+96,1730,3/10/2017,12/2/2017,First Class,7614,Dennet Owenson,Home Office,Germany,Berlin,Berlin,12437,East,4785,Island Oasis - Raspberry,Euro,Furniture,Paper,19,0.06,Euro
+97,3405,8/1/2013,12/14/2014,Standard Class,9969,Venus Drydale,Home Office,Russia,Kubachi,,368586,North,5281,Lamb - Whole Head Off,Ruble,Furniture,Accessories,7,0.18,Zloty
+98,7111,5/12/2012,12/26/2010,First Class,5439,Saunder Renfield,Consumer,Russia,Berezniki,,618409,East,4567,Boogies,Ruble,Furniture,Phones,88,0.09,Yen
+99,5553,2/27/2022,7/24/2015,Standard Class,4380,Herby Apps,Corporate,Poland,Wyszogród,,09-450,North,3930,Sole - Fillet,Zloty,Office Supplies,Tables,54,0.02,Yuan Renminbi
+100,8285,5/19/2019,3/16/2019,Standard Class,8221,Annabel Roft,Consumer,East Timor,Same,,,South,1241,Bread - Hot Dog Buns,Dollar,Furniture,Accessories,41,0.04,Yuan Renminbi
+101,6634,10/13/2015,6/28/2013,First Class,1661,Billy Chessor,Corporate,Indonesia,Wolofeo,,,West,4129,"Wine - Red, Cooking",Rupiah,Office Supplies,Phones,23,0.01,Real
+102,4819,4/2/2013,11/30/2022,Same Day,5894,Glori Aleveque,Consumer,United States,Bryan,Texas,77806,East,5973,Mushroom - Portebello,Dollar,Furniture,Accessories,27,0.27,Yuan Renminbi
+103,3915,1/1/2012,1/16/2013,First Class,2762,Orren Bucksey,Home Office,Equatorial Guinea,Río Campo,,,North,8844,Salami - Genova,Franc,Technology,Accessories,89,0.02,Yuan Renminbi
+104,7982,12/12/2011,11/7/2017,Same Day,6002,Beverie Silly,Home Office,Brazil,Lago dos Rodrigues,,65712-000,West,8418,"Tray - Foam, Square 4 - S",Real,Technology,Chairs,63,0.4,Rupiah
+105,9794,2/5/2014,12/14/2014,First Class,4207,Cullin Frowd,Home Office,Sweden,Lomma,Skåne,234 27,East,6135,"Bread - Roll, Italian",Krona,Technology,Accessories,28,0.16,Yuan Renminbi
+106,4472,11/30/2015,3/17/2021,Second Class,6868,Elbert Moston,Home Office,Indonesia,Mesa,,,East,9294,Cheese - Marble,Rupiah,Furniture,Paper,100,0.28,Yen
+107,7718,12/22/2010,8/11/2017,Standard Class,7345,Storm Luckey,Corporate,South Africa,Villiers,,9840,East,2260,Vinegar - Tarragon,Rand,Technology,Accessories,83,0.49,Bolivar
+108,9653,12/28/2018,11/6/2014,Standard Class,7625,Holly-anne Kestle,Consumer,Czech Republic,Hovězí,,756 01,North,4453,"Nut - Walnut, Chopped",Koruna,Technology,Tables,76,0.04,Ruble
+109,4579,9/27/2019,10/10/2013,Standard Class,7505,Armand Lampert,Home Office,Indonesia,Andongrejo,,,South,6598,Muffin - Blueberry Individual,Rupiah,Technology,Chairs,28,0.45,Yuan Renminbi
+110,2175,6/26/2020,7/6/2014,Same Day,7818,Tull Schohier,Consumer,Poland,Lipce Reymontowskie,,96-127,North,8677,Coconut Milk - Unsweetened,Zloty,Office Supplies,Accessories,1,0.38,Peso
+111,9925,2/6/2015,3/23/2015,Second Class,4283,Nelly Hewins,Consumer,Palestinian Territory,Dayr al Ghuşūn,,,South,4577,"Wine - White, Riesling, Henry Of",Shekel,Technology,Phones,41,0.49,Peso
+112,3736,11/2/2022,6/21/2019,Same Day,7264,Marcelle Atwood,Home Office,Brazil,Barra do Corda,,65950-000,East,9946,Sauce - Vodka Blush,Real,Technology,Paper,27,0.33,Peso
+113,4302,5/31/2017,6/30/2022,Same Day,1915,Randie Boutell,Consumer,Philippines,Bagay,,1697,North,2373,Soup - Campbells Chili,Peso,Technology,Tables,4,0.06,Rupee
+114,6338,11/5/2022,8/11/2012,Standard Class,9029,Carlynne Tite,Home Office,Pakistan,Risālpur,,24081,East,5966,Tuna - Bluefin,Rupee,Furniture,Paper,3,0.39,Yuan Renminbi
+115,4167,8/1/2011,11/10/2015,Standard Class,9259,Ranee Avrashin,Home Office,China,Zhangjiaji,,,West,1798,Spice - Peppercorn Melange,Yuan Renminbi,Technology,Chairs,59,0.05,Kuna
+116,3581,7/30/2016,8/7/2018,Same Day,7498,Tanya Towler,Corporate,China,Liujia,,,North,7395,Salt And Pepper Mix - Black,Yuan Renminbi,Technology,Phones,96,0.18,Koruna
+117,8409,6/12/2017,2/19/2014,Standard Class,8189,Bee Lattimore,Consumer,Vietnam,Ô Môn,,,West,5694,Cabbage - Green,Dong,Furniture,Accessories,61,0.14,Ruble
+118,3840,9/12/2017,11/17/2016,Same Day,6763,Cchaddie Meates,Corporate,Poland,Komprachcice,,46-070,South,5842,"Bread - Roll, Soft White Round",Zloty,Technology,Phones,9,0.08,Krona
+119,3448,11/16/2021,8/3/2020,Standard Class,6177,Jake Denge,Corporate,Ukraine,Budy,,,South,3525,Oil - Hazelnut,Hryvnia,Technology,Paper,21,0.14,Rupiah
+120,3488,1/7/2022,11/25/2010,Standard Class,8787,Curcio Sitch,Home Office,China,Guzhuyingzi,,,North,6753,"Soup - Campbells, Creamy",Yuan Renminbi,Furniture,Paper,97,0.16,Dollar
+121,8306,7/13/2013,8/19/2011,Same Day,2311,Lilas Treppas,Corporate,China,Heshengbao,,,West,2506,Iced Tea Concentrate,Yuan Renminbi,Office Supplies,Phones,71,0.06,Yuan Renminbi
+122,3704,5/8/2012,3/10/2020,First Class,7503,Iolande Berkeley,Home Office,Sweden,Sölvesborg,Blekinge,294 74,West,4242,Vol Au Vents,Krona,Technology,Tables,52,0.09,Rupiah
+123,8687,7/14/2022,9/30/2016,Same Day,6077,Caresse Stitwell,Corporate,China,Xiashuitou,,,North,1377,Extract - Rum,Yuan Renminbi,Furniture,Chairs,60,0.08,Yuan Renminbi
+124,4687,1/24/2017,10/6/2018,Second Class,8192,Mae Terne,Consumer,Sweden,Uppsala,Uppsala,754 48,West,6827,Veal - Loin,Krona,Furniture,Chairs,18,0.39,Baht
+125,8084,4/12/2015,7/17/2014,Standard Class,2608,Dyanna Scarlett,Corporate,France,Istres,Provence-Alpes-Côte d'Azur,13802 CEDEX,East,7487,"Yeast - Fresh, Fleischman",Euro,Office Supplies,Accessories,76,0.41,Rial
+126,4336,7/25/2021,11/14/2015,Second Class,2521,Chick Flavelle,Corporate,Indonesia,Kaliasin,,,East,8667,"Wine - Red, Wolf Blass, Yellow",Rupiah,Office Supplies,Chairs,42,0.2,Dirham
+127,7581,3/6/2022,9/15/2013,Standard Class,7375,Krystalle Farrar,Consumer,Indonesia,Krajan,,,South,8058,Island Oasis - Strawberry,Rupiah,Office Supplies,Chairs,70,0.2,Real
+128,8020,6/6/2013,5/25/2011,Second Class,6212,Marlene Greetland,Corporate,Czech Republic,Libušín,,273 06,North,3238,"Pepper - White, Ground",Koruna,Technology,Chairs,5,0.3,Franc
+129,7855,11/14/2021,5/12/2020,Second Class,4997,Kristien Knappett,Corporate,Croatia,Ugljan,,23275,East,9787,Beer - Blue Light,Kuna,Furniture,Tables,70,0.31,Zloty
+130,4929,4/14/2013,3/13/2022,First Class,3785,Elianore Oxberry,Consumer,China,Taozixi,,,South,4826,Wine - Penfolds Koonuga Hill,Yuan Renminbi,Office Supplies,Phones,14,0.42,Yen
+131,7516,6/6/2010,11/6/2016,Second Class,2485,Julius Raycroft,Consumer,Philippines,San Gregorio,,4325,North,2756,Tuna - Fresh,Peso,Technology,Tables,19,0.05,Naira
+132,5182,7/30/2012,10/25/2021,Same Day,6864,Nixie Buncombe,Corporate,Russia,Rameshki,,171439,West,9136,Worcestershire Sauce,Ruble,Technology,Phones,37,0.43,Ruble
+133,2550,9/6/2019,4/11/2017,Second Class,1699,Meriel Gronw,Corporate,China,Duzhou,,,East,1521,Onions - Red,Yuan Renminbi,Office Supplies,Phones,38,0.34,Dong
+134,3037,4/20/2017,1/7/2012,Standard Class,5678,Esmaria Lough,Corporate,China,Xin’an,,,West,8782,Sprouts - Pea,Yuan Renminbi,Furniture,Tables,86,0.33,Yuan Renminbi
+135,8860,9/7/2016,12/6/2022,Second Class,5954,Alica Barnwell,Corporate,China,Leyuan,,,South,1468,Pastry - Cherry Danish - Mini,Yuan Renminbi,Office Supplies,Paper,67,0.44,Euro
+136,9399,1/24/2016,6/4/2017,Standard Class,9707,Carlee Bern,Home Office,Venezuela,Aricagua,,,East,9001,"Pasta - Cappellini, Dry",Bolivar,Furniture,Tables,56,0.12,Yuan Renminbi
+137,9649,8/13/2010,10/19/2013,Standard Class,6534,Irita Rookes,Corporate,Croatia,Lopar,,51281,North,6938,Star Fruit,Kuna,Furniture,Paper,43,0.09,Denar
+138,3512,6/13/2016,9/6/2019,First Class,6253,Cassy Kreuzer,Home Office,Argentina,Mendoza,,5500,West,7035,Beer - Upper Canada Light,Peso,Office Supplies,Tables,25,0.31,Euro
+139,2124,3/7/2010,12/10/2016,Second Class,3127,Hewe Sarl,Corporate,Guatemala,Jutiapa,,22001,West,3385,Chocolate Bar - Oh Henry,Quetzal,Furniture,Phones,20,0.18,Peso
+140,3825,7/19/2012,4/5/2017,First Class,1811,Cicely Drage,Home Office,Philippines,Malita,,8012,West,8121,"Mushroom - Shitake, Fresh",Peso,Office Supplies,Chairs,13,0.4,Peso
+141,2193,7/29/2014,2/22/2018,Second Class,7879,Florrie Di Nisco,Consumer,China,Donghai,,,South,1973,Pastry - Chocolate Marble Tea,Yuan Renminbi,Furniture,Phones,79,0.4,Rial
+142,9750,3/7/2015,3/12/2014,First Class,2926,Pammy Rene,Corporate,France,Lyon,Rhône-Alpes,69303 CEDEX 07,East,1943,"Cheese - Cheddar, Old White",Euro,Technology,Paper,47,0.36,Yuan Renminbi
+143,4448,1/28/2015,5/29/2013,Second Class,2407,Bartel Hobbert,Consumer,Brazil,Ipatinga,,35160-000,West,8383,Sunflower Seed Raw,Real,Technology,Tables,2,0.44,Yuan Renminbi
+144,6067,2/24/2012,9/20/2010,First Class,5832,Inessa Finby,Consumer,Sweden,Piteå,Norrbotten,941 65,North,5536,Pate - Liver,Krona,Furniture,Chairs,18,0.13,Peso
+145,6141,7/12/2016,6/2/2016,Standard Class,8762,Philip Conrart,Home Office,Malawi,Nkhotakota,,,East,9146,Beef Tenderloin Aaa,Kwacha,Furniture,Tables,8,0.43,Rupiah
+146,3460,12/20/2017,1/23/2010,First Class,4154,Purcell Trebbett,Corporate,Russia,Kikerino,,188420,South,5314,Bread - Corn Muffaleta Onion,Ruble,Office Supplies,Paper,57,0.44,Dong
+147,3876,9/20/2017,12/30/2021,Same Day,8975,Obidiah Hellen,Home Office,Peru,Cusco,,,South,3004,Table Cloth 81x81 White,Sol,Office Supplies,Phones,1,0.31,Yuan Renminbi
+148,8789,8/1/2020,1/31/2014,First Class,8061,Bradford Rouchy,Consumer,Russia,Tikhvin,,187557,East,8745,Spice - Pepper Portions,Ruble,Furniture,Tables,35,0.17,Shilling
+149,7924,6/3/2012,1/21/2013,Same Day,7156,Ned Derr,Consumer,Thailand,Wang Saphung,,42130,South,2912,Corn Kernels - Frozen,Baht,Office Supplies,Phones,21,0.35,Peso
+150,6235,5/1/2020,12/20/2020,Standard Class,5595,Karlan Ast,Home Office,Slovenia,Bovec,,5230,South,5524,Rice Paper,Euro,Office Supplies,Phones,99,0.07,Euro
+151,1631,6/30/2015,1/28/2021,Second Class,2967,Flin Pearcy,Home Office,Indonesia,Tetebatu,,,South,2499,Apple - Custard,Rupiah,Technology,Chairs,84,0.1,Yuan Renminbi
+152,9997,10/23/2018,2/8/2014,Standard Class,7662,Blake Naton,Corporate,Canada,Airdrie,Alberta,T4B,East,4165,"Sauce - Bernaise, Mix",Dollar,Office Supplies,Phones,74,0.5,Denar
+153,7274,2/23/2010,2/26/2011,Same Day,6039,Pietrek Dufaire,Home Office,Indonesia,Pasargunung,,,North,9399,Lettuce - Iceberg,Rupiah,Office Supplies,Phones,55,0.22,Naira
+154,9411,8/23/2012,10/23/2015,Standard Class,6061,Jessika Rebanks,Home Office,United States,Lansing,Michigan,48930,East,8192,Gloves - Goldtouch Disposable,Dollar,Furniture,Accessories,92,0.16,Rupiah
+155,4221,12/28/2019,11/15/2013,First Class,9630,Barry Corden,Consumer,Hungary,Budapest,Budapest,1035,West,6065,Chicken - Livers,Forint,Furniture,Paper,59,0.47,Rupiah
+156,2562,4/2/2021,2/1/2012,Standard Class,6737,Jerrilyn Hulse,Consumer,Greece,Níkaia,,,South,5576,Muffin Batt - Choc Chk,Euro,Furniture,Chairs,23,0.45,Euro
+157,6727,8/30/2020,9/29/2022,Same Day,6583,Mariana Pettican,Corporate,Poland,Kunów,,27-415,East,2158,Table Cloth 90x90 Colour,Zloty,Office Supplies,Phones,29,0.15,Rupiah
+158,9828,8/9/2014,2/4/2018,Standard Class,7344,Stacee Ramsden,Corporate,Indonesia,Lemahputih,,,East,3192,Marjoram - Fresh,Rupiah,Technology,Tables,58,0.06,Franc
+159,8317,12/2/2010,10/31/2017,Same Day,9311,Fredrick Layland,Consumer,Israel,Ramat Yishay,,,North,1966,"Beef - Bones, Marrow",Shekel,Office Supplies,Tables,23,0.12,Euro
+160,3895,11/7/2020,5/8/2020,First Class,8095,Sterling Pollock,Corporate,Russia,Malgobek,,386340,South,3611,"Lamb - Leg, Bone In",Ruble,Office Supplies,Chairs,8,0.09,Baht
+161,9955,6/3/2018,10/13/2017,Standard Class,2239,Roxi Atherton,Consumer,China,Hedong,,,East,3441,"Basil - Primerba, Paste",Yuan Renminbi,Technology,Paper,17,0.07,Krona
+162,8526,6/24/2017,6/2/2018,Second Class,5750,Carlina Tooting,Consumer,Bulgaria,Yambol,,8600,North,2271,Food Colouring - Red,Lev,Furniture,Accessories,48,0.24,Rupiah
+163,4937,4/21/2021,7/17/2018,Second Class,8906,Merl Preator,Corporate,China,Tuoshi,,,West,6898,"Chicken - Wings, Tip Off",Yuan Renminbi,Office Supplies,Tables,28,0.35,Rupiah
+164,4908,4/24/2021,3/13/2019,First Class,3350,Gordie Spillman,Corporate,China,Honggang,,,North,6781,Coffee Cup 8oz 5338cd,Yuan Renminbi,Technology,Accessories,88,0.31,Peso
+165,4494,9/4/2014,8/25/2016,Same Day,4843,Cristie Cockrill,Consumer,Philippines,Pata,,7405,West,4932,Cheese - Ermite Bleu,Peso,Technology,Chairs,73,0.39,Yuan Renminbi
+166,6162,10/2/2016,1/16/2010,Standard Class,5832,Heall MacNaughton,Corporate,Philippines,Bulog,,2419,East,2277,Duck - Breast,Peso,Technology,Paper,70,0.35,Ruble
+167,8943,3/30/2014,6/16/2010,First Class,5293,Kiley Bortolazzi,Home Office,Mexico,Independencia,Mexico,56617,South,7952,Chef Hat 20cm,Peso,Furniture,Tables,89,0.37,Euro
+168,8366,11/30/2019,7/29/2016,Standard Class,9376,Grant Hacun,Home Office,Philippines,Bolilao,,1045,North,4406,Cheese - Parmesan Cubes,Peso,Office Supplies,Accessories,97,0.21,Dollar
+169,1964,10/25/2014,9/29/2015,Standard Class,9626,Ogden Markey,Consumer,China,Songbo,,,South,3963,"Coconut - Shredded, Sweet",Yuan Renminbi,Technology,Tables,30,0.06,Euro
+170,4777,5/27/2017,3/13/2013,Second Class,6067,Camille Edkins,Consumer,Poland,Ursynów,,15-134,North,9843,Fruit Salad Deluxe,Zloty,Office Supplies,Tables,50,0.23,Yuan Renminbi
+171,4162,10/22/2016,2/24/2018,Standard Class,9736,Pauly Hanniger,Consumer,Tunisia,Zaghouan,,,West,1685,Paper Towel Touchless,Dinar,Office Supplies,Chairs,56,0.22,Rupee
+172,5162,4/14/2010,10/16/2021,Standard Class,4081,Barry Uff,Corporate,Nigeria,Bauchi,,,South,4692,Carbonated Water - Peach,Naira,Furniture,Paper,14,0.38,Peso
+173,5048,12/8/2011,8/25/2018,Second Class,9519,Barrett Caffrey,Home Office,China,Sanhe,,,South,2843,Beans - Green,Yuan Renminbi,Office Supplies,Phones,91,0.07,Yen
+174,9709,1/25/2018,6/19/2010,Standard Class,1080,Rollo Swigger,Home Office,Colombia,Leticia,,910008,South,4803,Flax Seed,Peso,Office Supplies,Accessories,30,0.41,Dollar
+175,5782,9/6/2010,10/14/2020,Same Day,9116,Tyler Jouannisson,Consumer,Ukraine,Ivanivka,,,East,6127,"Wine - White, Colubia Cresh",Hryvnia,Office Supplies,Tables,62,0.19,Ngultrum
+176,9253,11/21/2022,10/1/2019,Same Day,9232,Sapphira Skellorne,Corporate,United States,Fullerton,California,92835,West,8834,Wine - Prosecco Valdobiaddene,Dollar,Office Supplies,Chairs,31,0.33,Pula
+177,8774,1/31/2016,11/10/2020,First Class,2548,Olia Gracewood,Home Office,Armenia,Musalerr,,,South,6150,"Cake Circle, Foil, Scallop",Dram,Furniture,Paper,84,0.3,Koruna
+178,5540,12/1/2019,4/13/2016,Standard Class,9411,Darin Gheorghie,Home Office,France,Lille,Nord-Pas-de-Calais,59865 CEDEX 9,South,2091,Pail For Lid 1537,Euro,Technology,Chairs,37,0.05,Yuan Renminbi
+179,8668,3/12/2011,9/25/2020,First Class,1911,Wallis Dodge,Corporate,Japan,Tamana,,865-0005,South,8120,Pate - Liver,Yen,Furniture,Paper,38,0.1,Rupiah
+180,9755,12/17/2019,6/6/2016,Standard Class,9879,Maribeth Gonthard,Consumer,Sweden,Askim,Västra Götaland,436 23,South,2236,Salt And Pepper Mix - Black,Krona,Technology,Chairs,71,0.15,Yuan Renminbi
+181,6159,9/27/2021,8/4/2010,First Class,7355,Philip Elsey,Corporate,Indonesia,Teluksantong,,,West,8666,"Trout - Rainbow, Frozen",Rupiah,Technology,Accessories,40,0.2,Rial
+182,3871,5/10/2011,10/7/2014,Standard Class,4700,Sigismond Fall,Corporate,Canada,Kensington,Prince Edward Island,S7K,East,3204,Cinnamon Buns Sticky,Dollar,Technology,Phones,7,0.2,Peso
+183,1018,1/7/2013,5/14/2022,Same Day,9078,Ivette Menis,Consumer,Honduras,El Paraíso,,,West,1971,Orange Roughy 4/6 Oz,Lempira,Technology,Tables,83,0.27,Euro
+184,9495,2/1/2014,9/3/2019,Standard Class,2720,Saunders Zellmer,Home Office,Philippines,Tapayan,,1711,East,4236,Honey - Lavender,Peso,Technology,Tables,24,0.49,Yuan Renminbi
+185,4215,12/16/2011,6/8/2010,First Class,6492,Carolina Cullum,Home Office,Venezuela,El Sombrero,,,East,1476,Rolled Oats,Bolivar,Technology,Paper,10,0.29,Euro
+186,7079,7/30/2011,9/6/2014,First Class,9625,Augustus Tasch,Consumer,Brazil,Sumaré,,13170-000,North,2665,Beer - Camerons Cream Ale,Real,Furniture,Phones,12,0.19,Real
+187,1096,9/4/2012,7/15/2018,Standard Class,6517,Martha Okell,Consumer,Sweden,Falun,Dalarna,791 26,East,7380,"Bread - Rolls, Rye",Krona,Furniture,Phones,34,0.42,Zloty
+188,9384,12/2/2013,3/21/2022,First Class,6712,Jeth Thain,Consumer,China,Zhexiao,,,West,5766,Wine - German Riesling,Yuan Renminbi,Office Supplies,Paper,36,0.21,Dinar
+189,1676,1/3/2011,2/1/2014,First Class,2764,Debby Aberkirder,Home Office,Sweden,Västerås,Västmanland,723 35,South,1057,"Oregano - Dry, Rubbed",Krona,Office Supplies,Paper,72,0.16,Euro
+190,4983,10/1/2017,10/4/2019,First Class,7394,Perla Matic,Home Office,Portugal,Boucinhas,Porto,4650-805,South,1353,Olive - Spread Tapenade,Euro,Technology,Accessories,6,0.43,Rupiah
+191,5417,5/7/2016,9/6/2021,Standard Class,4291,Jacquenette Mitchelson,Home Office,Indonesia,Lailunggi,,,South,5652,Icecream - Dstk Super Cone,Rupiah,Furniture,Tables,23,0.11,Sol
+192,1938,3/29/2011,7/26/2010,First Class,2169,Allen Brady,Consumer,Ukraine,Zgurovka,,,South,2488,Saskatoon Berries - Frozen,Hryvnia,Office Supplies,Accessories,67,0.39,Sol
+193,1034,7/18/2018,4/22/2019,Standard Class,8540,Nissy O'Caherny,Corporate,Brazil,Brumado,,46100-000,North,7506,Clam Nectar,Real,Office Supplies,Chairs,65,0.04,Peso
+194,9195,7/24/2019,11/27/2016,Same Day,2872,Petronia Lerner,Home Office,China,Caohe,,,North,3424,Extract - Almond,Yuan Renminbi,Furniture,Accessories,40,0.44,Euro
+195,8701,4/17/2013,7/4/2013,Standard Class,2429,Solomon Valentino,Corporate,Portugal,Cotovia,Setúbal,2970-294,West,2376,Appetizer - Tarragon Chicken,Euro,Office Supplies,Phones,53,0.25,Real
+196,7020,11/8/2012,7/23/2016,First Class,3909,Pamelina Nottingham,Home Office,Bosnia and Herzegovina,Nevesinje,,,South,6335,"Soup - Knorr, Ministrone",Marka,Technology,Chairs,82,0.28,Franc
+197,5742,10/23/2015,11/19/2010,Same Day,9615,Davy Forrest,Consumer,Peru,Huayacundo Arma,,,East,3324,Milk - Skim,Sol,Technology,Chairs,73,0.14,Euro
+198,9490,8/3/2019,9/28/2019,Second Class,3987,Gay Trembley,Corporate,Gabon,Franceville,,,South,4502,Juice - Lime,Franc,Technology,Phones,5,0.45,Lempira
+199,7547,1/23/2016,4/12/2018,Second Class,2590,Truda Shalcras,Corporate,Russia,Spas-Zaulok,,141667,West,2195,Mix - Cocktail Strawberry Daiquiri,Ruble,Technology,Tables,27,0.08,Som
+200,4184,10/15/2020,7/21/2010,First Class,8266,Alley Rippen,Consumer,China,Lecheng,,,South,5937,Creme De Cacao Mcguines,Yuan Renminbi,Furniture,Chairs,87,0.25,Ruble
+201,1703,5/9/2016,1/7/2014,Second Class,5790,Elke Tinkler,Corporate,Tanzania,Mtinko,,,North,3703,Cake - Cheese Cake 9 Inch,Shilling,Technology,Paper,94,0.48,Rupiah
+202,8275,7/12/2012,3/3/2018,Standard Class,1046,Joni Jesse,Home Office,South Africa,Port Nolloth,,8284,North,9609,Puree - Blackcurrant,Rand,Office Supplies,Paper,45,0.22,Zloty
+203,2287,1/24/2010,11/7/2015,Second Class,8654,Darline Ebertz,Home Office,Russia,Nesterovskaya,,386250,South,6848,Pepper - Green,Ruble,Furniture,Accessories,56,0.27,Euro
+204,8934,3/10/2017,3/6/2014,Second Class,4107,Joly O'Skehan,Consumer,China,Qingshi,,,North,1236,"Nut - Almond, Blanched, Ground",Yuan Renminbi,Technology,Phones,45,0.46,Peso
+205,5878,7/26/2015,2/23/2019,Same Day,7063,Sondra Endrighi,Corporate,China,Banpu,,,South,5194,"Beef - Rib Roast, Cap On",Yuan Renminbi,Office Supplies,Phones,42,0.3,Yuan Renminbi
+206,6333,8/3/2010,1/10/2018,First Class,5887,Tammy Denacamp,Consumer,Portugal,Vilar do Monte,Braga,4750-789,East,9827,Cookie Dough - Peanut Butter,Euro,Technology,Chairs,59,0.34,Real
+207,4357,8/27/2017,6/4/2013,Standard Class,9210,Tyson Dedham,Corporate,China,Guajiasi,,,West,7761,"Mushroom - Morels, Dry",Yuan Renminbi,Office Supplies,Paper,74,0.23,Yen
+208,6566,8/3/2016,10/19/2010,Standard Class,7660,Tilly Whilder,Corporate,Madagascar,Ampasimanolotra,,,North,2990,"Lettuce - Mini Greens, Whole",Ariary,Office Supplies,Phones,35,0.2,Euro
+209,9864,3/7/2017,7/10/2020,Same Day,5436,Michaelina Smitton,Corporate,Sweden,Hägersten,Stockholm,126 36,North,7341,Beer - Camerons Cream Ale,Krona,Technology,Tables,88,0.11,Yuan Renminbi
+210,1810,7/29/2013,2/1/2013,Standard Class,8132,Yolande Ferrer,Consumer,China,Fuzhuang,,,South,5619,Soup - Campbells Bean Medley,Yuan Renminbi,Furniture,Phones,90,0.26,Peso
+211,2760,4/1/2016,11/18/2011,Second Class,9296,Robb Bardill,Home Office,Portugal,Portela,Viana do Castelo,4970-585,East,4790,White Fish - Filets,Euro,Technology,Phones,98,0.2,Krone
+212,4656,7/26/2021,12/17/2013,Same Day,9466,Buffy Gornar,Consumer,Ukraine,Krasnohrad,,,East,4550,Wasabi Powder,Hryvnia,Office Supplies,Paper,63,0.48,Euro
+213,3557,3/15/2010,1/6/2019,Standard Class,8984,Beniamino Attrie,Corporate,China,Yangzhuang,,,West,8039,Fennel - Seeds,Yuan Renminbi,Office Supplies,Chairs,2,0.19,Euro
+214,9146,6/22/2021,8/20/2019,Standard Class,3536,Moishe Copello,Home Office,Russia,Klyuchevsk,,623725,North,4005,Pastry - Trippleberry Muffin - Mini,Ruble,Office Supplies,Tables,92,0.1,Yuan Renminbi
+215,8357,4/14/2016,9/14/2018,Same Day,8631,Dag Hospital,Consumer,Vietnam,Phú Thái,,,West,2162,"Oil - Shortening,liqud, Fry",Dong,Technology,Paper,18,0.49,Euro
+216,5147,7/31/2017,1/5/2020,Same Day,8972,Netta Macconachy,Home Office,United States,Lawrenceville,Georgia,30045,South,7230,Soup - Cream Of Potato / Leek,Dollar,Office Supplies,Tables,3,0.14,Koruna
+217,4666,3/8/2017,1/6/2022,First Class,7805,Matthieu Neilands,Home Office,Russia,Pionerskiy,,238590,West,7596,"Beef - Baby, Liver",Ruble,Office Supplies,Phones,79,0.43,Dram
+218,7658,11/18/2021,8/20/2022,Standard Class,6683,Les Tewkesberrie,Corporate,China,Hengshui,,,North,2773,"Rum - White, Gg White",Yuan Renminbi,Technology,Tables,35,0.31,Ringgit
+219,7330,9/20/2014,11/27/2018,First Class,7534,Philomena Wife,Consumer,Laos,Ban Nahin,,,East,3967,Garbage Bag - Clear,Kip,Furniture,Tables,57,0.09,Pound
+220,5730,10/9/2011,10/14/2015,Second Class,9809,Ev McGenis,Corporate,Brazil,Peabiru,,87250-000,East,6868,Caviar - Salmon,Real,Technology,Phones,35,0.07,Dollar
+221,3453,7/14/2015,5/7/2020,Second Class,1341,Sabra Ducker,Consumer,Poland,Czerwin,,07-407,West,4815,Wine - Sicilia Igt Nero Avola,Zloty,Technology,Chairs,53,0.45,Krona
+222,7746,12/8/2011,1/29/2019,Standard Class,4861,Damara Berford,Consumer,Indonesia,Faeanak Dua,,,North,9771,Salt - Sea,Rupiah,Office Supplies,Accessories,1,0.18,Dirham
+223,7591,9/12/2011,10/17/2017,First Class,4307,Natasha Jaume,Home Office,China,Pingshan,,,East,4645,"Water - Spring Water, 355 Ml",Yuan Renminbi,Furniture,Chairs,18,0.25,Franc
+224,4423,8/10/2012,8/11/2010,Second Class,5230,Noelani Olwen,Consumer,Russia,Pavlovka,,446154,South,3607,Ham - Cooked,Ruble,Technology,Phones,13,0.3,Euro
+225,6274,8/20/2016,1/8/2011,Same Day,3919,Bonnie Caple,Corporate,China,Tianmuhu,,,South,2769,Blueberries - Frozen,Yuan Renminbi,Office Supplies,Phones,35,0.37,Euro
+226,8543,7/11/2011,8/8/2016,Standard Class,9375,Iggy Feehan,Consumer,Colombia,Balboa,,662017,South,2966,Buffalo - Striploin,Peso,Technology,Tables,34,0.01,Rupiah
+227,7777,8/21/2011,4/8/2019,Same Day,6096,Raychel Thody,Corporate,China,Yanling,,,East,4946,Bread - Corn Muffaletta,Yuan Renminbi,Technology,Accessories,55,0.41,Ruble
+228,3881,4/15/2014,6/3/2017,Same Day,9020,Annnora Keesman,Home Office,South Africa,Bhisho,,3837,North,8600,Mortadella,Rand,Office Supplies,Paper,13,0.48,Ruble
+229,4642,10/3/2019,8/20/2012,First Class,5372,Meade Seggie,Home Office,Poland,Łaszczów,,22-650,South,8007,Pepper - Green Thai,Zloty,Office Supplies,Phones,35,0.35,Euro
+230,3779,4/10/2016,10/7/2011,Standard Class,7715,Zsa zsa Van Dale,Corporate,Poland,Jelcz,,91-864,North,1354,Bread - Corn Muffaletta,Zloty,Technology,Chairs,26,0.41,Yuan Renminbi
+231,5424,8/26/2019,7/30/2013,Second Class,1875,Gregor Toffanini,Consumer,Portugal,Cabanas de Viriato,Viseu,3430-605,South,3944,Potatoes - Mini White 3 Oz,Euro,Furniture,Tables,43,0.19,Ruble
+232,5219,10/31/2014,11/20/2010,Standard Class,6114,Gertrud Lucius,Home Office,Mongolia,Bayanhongor,,,North,9479,Cheese - Le Cru Du Clocher,Tugrik,Office Supplies,Chairs,75,0.34,Euro
+233,4887,12/12/2020,1/2/2022,First Class,6829,Edin Josefs,Home Office,Sweden,Filipstad,Värmland,682 33,North,3240,"Iced Tea - Lemon, 340ml",Krona,Technology,Accessories,79,0.4,Yuan Renminbi
+234,8806,10/11/2013,6/9/2018,Second Class,8037,Winny Peatt,Consumer,Philippines,Cantilan,,8316,North,4132,Coffee - 10oz Cup 92961,Peso,Furniture,Phones,50,0.23,Yuan Renminbi
+235,6206,6/3/2021,8/6/2018,Standard Class,5311,Daffy Ealden,Home Office,Ireland,Manorhamilton,,H16,North,9360,Steam Pan Full Lid,Euro,Office Supplies,Paper,54,0.3,Rupiah
+236,8552,11/27/2017,1/12/2017,First Class,5738,Tine Snowden,Consumer,Serbia,Ševica,,,North,5858,Beer - Blue,Dinar,Office Supplies,Phones,88,0.01,Peso
+237,9978,7/17/2014,1/11/2010,Second Class,9907,Renie Johnston,Consumer,China,Tonghong,,,South,4659,Lambcasing,Yuan Renminbi,Technology,Phones,48,0.5,Dollar
+238,5135,9/13/2020,5/26/2011,Same Day,2540,Leanna Greber,Corporate,Poland,Tuchów,,33-170,South,1938,"Beans - Turtle, Black, Dry",Zloty,Office Supplies,Accessories,26,0.02,Yuan Renminbi
+239,5108,1/3/2010,8/13/2021,Standard Class,6517,Michell Cheasman,Consumer,China,Lichengdao,,,West,5718,Pork - Kidney,Yuan Renminbi,Office Supplies,Phones,26,0.33,Krona
+240,7380,10/23/2014,8/13/2020,Standard Class,6719,Karim Malinowski,Corporate,China,Zhendong,,,East,4715,Beer - Labatt Blue,Yuan Renminbi,Technology,Accessories,96,0.42,Yuan Renminbi
+241,2591,8/2/2018,4/2/2020,Second Class,2603,Scarface Okker,Consumer,Sweden,Åtvidaberg,Östergötland,597 96,South,8219,Wine - Pinot Noir Mondavi Coastal,Krona,Furniture,Phones,100,0.03,Peso
+242,9084,7/3/2019,12/17/2010,First Class,4039,Darcey Sahlstrom,Home Office,China,Donggaocun,,,East,7839,Cake - Dulce De Leche,Yuan Renminbi,Furniture,Accessories,38,0.19,Yuan Renminbi
+243,3188,8/10/2020,7/22/2014,Second Class,9094,Alfreda Schutte,Corporate,China,Shixi,,,West,6260,Squid - Tubes / Tenticles 10/20,Yuan Renminbi,Furniture,Phones,64,0.41,Euro
+244,8677,12/24/2020,9/2/2011,First Class,8362,Leah Malster,Home Office,Colombia,Plato,,475038,West,4009,Pan Grease,Peso,Office Supplies,Chairs,86,0.11,Yuan Renminbi
+245,3762,4/26/2016,9/21/2021,Same Day,6750,Harriot Maffy,Corporate,Palestinian Territory,Jayyūs,,,South,5832,Beef - Flank Steak,Shekel,Technology,Chairs,75,0.07,Yuan Renminbi
+246,2379,7/18/2019,7/7/2022,Standard Class,8835,Noelani Keady,Corporate,Indonesia,Gandapura,,,South,6603,Pork - European Side Bacon,Rupiah,Furniture,Chairs,55,0.24,Dollar
+247,4233,1/26/2017,7/26/2018,Same Day,8855,Hurley Gouldie,Consumer,China,Lingtou,,,South,7294,Cinnamon Buns Sticky,Yuan Renminbi,Technology,Chairs,45,0.3,Krona
+248,8396,3/30/2016,1/10/2015,First Class,9958,Merna Ogle,Consumer,Colombia,Sincelejo,,700017,South,1897,Shrimp - Prawn,Peso,Furniture,Accessories,90,0.26,Peso
+249,1686,6/23/2013,9/16/2017,Standard Class,8336,Jerome Guly,Corporate,Morocco,Timezgadiouine,,,South,9484,Wine - Ruffino Chianti,Dirham,Office Supplies,Chairs,60,0.21,Tugrik
+250,2377,9/17/2018,3/19/2018,Same Day,1136,Paulette Villa,Corporate,Switzerland,Zürich,Kanton Zürich,8042,North,2180,Turnip - White,Franc,Technology,Tables,73,0.46,Peso
+251,9139,3/30/2014,10/30/2021,Second Class,5301,Alberto Browncey,Home Office,Greece,Pigí,,,South,4707,Brandy Cherry - Mcguinness,Euro,Furniture,Accessories,33,0.31,Peso
+252,9099,11/26/2016,1/8/2012,Standard Class,6561,Katya Elintune,Corporate,China,Xikou,,,West,1730,"Pork - Bacon, Double Smoked",Yuan Renminbi,Technology,Tables,69,0.3,Rial
+253,8330,7/3/2020,9/10/2016,Second Class,4625,Melisandra Wolfindale,Consumer,Greece,Aíyira,,,South,2004,Isomalt,Euro,Office Supplies,Paper,100,0.2,Dollar
+254,5761,12/28/2011,6/3/2015,First Class,2331,Wylma Huttley,Home Office,Ecuador,Montecristi,,,North,8302,Nacho Chips,Dollar,Furniture,Accessories,73,0.23,Ruble
+255,7932,3/25/2018,5/9/2017,Same Day,8775,Marylee Avrahamof,Consumer,Philippines,Balibagan Oeste,,5001,East,3586,Wine - Mondavi Coastal Private,Peso,Technology,Phones,16,0.42,Denar
+256,8401,2/15/2020,11/1/2018,First Class,7723,Inna Oliva,Consumer,United States,Houston,Texas,77065,East,3810,Cod - Black Whole Fillet,Dollar,Technology,Tables,51,0.39,Real
+257,6199,5/27/2010,5/13/2017,Second Class,8018,Wendi Annable,Corporate,Denmark,København,Region Hovedstaden,1707,East,3634,Wine - Piper Heidsieck Brut,Krone,Office Supplies,Paper,22,0.08,Kwacha
+258,8185,3/26/2011,2/15/2012,Second Class,3108,Gaylord Cannell,Corporate,Portugal,Chão de Couce,Leiria,3240-466,East,2973,"Asparagus - White, Fresh",Euro,Technology,Phones,67,0.22,Yuan Renminbi
+259,8586,7/17/2020,3/21/2016,Same Day,3703,Laural Robbey,Home Office,Indonesia,Kademangan,,,North,3426,Spring Roll Wrappers,Rupiah,Technology,Chairs,86,0.15,Yuan Renminbi
+260,5526,4/3/2010,2/13/2019,First Class,3404,Hazlett Adamiec,Consumer,Chile,Lebu,,,South,4667,Cake Slab,Peso,Office Supplies,Paper,46,0.02,Rupiah
+261,4211,2/15/2013,12/18/2011,Same Day,1703,Silvana Langdon,Consumer,Angola,Nzeto,,,West,5389,"Pasta - Fettuccine, Egg, Fresh",Kwanza,Furniture,Tables,7,0.36,Rupiah
+262,1058,3/27/2012,4/16/2021,First Class,9432,Simmonds Clewett,Home Office,Brazil,Acaraú,,62580-000,East,6763,Bread Country Roll,Real,Furniture,Accessories,45,0.3,Dollar
+263,6296,8/17/2015,12/22/2016,First Class,9933,Chaddy Fawlo,Home Office,Russia,Chekmagush,,452200,North,1304,Sauce Bbq Smokey,Ruble,Furniture,Tables,91,0.28,Pound
+264,8455,11/24/2010,3/3/2020,Second Class,8356,Noel Poxon,Consumer,China,Fenyan,,,North,8204,Squid Ink,Yuan Renminbi,Office Supplies,Paper,44,0.42,Rupiah
+265,2824,1/15/2012,9/20/2012,Second Class,8744,Lucky Zarb,Consumer,China,Taobei,,,North,5840,"Brownies - Two Bite, Chocolate",Yuan Renminbi,Furniture,Phones,66,0.3,Dollar
+266,2303,3/23/2022,4/2/2016,Same Day,4577,Ashlee Spottswood,Home Office,Portugal,Vale da Pedra,Leiria,2425-502,North,8387,"Shrimp - Baby, Warm Water",Euro,Furniture,Paper,29,0.01,Ruble
+267,4748,11/30/2022,12/25/2016,Same Day,9281,Kitti Frean,Consumer,Indonesia,Barajalan,,,East,1255,Cheese - Victor Et Berthold,Rupiah,Furniture,Tables,46,0.04,Euro
+268,9299,4/30/2012,12/4/2015,Same Day,5124,Hannie Cartan,Consumer,China,Dongjingcheng,,,West,5089,"Zucchini - Mini, Green",Yuan Renminbi,Technology,Paper,33,0.09,Yuan Renminbi
+269,9506,11/12/2012,11/18/2010,Same Day,4778,Rock Szepe,Corporate,Japan,Sasayama,,963-4321,South,4457,Corn Syrup,Yen,Technology,Accessories,39,0.23,Yuan Renminbi
+270,3862,2/20/2013,6/13/2010,Standard Class,6199,Keenan Maith,Corporate,Moldova,Soroca,,MD-4901,South,4869,Cauliflower,Leu,Office Supplies,Accessories,40,0.45,Afghani
+271,8429,10/6/2019,6/27/2015,Same Day,4965,Adriana Bagge,Home Office,Saint Lucia,Castries,,,East,5754,Tea - Herbal - 6 Asst,Dollar,Office Supplies,Accessories,77,0.0,Peso
+272,7827,3/11/2011,4/30/2011,Second Class,5579,Munroe Fuidge,Corporate,Dominican Republic,Punta Cana,,11803,North,8013,Pur Value,Peso,Technology,Chairs,82,0.49,Lari
+273,3106,9/30/2011,11/8/2019,Same Day,2584,Vicki Deetch,Corporate,China,Gancheng,,,West,6865,Kellogs Raisan Bran Bars,Yuan Renminbi,Office Supplies,Paper,8,0.03,Yuan Renminbi
+274,9779,10/18/2014,4/30/2010,Second Class,3965,Eberto Klemmt,Consumer,Germany,Kassel,Hessen,34132,East,6283,Wine - Malbec Trapiche Reserve,Euro,Technology,Phones,44,0.25,Rupiah
+275,5152,11/11/2011,3/11/2018,Standard Class,7867,Locke Hancorn,Home Office,Tanzania,Malya,,,West,5180,"Wine - Red, Gamay Noir",Shilling,Office Supplies,Paper,38,0.22,Peso
+276,7325,12/7/2010,5/5/2012,Standard Class,3426,Kimbra Garfitt,Home Office,Indonesia,Kudang,,,North,4448,Table Cloth 53x69 White,Rupiah,Office Supplies,Chairs,14,0.1,Baht
+277,5519,10/23/2012,6/11/2020,Same Day,6441,Cecil Meysham,Consumer,Guatemala,Taxisco,,06009,North,6172,Turnip - Mini,Quetzal,Furniture,Phones,72,0.29,Rupiah
+278,3579,5/22/2013,3/22/2019,Same Day,8917,Nona Pardal,Home Office,Portugal,Pontinha,Lisboa,1675-007,South,1481,Lamb - Sausage Casings,Euro,Office Supplies,Tables,68,0.46,Manat
+279,3011,4/23/2016,1/13/2019,First Class,7036,Joete Dally,Corporate,Malaysia,Seremban,Negeri Sembilan,71770,South,3915,Uniform Linen Charge,Ringgit,Furniture,Phones,83,0.25,Rupiah
+280,8542,9/5/2020,1/29/2015,Same Day,1594,Rae Vinton,Corporate,Iran,Kaleybar,,,South,4249,Corn Kernels - Frozen,Rial,Furniture,Chairs,84,0.34,Yuan Renminbi
+281,3181,1/5/2020,7/4/2014,First Class,4710,Jamima Halwill,Consumer,Indonesia,Mujur Satu,,,South,9662,"Soup - Beef, Base Mix",Rupiah,Office Supplies,Paper,41,0.14,Yuan Renminbi
+282,7057,10/24/2021,5/1/2018,Second Class,4405,Oswald Janku,Home Office,Russia,Aban,,663740,North,3044,Vaccum Bag - 14x20,Ruble,Technology,Accessories,86,0.46,Krona
+283,1879,8/17/2013,1/27/2013,First Class,9119,Durward Ralfe,Corporate,China,Xijiao,,,North,1970,Bread - Calabrese Baguette,Yuan Renminbi,Technology,Accessories,4,0.11,Rupiah
+284,3087,5/13/2021,11/30/2017,First Class,5167,Merissa Trevett,Corporate,Mexico,San Isidro,Durango,35156,East,7416,"Coffee - Colombian, Portioned",Peso,Technology,Tables,92,0.28,Koruna
+285,8877,3/9/2010,12/7/2012,Second Class,9362,Dickie Cossons,Home Office,Philippines,Bungsuan,,1105,South,6774,Puree - Strawberry,Peso,Office Supplies,Tables,89,0.01,Rupiah
+286,2545,11/21/2012,3/13/2020,Standard Class,2342,Bar Gourdon,Corporate,Russia,Kosh-Agach,,649780,South,2065,Mikes Hard Lemonade,Ruble,Office Supplies,Phones,83,0.25,Dong
+287,7884,4/24/2018,1/25/2014,First Class,2829,Barnaby Guiton,Corporate,China,Gaogongdao,,,North,7414,"Pail - 4l White, With Handle",Yuan Renminbi,Technology,Phones,60,0.38,Yuan Renminbi
+288,2156,1/30/2010,8/11/2020,First Class,7924,Caprice Olivas,Corporate,Portugal,São João,Braga,4890-484,North,6773,Banana - Leaves,Euro,Technology,Paper,52,0.34,Yuan Renminbi
+289,7692,10/16/2020,4/22/2011,Standard Class,6581,Hunfredo Angrave,Corporate,China,Huashan,,,South,7208,"Shrimp - 16/20, Peeled Deviened",Yuan Renminbi,Furniture,Tables,22,0.09,Euro
+290,7325,6/24/2016,1/12/2010,Second Class,1257,Joachim Attwool,Consumer,Ivory Coast,Bondoukou,,,South,3845,Sauce - Demi Glace,Franc,Furniture,Phones,61,0.04,Ruble
+291,1518,8/13/2014,9/5/2016,Same Day,5976,Kat Paradine,Home Office,Tajikistan,Panjakent,,,West,4970,Cleaner - Lime Away,Somoni,Technology,Chairs,46,0.23,Dollar
+292,8619,7/22/2018,3/24/2012,Standard Class,8795,Judas Iacomettii,Corporate,India,R S,Gujarat,395003,North,9684,Broccoli - Fresh,Rupee,Office Supplies,Tables,99,0.49,Euro
+293,4455,8/28/2022,2/26/2012,Same Day,3284,Wyn MacNair,Corporate,Sweden,Knivsta,Uppsala,741 72,South,8580,Flower - Commercial Bronze,Krona,Furniture,Accessories,5,0.11,Franc
+294,8266,3/30/2011,8/29/2014,Second Class,5083,Morty Coviello,Consumer,Greece,Lidoríki,,,South,4778,Cups 10oz Trans,Euro,Office Supplies,Accessories,71,0.18,Cordoba
+295,4779,3/20/2021,5/25/2013,First Class,4198,Gaspard Cusack,Home Office,China,Chadi,,,South,3155,"Wine - White, Riesling, Henry Of",Yuan Renminbi,Furniture,Phones,52,0.49,Rupiah
+296,9418,11/16/2012,4/18/2010,Same Day,8368,Javier Verbrugghen,Home Office,United States,Austin,Texas,78764,East,9497,"Tart Shells - Sweet, 2",Dollar,Office Supplies,Chairs,81,0.08,Sol
+297,6979,11/1/2017,11/16/2022,Same Day,2095,Fancy Oylett,Consumer,China,Jilong,,,South,2854,Wine - Rosso Del Veronese Igt,Yuan Renminbi,Office Supplies,Tables,95,0.25,Franc
+298,2663,6/27/2019,11/9/2010,First Class,1427,Christiane Spadotto,Home Office,China,Longquan,,,West,4203,"Juice - Grapefruit, 341 Ml",Yuan Renminbi,Office Supplies,Tables,41,0.05,Rupiah
+299,3767,8/11/2011,7/6/2016,Second Class,3426,Del Persicke,Corporate,Philippines,Cabanbanan,,5047,East,6203,Sprouts - China Rose,Peso,Office Supplies,Accessories,89,0.5,Rupiah
+300,9046,9/10/2013,7/17/2010,Standard Class,1674,Robenia Gasnoll,Consumer,Yemen,Zakhim,,,North,3900,Pernod,Rial,Technology,Chairs,41,0.31,Rial
+301,7798,4/1/2010,2/29/2020,Standard Class,2080,Enrica Brear,Corporate,Greece,Filiatrá,,,North,9553,Dry Ice,Euro,Furniture,Accessories,5,0.09,Rupiah
+302,3232,3/9/2013,2/10/2012,Second Class,2257,Guillema Laurenson,Corporate,Canada,Watrous,Saskatchewan,L9T,East,3246,Chickhen - Chicken Phyllo,Dollar,Technology,Chairs,57,0.11,Dollar
+303,8644,4/2/2021,7/22/2015,Standard Class,1691,Joline Clutterham,Consumer,Dominican Republic,Santo Domingo Oeste,,11205,North,5043,Crush - Cream Soda,Peso,Furniture,Tables,53,0.13,Koruna
+304,9831,3/20/2018,6/17/2012,Standard Class,8449,Drusilla Detheridge,Home Office,Russia,Spasskoye-Lutovinovo,,303002,West,7007,Broom And Brush Rack Black,Ruble,Office Supplies,Accessories,48,0.12,Peso
+305,9289,5/20/2018,9/19/2012,Same Day,8547,Toma Liversage,Consumer,Russia,Tëploye,,242522,West,1211,Flour - Rye,Ruble,Technology,Phones,99,0.38,Hryvnia
+306,3262,10/16/2015,1/1/2019,Second Class,7438,Davin Spellicy,Home Office,Argentina,Loreto,,3483,South,1430,Olives - Stuffed,Peso,Office Supplies,Accessories,88,0.07,Euro
+307,9136,3/7/2011,10/15/2012,Same Day,7096,Marco Minucci,Consumer,China,Zhen’an,,,North,5648,"Wine - Sherry Dry Sack, William",Yuan Renminbi,Furniture,Accessories,36,0.16,Yuan Renminbi
+308,1062,1/3/2019,2/20/2015,Second Class,8670,Fidelity Halm,Corporate,United States,Boise,Idaho,83727,East,7700,Mcguinness - Blue Curacao,Dollar,Office Supplies,Accessories,94,0.08,Yuan Renminbi
+309,4158,5/20/2017,1/16/2014,Second Class,9229,Lorilee Prestney,Home Office,Jordan,Jāwā,,,North,3668,Bread Crumbs - Japanese Style,Dinar,Technology,Tables,66,0.12,Naira
+310,4651,4/25/2012,7/1/2010,Standard Class,4003,Danice Garry,Consumer,China,Dongfu,,,West,8470,Vol Au Vents,Yuan Renminbi,Technology,Accessories,75,0.01,Shekel
+311,1058,3/13/2013,1/21/2019,First Class,7746,Sybille Toffolini,Consumer,Argentina,Gualeguaychú,,2820,West,9073,Miso - Soy Bean Paste,Peso,Technology,Accessories,33,0.13,Dinar
+312,1786,11/24/2014,9/9/2013,First Class,4868,Rachel Ceaplen,Corporate,Nigeria,Mubi,,,West,4104,Apple - Granny Smith,Naira,Furniture,Chairs,17,0.2,Kuna
+313,2679,12/12/2019,9/2/2015,Second Class,2764,Adham Bugby,Consumer,Costa Rica,San José,,40602,East,2673,Tofu - Firm,Colon,Office Supplies,Paper,6,0.06,Franc
+314,1007,4/21/2015,8/19/2014,Same Day,1183,Leo Heazel,Home Office,Sweden,Göteborg,Västra Götaland,417 57,North,4364,Broom - Angled,Krona,Furniture,Phones,99,0.22,Euro
+315,8286,12/17/2015,6/15/2016,Standard Class,2004,Astra Gounod,Consumer,Indonesia,Banjarjo,,,South,3160,Muffin Batt - Ban Dream Zero,Rupiah,Technology,Tables,52,0.06,Rupiah
+316,9340,10/1/2011,2/7/2010,Second Class,6510,Arabela Richten,Corporate,Spain,Granada,Andalucia,18010,South,3850,Cheese - Valancey,Euro,Technology,Paper,45,0.07,Naira
+317,3352,10/7/2014,12/12/2015,Same Day,8996,Devin Stoffel,Consumer,China,Hudong,,,West,8312,"Pasta - Detalini, White, Fresh",Yuan Renminbi,Office Supplies,Tables,9,0.16,Yuan Renminbi
+318,9369,4/14/2014,5/21/2014,First Class,7751,Hanson Bussy,Home Office,Poland,Roczyny,,43-354,West,2824,"Trout - Hot Smkd, Dbl Fillet",Zloty,Technology,Tables,27,0.2,Yen
+319,9826,7/31/2012,7/11/2014,Second Class,6102,Eamon Lourenco,Corporate,Indonesia,Bangkalan,,,South,4640,Bagel - 12 Grain Preslice,Rupiah,Technology,Chairs,99,0.15,Zloty
+320,4496,3/27/2017,7/23/2010,First Class,7152,Geri Bidewel,Home Office,Indonesia,Sukajadi,,,West,9906,Scallop - St. Jaques,Rupiah,Technology,Phones,83,0.24,Rupiah
+321,5520,8/1/2011,11/8/2011,Second Class,9578,Silvanus Liell,Home Office,Indonesia,Winong,,,North,1359,Cake - Lemon Chiffon,Rupiah,Furniture,Tables,32,0.14,Rupiah
+322,6945,10/18/2014,12/2/2016,First Class,9060,Sybila Sawkin,Consumer,Indonesia,Dadaha,,,South,1938,Scallops - Live In Shell,Rupiah,Technology,Phones,35,0.49,Baht
+323,5729,11/17/2017,5/27/2012,Same Day,6622,Derick Vautier,Consumer,Greece,Koufália,,,South,6143,Fork - Plastic,Euro,Office Supplies,Phones,52,0.04,Peso
+324,7650,3/29/2011,1/4/2016,Second Class,8124,Madlin Asprey,Corporate,Philippines,Limbo,,9618,East,2931,Cookies - Englishbay Oatmeal,Peso,Office Supplies,Phones,36,0.3,Yen
+325,7974,10/5/2021,10/18/2021,First Class,4194,Tim MacNeilly,Corporate,Czech Republic,Velké Karlovice,,756 06,East,7679,"Bread - Pullman, Sliced",Koruna,Furniture,Phones,25,0.45,Euro
+326,8784,6/18/2013,1/16/2014,First Class,2595,Ross Sarre,Corporate,Colombia,Combita,,150208,South,9645,"Arctic Char - Fresh, Whole",Peso,Office Supplies,Accessories,32,0.47,Pound
+327,6482,6/26/2019,6/5/2015,First Class,6138,Seline MacNeillie,Consumer,Japan,Nishi-Tokyo-shi,,203-0044,North,5233,Water - Tonic,Yen,Furniture,Tables,15,0.43,Tenge
+328,5202,12/7/2014,11/25/2018,First Class,3754,Elane Dulling,Home Office,Thailand,Khemarat,,34170,East,5940,Soup Bowl Clear 8oz92008,Baht,Technology,Phones,68,0.34,Peso
+329,8325,1/11/2013,9/28/2011,Same Day,5892,Jannelle Cass,Consumer,Australia,Perth,Western Australia,6817,North,9905,Chinese Foods - Chicken,Dollar,Furniture,Chairs,69,0.21,Pound
+330,7378,5/20/2012,8/23/2021,Second Class,3352,Alisun Wye,Home Office,Brazil,Itapaci,,76360-000,West,2217,Green Tea Refresher,Real,Office Supplies,Phones,33,0.12,Peso
+331,1854,4/23/2017,5/5/2012,Second Class,9996,Boyd Bartot,Corporate,Philippines,Binalbagan,,4600,South,6540,"Doilies - 5, Paper",Peso,Furniture,Tables,78,0.19,Ruble
+332,1237,4/4/2017,8/5/2017,Standard Class,3635,Liva Courtonne,Corporate,Albania,Bulqizë,,,East,1496,Buttons,Lek,Technology,Accessories,60,0.05,Peso
+333,5319,3/26/2020,10/4/2019,Same Day,3519,Collette Laughnan,Corporate,China,Xianxi,,,East,5261,Gatorade - Lemon Lime,Yuan Renminbi,Furniture,Tables,35,0.31,Rupiah
+334,1556,5/24/2021,5/23/2018,Same Day,5984,Georgena Bushell,Consumer,Luxembourg,Waldbillig,,L-7681,South,1536,"Wine - Red, Mosaic Zweigelt",Euro,Furniture,Chairs,46,0.28,Hryvnia
+335,2272,9/12/2016,1/31/2022,First Class,4155,Diana Farnie,Home Office,France,Angoulême,Poitou-Charentes,16999 CEDEX 9,West,5972,Orange Roughy 4/6 Oz,Euro,Furniture,Chairs,8,0.43,Yuan Renminbi
+336,9488,4/2/2021,10/13/2010,Standard Class,1410,Consuelo Gypson,Consumer,Zimbabwe,Shurugwi,,,North,4571,Sprouts - China Rose,Dollar,Technology,Tables,49,0.47,Euro
+337,8082,4/24/2019,6/12/2012,Same Day,6826,Averill Annies,Corporate,Colombia,Bello,,051059,East,4542,Cactus Pads,Peso,Technology,Phones,73,0.43,Rupiah
+338,8713,11/24/2019,8/11/2018,Same Day,8888,Conny Phidgin,Home Office,Nigeria,Rano,,,South,4293,Chinese Lemon Pork,Naira,Office Supplies,Paper,44,0.37,Peso
+339,3451,1/9/2021,5/28/2012,Same Day,5770,Merle Petruska,Home Office,Israel,‘Eilabun,,,North,8533,Ice Cream Bar - Rolo Cone,Shekel,Technology,Chairs,21,0.2,Sol
+340,6605,5/20/2022,1/15/2019,First Class,3454,Dion Zmitrovich,Corporate,Bosnia and Herzegovina,Dvorovi,,,South,6018,"Flour - Bran, Red",Marka,Office Supplies,Accessories,64,0.11,Yuan Renminbi
+341,8612,6/10/2021,8/27/2015,Standard Class,8484,Hayward Stronack,Consumer,Indonesia,Bulu,,,South,1962,"Artichoke - Bottom, Canned",Rupiah,Technology,Phones,41,0.04,Rupiah
+342,9950,5/7/2020,9/25/2011,First Class,9627,Hersh Firks,Corporate,Brazil,Monte Alegre,,59182-000,East,6718,Veal - Slab Bacon,Real,Office Supplies,Paper,43,0.47,Dollar
+343,7676,1/5/2014,6/27/2020,First Class,4139,Devlen Fozzard,Corporate,China,Guozhuang,,,South,4327,Coffee - Almond Amaretto,Yuan Renminbi,Technology,Paper,65,0.12,Baht
+344,2746,1/19/2015,1/23/2022,Same Day,3785,Monti Birckmann,Home Office,United States,Cincinnati,Ohio,45228,South,4375,"Bag - Bread, White, Plain",Dollar,Technology,Tables,95,0.23,Krone
+345,6671,1/18/2019,5/13/2015,First Class,9560,Neilla Menichino,Home Office,Philippines,Paniqui,,3322,South,1585,Cheese - Comtomme,Peso,Office Supplies,Accessories,13,0.46,Lev
+346,6057,12/4/2020,1/22/2010,Second Class,5449,Tabor Mattei,Consumer,Vietnam,An Châu,,,West,7310,Energy Drink - Franks Pineapple,Dong,Furniture,Paper,35,0.15,Euro
+347,2578,12/6/2019,8/14/2013,Standard Class,5049,Samara Worthing,Consumer,Japan,Yoshida-kasugachō,,959-1287,East,2389,Foil Wrap,Yen,Office Supplies,Phones,46,0.13,Won
+348,5590,4/4/2016,11/9/2017,Second Class,8022,Sibylle Allridge,Consumer,Indonesia,Babakanloa,,,West,7135,Sponge Cake Mix - Vanilla,Rupiah,Office Supplies,Accessories,31,0.12,Naira
+349,1088,12/8/2021,11/11/2012,Second Class,9774,Cecilio Ecles,Consumer,China,Denglong,,,South,3130,"Bread - Roll, Canadian Dinner",Yuan Renminbi,Furniture,Paper,32,0.21,Dram
+350,1311,5/21/2021,1/2/2014,First Class,7695,Florance Moden,Corporate,Poland,Regnów,,96-232,West,6913,Beef - Eye Of Round,Zloty,Furniture,Phones,72,0.13,Euro
+351,2623,12/6/2014,3/19/2013,Same Day,1368,Lexie Tiler,Corporate,New Zealand,Pleasant Point,,7947,East,6222,Beer - Camerons Auburn,Dollar,Furniture,Tables,44,0.5,Krona
+352,7509,8/15/2022,11/11/2010,Standard Class,2228,Massimo Bampton,Home Office,Indonesia,Wahai,,,North,3490,Fireball Whisky,Rupiah,Technology,Phones,7,0.04,Yuan Renminbi
+353,2284,4/18/2019,7/18/2022,Same Day,9775,Clevie Maplestone,Corporate,Portugal,Cernache do Bonjardim,Castelo Branco,6100-253,North,3531,Rice - 7 Grain Blend,Euro,Furniture,Paper,83,0.32,Ruble
+354,4102,11/26/2010,11/27/2019,Same Day,3159,Carita Stickney,Consumer,Russia,Verbilki,,141930,West,7594,Vector Energy Bar,Ruble,Office Supplies,Phones,34,0.46,Euro
+355,4045,9/8/2010,9/16/2016,Second Class,5109,Renard Troman,Home Office,United States,Aurora,Colorado,80044,East,2178,Syrup - Monin - Blue Curacao,Dollar,Furniture,Tables,45,0.24,Baht
+356,7606,11/28/2022,7/13/2019,Standard Class,6489,Adelind Caswill,Consumer,Kenya,Migori,,,South,9563,Sword Pick Asst,Shilling,Furniture,Chairs,81,0.34,Kwacha
+357,7216,10/12/2022,8/11/2015,Same Day,1635,Inglebert Maseres,Corporate,China,Qijing,,,West,4324,"Fish - Halibut, Cold Smoked",Yuan Renminbi,Office Supplies,Accessories,85,0.12,Rand
+358,2569,5/28/2012,8/30/2013,Same Day,4597,Geoffrey France,Home Office,Mongolia,Hongor,,,East,1423,"Veal - Round, Eye Of",Tugrik,Office Supplies,Phones,91,0.04,Yuan Renminbi
+359,7917,7/8/2014,6/25/2015,Standard Class,3552,Ellsworth Baroch,Consumer,Belarus,Horki,,,West,3302,Slt - Individual Portions,Ruble,Technology,Paper,84,0.06,Euro
+360,6788,8/17/2012,10/11/2014,Standard Class,4262,Upton Ellar,Home Office,Russia,Nekrasovka,,140074,East,3313,Tea - Herbal I Love Lemon,Ruble,Office Supplies,Paper,27,0.16,Yuan Renminbi
+361,7602,10/27/2013,12/25/2022,Second Class,2131,Rheta Wylie,Corporate,China,Yanqi,,,West,7543,Aspic - Clear,Yuan Renminbi,Office Supplies,Paper,8,0.11,Euro
+362,6226,12/18/2011,8/5/2020,Standard Class,1629,Gerard Ruffles,Consumer,Portugal,Terrugem,Lisboa,2770-024,West,2675,Cheese - Brick With Pepper,Euro,Technology,Chairs,21,0.1,Shekel
+363,5546,2/14/2012,6/24/2020,First Class,9075,Brenna Jolliff,Home Office,Bulgaria,Dimitrovgrad,,6435,North,1050,Laundry - Bag Cloth,Lev,Furniture,Chairs,58,0.39,Euro
+364,8961,8/26/2022,6/30/2013,Second Class,2661,Obed Hightown,Home Office,Brazil,São Lourenço do Sul,,96170-000,East,8497,"Fish - Halibut, Cold Smoked",Real,Office Supplies,Chairs,31,0.38,Tugrik
+365,1516,3/1/2018,5/26/2017,First Class,7984,Manny Heineking,Home Office,Indonesia,Tembayangan Barat,,,East,7541,"Jam - Marmalade, Orange",Rupiah,Furniture,Phones,72,0.14,Krone
+366,8534,4/2/2020,12/5/2022,Same Day,6898,Joete Kollatsch,Corporate,Philippines,Cagayan,,7508,East,1947,Pastry - Plain Baked Croissant,Peso,Technology,Phones,27,0.07,Ruble
+367,5717,12/27/2014,9/4/2017,First Class,6897,Gabriellia Brech,Home Office,Canada,Lethbridge,Alberta,T1K,East,6407,Cheese - Brick With Onion,Dollar,Furniture,Accessories,83,0.09,Yuan Renminbi
+368,8358,2/22/2013,6/16/2014,Same Day,8243,Haydon Stannislawski,Home Office,Ecuador,Montalvo,,,North,5675,Cheese - Goat With Herbs,Dollar,Furniture,Phones,94,0.25,Peso
+369,4744,2/4/2013,5/4/2010,Same Day,7913,Orelie Lile,Home Office,Philippines,Malinao,,5606,North,9873,Mayonnaise - Individual Pkg,Peso,Office Supplies,Phones,33,0.27,Ringgit
+370,9280,2/16/2019,10/28/2021,First Class,7318,Hilarius Crix,Consumer,Estonia,Rakvere,,,West,4242,Dry Ice,Euro,Furniture,Paper,51,0.48,Peso
+371,8657,1/29/2018,9/21/2020,Standard Class,1567,Cornelius Symcock,Home Office,Russia,Plast,,457031,East,2258,Wine - White Cab Sauv.on,Ruble,Office Supplies,Chairs,59,0.2,Yuan Renminbi
+372,6261,9/7/2015,7/11/2010,First Class,8110,Ninnette Sidsaff,Consumer,Portugal,Pico da Pedra,Ilha de São Miguel,9600-052,South,5572,Kirsch - Schloss,Euro,Furniture,Tables,23,0.05,Peso
+373,1760,9/12/2013,9/17/2020,Standard Class,7843,Toby Peasnone,Corporate,China,Yudong,,,South,8690,Wine - Chardonnay South,Yuan Renminbi,Furniture,Accessories,67,0.04,Sol
+374,6717,4/30/2011,5/26/2017,Second Class,5150,Lethia Harberer,Home Office,Indonesia,Lanci Satu,,,West,6589,Chips Potato Swt Chilli Sour,Rupiah,Technology,Accessories,72,0.3,Ariary
+375,6763,10/26/2019,5/22/2022,Same Day,6233,Austina Eglinton,Consumer,Poland,Wierzchowo,,78-530,West,4019,Lemon Pepper,Zloty,Furniture,Paper,38,0.14,Peso
+376,4469,7/18/2021,1/7/2020,Same Day,1451,Cacilia Hogbourne,Home Office,France,Auch,Midi-Pyrénées,32010 CEDEX,South,5933,Apple - Custard,Euro,Office Supplies,Phones,73,0.0,Rupiah
+377,6666,3/11/2015,2/6/2013,Same Day,9053,Inga Penquet,Corporate,Azerbaijan,Naftalan,,,West,2190,Lettuce - Iceberg,Manat,Furniture,Phones,5,0.26,Rupiah
+378,1174,4/23/2019,1/6/2014,Same Day,2691,Mischa Virgin,Corporate,Malaysia,Sandakan,Sabah,90705,North,1421,Clam - Cherrystone,Ringgit,Technology,Paper,26,0.26,Real
+379,6139,6/14/2017,10/5/2010,Same Day,5691,Amata Garaway,Consumer,South Korea,Beolgyo,,,North,6748,Shrimp - Black Tiger 8 - 12,Won,Furniture,Chairs,86,0.41,Rupiah
+380,7006,9/17/2010,11/8/2021,First Class,9946,Gratia Knowling,Home Office,Ukraine,Richky,,,North,9184,Remy Red Berry Infusion,Hryvnia,Office Supplies,Phones,19,0.49,Dram
+381,7776,4/20/2011,8/23/2014,Standard Class,4307,Claire Mowsdell,Consumer,Antigua and Barbuda,Saint John’s,,,South,6512,Kale - Red,Dollar,Office Supplies,Chairs,42,0.17,Peso
+382,5539,4/17/2021,1/31/2014,First Class,8122,Laurie Paoletti,Corporate,Poland,Goczałkowice Zdrój,,43-503,South,6464,Wine - German Riesling,Zloty,Technology,Accessories,57,0.03,Rupiah
+383,4597,9/23/2021,10/16/2010,First Class,4467,Alexandra Tanti,Consumer,Syria,Tadmur,,,South,4136,Energy Drink - Redbull 355ml,Pound,Office Supplies,Paper,80,0.15,Peso
+384,4164,10/19/2011,11/3/2013,Standard Class,4404,Bee Ilyushkin,Corporate,China,Lidun,,,East,3720,Wine - Vovray Sec Domaine Huet,Yuan Renminbi,Office Supplies,Tables,40,0.19,Rupiah
+385,6006,9/24/2017,12/17/2020,Same Day,6385,Finlay Spurryer,Home Office,Peru,Pataypampa,,,South,3112,"Champagne - Brights, Dry",Sol,Office Supplies,Phones,8,0.13,Real
+386,3320,5/17/2013,3/16/2014,Same Day,9551,Perren Zipsell,Corporate,Azerbaijan,Lökbatan,,,North,8067,"Pepper - Black, Crushed",Manat,Technology,Paper,61,0.4,Baht
+387,6659,2/12/2010,9/29/2020,Standard Class,5305,Nixie Abramson,Home Office,Latvia,Salacgrīva,,,West,5434,Compound - Raspberry,Euro,Furniture,Tables,73,0.35,Yuan Renminbi
+388,2622,4/3/2017,2/3/2011,Same Day,8775,Aundrea Skudder,Corporate,Iran,Manūjān,,,South,9615,Dates,Rial,Technology,Chairs,68,0.41,Rupiah
+389,1411,9/10/2011,1/8/2017,Same Day,7460,Dicky Pottle,Corporate,Indonesia,Mlawe,,,West,1334,Steampan - Lid For Half Size,Rupiah,Technology,Paper,9,0.29,Peso
+390,7041,6/21/2015,12/13/2019,Standard Class,7082,Giralda Pervew,Home Office,Nicaragua,Niquinohomo,,,East,6091,Sauce - Soy Low Sodium - 3.87l,Cordoba,Furniture,Accessories,80,0.08,Denar
+391,9174,8/30/2016,12/5/2014,Second Class,1377,Polly O' Connell,Home Office,Cuba,Gibara,,,East,6800,Pork - Ground,Peso,Furniture,Chairs,61,0.12,Yuan Renminbi
+392,1530,8/9/2021,6/27/2011,Second Class,2516,Andros Henworth,Home Office,Azerbaijan,Bilajari,,,West,4854,"Pail - 4l White, With Handle",Manat,Furniture,Paper,93,0.15,Peso
+393,1510,6/26/2012,6/17/2014,Standard Class,2960,Fidelity Samet,Home Office,Canada,Minnedosa,Manitoba,N3E,North,9171,Cheese - Bakers Cream Cheese,Dollar,Furniture,Chairs,94,0.43,Euro
+394,7250,3/6/2021,12/29/2013,Same Day,8959,Gaspard Guymer,Consumer,Venezuela,Irapa,,,South,9731,Beef - Top Butt Aaa,Bolivar,Furniture,Paper,95,0.17,Rupiah
+395,3237,1/12/2022,8/8/2014,Same Day,7203,Janella Dearnly,Consumer,Indonesia,Jumpangdua,,,South,3741,Onions - Red Pearl,Rupiah,Office Supplies,Accessories,82,0.2,Krone
+396,5204,10/5/2011,8/17/2010,Same Day,4684,Salem Harmes,Home Office,Denmark,Frederiksberg,Region Hovedstaden,1823,East,4436,"Turkey - Breast, Double",Krone,Technology,Phones,18,0.0,Yuan Renminbi
+397,8906,1/28/2019,5/12/2012,Same Day,5291,Udall Simson,Home Office,Indonesia,Kademangan,,,South,2355,Wine - German Riesling,Rupiah,Office Supplies,Phones,80,0.07,Rupiah
+398,1885,7/6/2019,4/4/2021,Same Day,6703,Titus Cust,Corporate,China,Lin’an,,,North,5439,Appetizer - Chicken Satay,Yuan Renminbi,Furniture,Phones,94,0.01,Rupiah
+399,3163,3/21/2018,10/20/2017,Standard Class,5768,Corine Seger,Home Office,China,Meixi,,,East,3962,Munchies Honey Sweet Trail Mix,Yuan Renminbi,Office Supplies,Chairs,69,0.11,Rupiah
+400,4331,10/21/2022,2/1/2010,Same Day,8596,Fionna Davisson,Consumer,Poland,Kraków,,31-999,East,8868,Mushroom - Crimini,Zloty,Furniture,Accessories,100,0.48,Yuan Renminbi
+401,7831,5/22/2014,3/1/2020,Standard Class,4205,Curtice Lamplough,Corporate,Egypt,Bilbays,,,West,4207,Chicken - Wieners,Pound,Office Supplies,Accessories,68,0.37,Rupiah
+402,8230,3/12/2020,8/11/2022,Same Day,4549,Swen Jeandon,Corporate,Argentina,Mar del Plata,,7600,East,8331,Island Oasis - Peach Daiquiri,Peso,Technology,Tables,7,0.03,Shilling
+403,5449,6/14/2014,5/12/2019,Standard Class,3016,Cookie Gisbey,Consumer,Zambia,Kaoma,,,East,3040,Temperature Recording Station,Kwacha,Office Supplies,Chairs,91,0.05,Euro
+404,6211,6/20/2013,12/30/2020,Same Day,9913,Sib Nutley,Home Office,Canada,Bells Corners,Ontario,K2R,North,9622,Milk - Homo,Dollar,Office Supplies,Paper,13,0.04,Peso
+405,3168,3/11/2015,9/2/2015,Second Class,5689,Harriett Duffell,Home Office,Colombia,Chinchiná,,176048,North,2118,Water - San Pellegrino,Peso,Technology,Accessories,68,0.14,Real
+406,9748,4/20/2013,5/28/2021,First Class,3822,Myrlene Chicchelli,Consumer,Poland,Czerwin,,07-407,North,1756,Bamboo Shoots - Sliced,Zloty,Furniture,Tables,18,0.1,Rupiah
+407,3156,11/11/2021,7/9/2012,Second Class,4369,Berrie Chimienti,Home Office,Russia,Ozëry,,142152,North,3664,Water - San Pellegrino,Ruble,Technology,Accessories,73,0.08,Rupiah
+408,9568,4/10/2019,12/17/2017,First Class,8079,Hetti Rouby,Home Office,Japan,Toyooka,,999-8316,North,2106,"Soup - Knorr, Classic Can. Chili",Yen,Technology,Tables,85,0.04,Rupiah
+409,1180,11/25/2011,7/6/2017,Same Day,8752,Verney Andre,Consumer,Bulgaria,Ikhtiman,,2049,South,4036,"Sauce - Gravy, Au Jus, Mix",Lev,Office Supplies,Chairs,63,0.05,Yuan Renminbi
+410,6119,7/10/2020,7/21/2015,Standard Class,6409,Allina Goodlife,Consumer,Brazil,Novo Aripuanã,,69260-000,South,9920,Tea - Green,Real,Furniture,Phones,21,0.23,Bolivar
+411,8306,6/27/2014,12/22/2013,Second Class,9431,Colline Randalson,Corporate,China,Pinghu,,,East,3119,Cookies - Englishbay Oatmeal,Yuan Renminbi,Technology,Paper,35,0.1,Sol
+412,8874,8/9/2013,9/28/2011,Same Day,9865,Sal Lamswood,Corporate,Malaysia,Alor Setar,Kedah,05720,South,4773,Lamb - Loin Chops,Ringgit,Office Supplies,Paper,62,0.18,Ruble
+413,9653,6/27/2013,6/14/2020,Second Class,7961,Gabie Chelam,Home Office,China,Xiashu,,,South,6444,Wine - Rubyport,Yuan Renminbi,Technology,Accessories,34,0.19,Rupee
+414,3590,12/16/2021,9/22/2010,Same Day,4790,Charlotta Birtchnell,Consumer,France,Cran-Gevrier,Rhône-Alpes,74964 CEDEX,North,3545,Wine - Rosso Del Veronese Igt,Euro,Furniture,Chairs,37,0.16,Ruble
+415,9808,9/30/2013,7/19/2016,First Class,5292,Bibi Basindale,Corporate,France,Plaisir,Île-de-France,78379 CEDEX,West,9928,Jam - Raspberry,Euro,Technology,Phones,75,0.41,Rupiah
+416,4602,12/26/2010,4/1/2020,Same Day,2556,Dyanna Eite,Home Office,Guatemala,Cahabón,,16012,South,5791,Chips - Miss Vickies,Quetzal,Furniture,Paper,94,0.08,Peso
+417,9876,5/30/2020,9/13/2016,Same Day,7751,Joscelin Abbotson,Home Office,Dominican Republic,Fundación,,10109,West,8884,Tea - Orange Pekoe,Peso,Furniture,Accessories,17,0.2,Krona
+418,2633,10/5/2014,1/14/2015,First Class,1310,Carlye Stud,Home Office,China,Linxia Chengguanzhen,,,West,2855,Lamb - Loin Chops,Yuan Renminbi,Office Supplies,Paper,64,0.41,Euro
+419,5699,2/12/2018,9/14/2017,First Class,5905,Aldric Matyushenko,Home Office,Philippines,Urdaneta,,2428,East,8681,Flower - Commercial Bronze,Peso,Technology,Paper,77,0.2,Ruble
+420,4325,9/10/2012,6/4/2017,Standard Class,5328,Clementina Porkiss,Corporate,Philippines,Cayang,,6012,East,3229,Capers - Pickled,Peso,Technology,Chairs,54,0.36,Real
+421,2040,5/4/2016,11/17/2012,Standard Class,3440,Caty Karpychev,Corporate,China,Lianshi,,,North,7563,Squid - U - 10 Thailand,Yuan Renminbi,Furniture,Phones,1,0.23,Peso
+422,6555,3/13/2011,5/9/2015,Standard Class,7966,Adora Barkshire,Consumer,Macedonia,Pirok,,1214,East,1622,Icecream Bar - Del Monte,Denar,Technology,Phones,39,0.22,Rupee
+423,3808,4/15/2016,5/6/2010,Same Day,9888,Steve Abade,Consumer,Mexico,Emiliano Zapata,Coahuila De Zaragoza,25740,North,6913,Chocolate Bar - Reese Pieces,Peso,Technology,Paper,72,0.26,Peso
+424,8196,5/15/2016,4/26/2017,Second Class,5774,Griffy Limpkin,Home Office,Colombia,Floridablanca,,681008,West,7062,Pork - Hock And Feet Attached,Peso,Office Supplies,Accessories,71,0.15,Yuan Renminbi
+425,2828,10/4/2019,5/14/2020,First Class,4106,Pinchas Giraldon,Corporate,Brazil,Arcos,,35588-000,South,7363,"Tomatoes - Cherry, Yellow",Real,Office Supplies,Tables,23,0.06,Balboa
+426,9634,11/3/2013,1/14/2013,Same Day,8605,Tuesday Gonzalez,Corporate,France,Le Kremlin-Bicêtre,Île-de-France,94279 CEDEX,North,8214,Bandage - Fexible 1x3,Euro,Technology,Paper,58,0.29,Afghani
+427,1878,9/27/2011,11/23/2014,First Class,2481,Jackelyn Tarney,Corporate,Russia,Petukhovo,,641642,North,5379,Sauce - Oyster,Ruble,Technology,Accessories,14,0.2,Rupiah
+428,7520,1/17/2021,4/26/2014,Standard Class,3262,Izaak Slyme,Corporate,Gambia,Abuko,,,South,9301,Cheese - Mascarpone,Dalasi,Furniture,Chairs,54,0.36,Euro
+429,6007,7/26/2019,1/6/2018,Same Day,8358,Mariejeanne Schall,Corporate,China,Bayan Bulag,,,South,1767,Pineapple - Golden,Yuan Renminbi,Office Supplies,Paper,11,0.24,Krona
+430,8864,4/10/2019,8/24/2022,First Class,3550,Granthem Mycock,Corporate,Sweden,Hofors,Gävleborg,813 27,West,5411,"Bag - Bread, White, Plain",Krona,Furniture,Paper,77,0.08,Koruna
+431,2568,4/30/2016,10/18/2017,Standard Class,9682,Tommie Percival,Home Office,Pakistan,Ghāro,,73210,North,4582,Pepper - Sorrano,Rupee,Technology,Paper,18,0.4,Yuan Renminbi
+432,3495,4/9/2014,9/21/2010,First Class,8816,Bel Stirley,Home Office,Tajikistan,Istaravshan,,,South,9872,Cookies Oatmeal Raisin,Somoni,Furniture,Paper,48,0.45,Krona
+433,6792,1/5/2014,5/25/2022,Standard Class,6729,Beverlee Ortiger,Consumer,China,Xamba,,,North,4212,Cornflakes,Yuan Renminbi,Technology,Chairs,60,0.16,Tenge
+434,5877,2/11/2012,7/22/2013,First Class,7458,Yves Orford,Corporate,Indonesia,Wonorejo,,,West,7540,V8 Splash Strawberry Banana,Rupiah,Office Supplies,Tables,33,0.24,Baht
+435,7292,1/15/2017,7/13/2019,Standard Class,3464,April Turbard,Corporate,Indonesia,Wonorejo,,,West,3924,Canadian Emmenthal,Rupiah,Technology,Phones,74,0.07,Yuan Renminbi
+436,6964,6/6/2021,1/3/2022,Second Class,8842,Meredeth Ryding,Home Office,Germany,Leipzig,Sachsen,04288,East,6490,Chicken - Soup Base,Euro,Furniture,Phones,29,0.28,Real
+437,8286,6/3/2010,1/31/2020,Standard Class,7446,Amabelle Hanbidge,Consumer,Portugal,São Miguel da Carreira,Braga,4775-055,East,4161,Wine - Barossa Valley Estate,Euro,Technology,Accessories,54,0.39,Ruble
+438,5299,6/24/2018,12/1/2017,Standard Class,2969,Horst Thebes,Consumer,Iraq,Koysinceq,,,East,9429,Cheese - Victor Et Berthold,Dinar,Technology,Paper,47,0.18,Yuan Renminbi
+439,4273,1/13/2015,4/17/2017,Standard Class,4781,Dona Sutch,Corporate,Indonesia,Banjar Banyualit,,,North,6512,"Beans - Turtle, Black, Dry",Rupiah,Furniture,Tables,46,0.22,Peso
+440,4608,12/1/2016,9/3/2011,First Class,5435,Lindie Clinch,Corporate,Serbia,Rušanj,,,East,4678,Quail - Jumbo,Dinar,Technology,Accessories,18,0.46,Peso
+441,7507,7/11/2010,4/26/2016,Same Day,1028,Fanni Deniske,Consumer,China,Longfeng,,,South,5888,Vinegar - Rice,Yuan Renminbi,Technology,Phones,88,0.29,Peso
+442,9778,4/13/2014,3/22/2021,Standard Class,4230,Kim Jodkowski,Corporate,United States,Salt Lake City,Utah,84105,South,4858,Rosemary - Dry,Dollar,Office Supplies,Chairs,99,0.03,Euro
+443,1140,9/18/2016,3/15/2020,First Class,9514,Marilee Whaymand,Home Office,Russia,Sokol,,162139,West,9718,Taro Leaves,Ruble,Technology,Phones,67,0.34,Naira
+444,1235,7/18/2022,6/30/2017,Standard Class,8111,Rhodie Cassimer,Consumer,Indonesia,Panggungwinong,,,West,9818,Pickles - Gherkins,Rupiah,Technology,Accessories,89,0.28,Yuan Renminbi
+445,7251,10/4/2015,1/30/2019,Same Day,7264,Kenyon Zollner,Consumer,China,Fuqiang,,,East,4104,Plastic Wrap,Yuan Renminbi,Furniture,Chairs,70,0.19,Krona
+446,8239,7/11/2021,9/4/2015,Same Day,7514,Leonie Guiness,Corporate,China,Shiziling,,,North,1893,Mushroom - King Eryingii,Yuan Renminbi,Office Supplies,Chairs,8,0.44,Gourde
+447,1186,8/25/2018,3/16/2020,Same Day,1533,Jecho Bellwood,Consumer,France,Ussel,Limousin,19204 CEDEX,West,7420,Flour - Teff,Euro,Technology,Accessories,27,0.48,Real
+448,3599,8/4/2010,11/13/2017,Standard Class,8981,Andromache Horley,Corporate,Russia,Smolenskaya,,353254,South,8464,Muffin Mix - Blueberry,Ruble,Furniture,Chairs,72,0.04,Bolivar
+449,7661,7/13/2011,4/4/2018,Standard Class,6124,Neala Hempel,Corporate,Nigeria,Uromi,,,North,2985,"Pasta - Penne, Rigate, Dry",Naira,Technology,Phones,55,0.14,Euro
+450,5036,1/19/2019,7/25/2021,Second Class,1893,Hazlett Daintith,Consumer,Malaysia,Tawau,Sabah,91010,East,6835,Nescafe - Frothy French Vanilla,Ringgit,Office Supplies,Phones,59,0.06,Krona
+451,8175,11/10/2017,12/2/2012,First Class,6382,Joyan Ure,Consumer,North Korea,Najin,,,East,2269,Wine - Chablis J Moreau Et Fils,Won,Office Supplies,Paper,52,0.04,Yuan Renminbi
+452,8311,1/25/2016,10/19/2015,Second Class,4975,Molly Lisciandro,Consumer,Portugal,São Bento,Braga,4730-560,South,9100,Burger Veggie,Euro,Office Supplies,Accessories,30,0.31,Pound
+453,8375,6/30/2012,2/28/2012,Same Day,5842,Jay Mazdon,Consumer,China,Xinshancun,,,West,7244,"Tabasco Sauce, 2 Oz",Yuan Renminbi,Office Supplies,Paper,86,0.2,Dinar
+454,2966,9/22/2020,5/22/2018,Standard Class,2754,Towney Killiam,Corporate,China,Mengyin,,,South,4134,Tea - English Breakfast,Yuan Renminbi,Technology,Tables,59,0.2,Ruble
+455,3329,9/12/2013,11/7/2017,Standard Class,6758,Benedict Viccars,Home Office,United States,Midland,Texas,79710,East,4627,Wine - Jaboulet Cotes Du Rhone,Dollar,Furniture,Tables,9,0.19,Ruble
+456,5432,8/10/2022,12/3/2017,Same Day,1941,Shayne Gutans,Consumer,Suriname,Nieuw Nickerie,,,East,7008,Lettuce - Escarole,Dollar,Office Supplies,Accessories,90,0.21,Euro
+457,1833,4/27/2019,2/7/2015,First Class,4537,Marya Jonuzi,Consumer,China,Leiling,,,South,4232,Crawfish,Yuan Renminbi,Furniture,Tables,62,0.07,Yuan Renminbi
+458,7362,8/21/2022,12/11/2012,First Class,6777,Billy Balham,Consumer,United States,El Paso,Texas,79934,North,8212,"Lamb - Shoulder, Boneless",Dollar,Technology,Phones,43,0.11,Metical
+459,5332,8/2/2017,8/2/2012,Standard Class,7103,Herve Eannetta,Consumer,Nicaragua,Comalapa,,,North,5516,Sobe - Cranberry Grapefruit,Cordoba,Furniture,Paper,15,0.25,Yuan Renminbi
+460,8485,6/26/2012,12/10/2019,Standard Class,5076,Konstance Bims,Corporate,Bulgaria,Belene,,5930,West,7569,Beer - Labatt Blue,Lev,Technology,Chairs,13,0.25,Dollar
+461,1362,11/18/2011,3/18/2015,First Class,1435,Dana Bisgrove,Home Office,Philippines,Cabarroguis,,3400,East,4866,"Trout - Hot Smkd, Dbl Fillet",Peso,Office Supplies,Accessories,64,0.18,Quetzal
+462,6608,2/23/2022,5/13/2014,Second Class,7266,Mick Medley,Home Office,Belarus,Klyetsk,,,East,7479,Beer - Muskoka Cream Ale,Ruble,Office Supplies,Chairs,43,0.05,Zloty
+463,8802,5/14/2021,3/20/2016,First Class,6983,Peyter Bartolini,Consumer,Italy,Venezia,Veneto,30132,North,5975,Chicken - Wieners,Euro,Office Supplies,Chairs,52,0.16,Krona
+464,6733,2/11/2018,2/24/2021,Second Class,1842,Dulcy Marini,Home Office,China,Kuzhu,,,South,5929,Herb Du Provence - Primerba,Yuan Renminbi,Furniture,Accessories,15,0.01,Tenge
+465,3492,3/16/2021,10/16/2010,First Class,9461,Allyson Jotham,Consumer,Philippines,Bailan,,5815,North,4432,"Soup - Beef, Base Mix",Peso,Technology,Chairs,27,0.26,Rupiah
+466,1816,8/19/2019,4/7/2019,Standard Class,7209,Clemens Boys,Corporate,Bolivia,San Julian,,,East,4724,Shrimp - Black Tiger 8 - 12,Boliviano,Technology,Tables,16,0.38,Ruble
+467,6683,7/22/2018,4/7/2014,Second Class,3797,Paco Brockman,Consumer,China,Huangtu,,,East,4081,Mushroom Morel Fresh,Yuan Renminbi,Furniture,Tables,81,0.29,Tenge
+468,5585,10/24/2016,12/31/2010,Same Day,4244,Corene MacDermand,Consumer,Portugal,Ourentã,Coimbra,3060-445,West,7548,Tahini Paste,Euro,Office Supplies,Chairs,8,0.02,Euro
+469,1164,5/6/2021,6/14/2011,First Class,8471,Bird Haxell,Home Office,Bangladesh,Chhāgalnāiya,,3913,West,5967,Arizona - Green Tea,Taka,Office Supplies,Phones,73,0.47,Peso
+470,5333,7/21/2019,3/3/2010,Same Day,7882,Felicdad Wilcocke,Consumer,Myanmar,Monywa,,,South,8226,Oil - Sunflower,Kyat,Furniture,Tables,68,0.09,Peso
+471,4709,4/7/2011,4/2/2018,First Class,3902,Bronson Bedding,Consumer,China,Jinshan,,,West,6641,Beer - Fruli,Yuan Renminbi,Office Supplies,Paper,58,0.34,Bolivar
+472,2995,11/7/2010,10/5/2010,Standard Class,8321,Donnie Boyet,Corporate,Indonesia,Laau,,,West,7134,Sobe - Liz Blizz,Rupiah,Furniture,Paper,34,0.4,Franc
+473,4217,9/6/2020,11/15/2020,Standard Class,2261,Bailie Depper,Home Office,Indonesia,Kampungraja,,,North,6882,Broccoli - Fresh,Rupiah,Office Supplies,Paper,16,0.33,Dollar
+474,1255,8/18/2016,9/15/2012,Same Day,1043,Caresse Mallinar,Consumer,Brazil,Votorantim,,18110-000,South,8381,Lettuce - Boston Bib,Real,Office Supplies,Phones,85,0.0,Euro
+475,9917,8/10/2011,4/22/2022,Standard Class,9220,Deena Rennocks,Corporate,Russia,Seshcha,,242760,West,1098,"Split Peas - Yellow, Dry",Ruble,Office Supplies,Chairs,99,0.04,Euro
+476,8191,6/12/2017,12/22/2011,First Class,6456,Aurthur Eastabrook,Home Office,China,Xian’an,,,South,9806,"Bag - Bread, White, Plain",Yuan Renminbi,Technology,Accessories,71,0.04,Rupiah
+477,5137,9/9/2017,11/18/2016,Same Day,9945,Gamaliel MacCartair,Corporate,Israel,Ramat HaSharon,,,South,4522,Shrimp - Prawn,Shekel,Furniture,Phones,42,0.33,Yuan Renminbi
+478,8837,12/30/2013,9/21/2014,First Class,9027,Shea Reicherz,Consumer,Poland,Rogóźno,,86-318,East,9030,"Marjoram - Dried, Rubbed",Zloty,Technology,Chairs,12,0.14,Yuan Renminbi
+479,2226,5/2/2018,1/26/2019,Second Class,7276,Ange Kloser,Home Office,Indonesia,Cikole,,,West,1207,Yokaline,Rupiah,Furniture,Phones,10,0.01,Dollar
+480,2798,4/9/2017,3/1/2021,First Class,2688,Cosmo Neat,Home Office,Sweden,Borås,Västra Götaland,507 10,East,9841,"Pasta - Penne, Rigate, Dry",Krona,Furniture,Paper,36,0.46,Ruble
+481,2497,11/25/2017,10/26/2010,Standard Class,8447,Conan Paine,Home Office,Mauritania,Nouâdhibou,,,West,3620,Energy Drink - Franks Original,Ouguiya,Office Supplies,Phones,14,0.13,Peso
+482,3104,4/11/2020,11/10/2010,First Class,9417,Katleen Chatband,Corporate,Democratic Republic of the Congo,Mweka,,,South,4474,Mushroom - Crimini,Franc,Technology,Phones,11,0.27,Yuan Renminbi
+483,4367,4/4/2010,10/16/2021,Second Class,9957,Amalea Vondra,Corporate,Philippines,Gamut,,8302,South,1491,Vinegar - Rice,Peso,Technology,Accessories,40,0.49,Dollar
+484,6032,3/31/2014,8/21/2012,Standard Class,5449,Harlin Edwardson,Corporate,Yemen,Ar Rawnah,,,North,1783,Beans - French,Rial,Office Supplies,Paper,7,0.32,Yuan Renminbi
+485,8868,5/23/2016,8/30/2021,Standard Class,8940,Nate Hatherill,Corporate,China,Dasuhe,,,North,2176,Broom And Broom Rack White,Yuan Renminbi,Office Supplies,Paper,7,0.04,Euro
+486,7053,5/31/2019,8/21/2010,First Class,5175,Kyle Bradnick,Corporate,Indonesia,Andekantor,,,East,7193,Potatoes - Mini Red,Rupiah,Office Supplies,Tables,62,0.29,Yuan Renminbi
+487,8521,4/8/2010,12/29/2022,Second Class,5776,Scotty Lemmanbie,Home Office,Philippines,Tambak,,6217,East,1932,Marjoram - Fresh,Peso,Office Supplies,Accessories,92,0.29,Peso
+488,6018,12/24/2020,10/2/2017,First Class,8282,Lukas Wyleman,Corporate,Argentina,General Conesa,,8503,North,5040,Soap - Mr.clean Floor Soap,Peso,Technology,Phones,21,0.1,Real
+489,3385,12/21/2020,12/6/2022,First Class,8584,Chico Hartnup,Home Office,United States,Washington,District of Columbia,20404,North,6335,Phyllo Dough,Dollar,Office Supplies,Phones,39,0.23,Peso
+490,2502,11/10/2015,12/17/2018,Standard Class,1559,Kalinda Mylechreest,Home Office,Brazil,Niquelândia,,76420-000,West,7498,Sobe - Berry Energy,Real,Office Supplies,Phones,72,0.08,Sol
+491,7710,12/11/2015,3/28/2017,Second Class,3358,Valentine Tuffs,Home Office,China,Shibajiazi,,,North,5329,Lemon Grass,Yuan Renminbi,Furniture,Phones,84,0.26,Yuan Renminbi
+492,3621,10/11/2019,4/19/2016,Second Class,7344,Artie Feedome,Home Office,Ethiopia,Kombolcha,,,South,3547,Sauce - Thousand Island,Birr,Technology,Accessories,65,0.06,Shilling
+493,4514,9/15/2016,4/20/2017,First Class,9340,Ariana Wherrit,Home Office,North Korea,Sunan,,,South,4710,Tomatoes Tear Drop Yellow,Won,Office Supplies,Tables,35,0.49,Yuan Renminbi
+494,4132,9/19/2016,12/10/2010,First Class,8124,Charyl MacLice,Consumer,Japan,Masaki-chō,,799-3115,East,8221,Tobasco Sauce,Yen,Furniture,Paper,99,0.02,Yuan Renminbi
+495,7894,2/7/2010,6/27/2021,First Class,3192,Tyne Arkwright,Home Office,Philippines,San Antonio,,6407,West,5971,Shrimp - Black Tiger 13/15,Peso,Technology,Paper,43,0.08,Ruble
+496,2233,12/7/2016,3/31/2011,Same Day,5992,Emmy Bamell,Corporate,China,Banqiao,,,West,8896,"Marjoram - Dried, Rubbed",Yuan Renminbi,Furniture,Tables,31,0.19,Zloty
+497,9681,9/11/2021,2/3/2013,Standard Class,9362,Bill Archanbault,Corporate,Czech Republic,Modřice,,664 42,North,6166,Sour Puss - Tangerine,Koruna,Furniture,Paper,48,0.48,Yuan Renminbi
+498,4198,1/10/2011,4/22/2010,Standard Class,9254,Johnna Pawlick,Home Office,Ireland,Balally,,D04,South,6834,"Beef - Tongue, Fresh",Euro,Technology,Phones,91,0.08,Baht
+499,2913,10/24/2016,5/10/2013,Standard Class,9436,Malissia McHarry,Consumer,Canada,L'Épiphanie,Québec,J5X,East,4537,Soup - Campbells Beef Stew,Dollar,Furniture,Paper,63,0.04,Koruna
+500,4106,4/10/2011,6/14/2019,Second Class,5407,Ami Plumridege,Corporate,China,Zhouzhuang,,,East,3006,"Juice - Apple, 1.36l",Yuan Renminbi,Furniture,Chairs,41,0.48,Peso
+501,1206,1/15/2014,10/14/2014,Standard Class,2792,Carine Gerrad,Home Office,China,Jiangzhang,,,North,9235,Soup Campbells,Yuan Renminbi,Technology,Paper,95,0.07,Rupiah
+502,6817,6/4/2010,1/13/2015,Same Day,6721,Minerva Scottesmoor,Consumer,Belize,Belmopan,,,South,8679,Honey - Liquid,Dollar,Office Supplies,Phones,11,0.2,Ruble
+503,6280,2/21/2011,11/4/2011,Second Class,8822,Herc Duncan,Home Office,Philippines,Tabogon,,6009,South,6194,Ecolab - Solid Fusion,Peso,Furniture,Tables,12,0.3,Yuan Renminbi
+504,9179,9/11/2013,6/3/2014,First Class,5510,Stacey Castellet,Consumer,China,Shuikou,,,East,2869,Pie Filling - Cherry,Yuan Renminbi,Office Supplies,Chairs,38,0.12,Euro
+505,8606,10/24/2013,3/9/2019,Second Class,3421,Jacquelyn Lucia,Home Office,Chile,Molina,,,South,3486,Mini - Vol Au Vents,Peso,Technology,Chairs,42,0.27,Euro
+506,7935,2/23/2011,6/8/2016,Same Day,7843,Tawsha Echallier,Consumer,China,Duofudu,,,West,1792,"Nut - Hazelnut, Ground, Natural",Yuan Renminbi,Office Supplies,Phones,87,0.12,Lev
+507,5497,3/7/2021,4/8/2021,Standard Class,6255,Lawry Cornborough,Consumer,Philippines,Puerto Galera,,5203,East,6727,"Pork - Bacon, Double Smoked",Peso,Technology,Phones,20,0.16,Euro
+508,6045,7/3/2012,12/28/2022,Same Day,6022,Sonja Dain,Consumer,China,Sanhui,,,East,1309,"Nestea - Ice Tea, Diet",Yuan Renminbi,Office Supplies,Chairs,46,0.31,Euro
+509,1793,9/27/2014,10/20/2018,First Class,6815,Ingra Cowley,Corporate,Brazil,Pouso Alegre,,37550-000,East,3437,Duck - Whole,Real,Furniture,Accessories,39,0.11,Baht
+510,6353,1/22/2022,12/7/2017,Second Class,1437,Shaun Doxey,Consumer,Philippines,Sumalig,,9211,South,2170,Gatorade - Xfactor Berry,Peso,Technology,Phones,24,0.27,Yuan Renminbi
+511,1177,6/21/2010,1/20/2017,Same Day,5099,Antoni Kadar,Home Office,China,Pantang,,,North,9965,Towel - Roll White,Yuan Renminbi,Technology,Accessories,24,0.02,Kuna
+512,6215,4/18/2010,7/3/2018,Same Day,4269,Lise Warrier,Corporate,China,Lunang,,,West,8928,Hog / Sausage Casing - Pork,Yuan Renminbi,Furniture,Paper,76,0.02,Baht
+513,3741,3/10/2021,6/28/2016,Second Class,1065,Luciano Iddison,Corporate,Sweden,Linköping,Östergötland,582 46,South,7071,Croissants Thaw And Serve,Krona,Office Supplies,Chairs,21,0.3,Koruna
+514,2483,1/2/2018,9/28/2019,Same Day,4754,Randell Pepperd,Home Office,China,Qingquan,,,South,7439,Rye Special Old,Yuan Renminbi,Technology,Chairs,52,0.39,Real
+515,8607,5/13/2011,8/24/2016,First Class,6509,Ignacius Houldin,Corporate,Latvia,Valka,,,West,9202,Cake - Mini Cheesecake,Euro,Technology,Paper,53,0.2,Yuan Renminbi
+516,2231,4/3/2014,8/18/2013,First Class,6279,Brendon Teodoro,Consumer,Indonesia,Panoongan,,,North,5036,Dc Hikiage Hira Huba,Rupiah,Furniture,Accessories,81,0.1,Shekel
+517,9029,2/13/2017,4/30/2018,Second Class,7171,Tony Vella,Corporate,Burkina Faso,Yako,,,West,9538,Kumquat,Franc,Furniture,Paper,17,0.17,Krona
+518,5558,10/30/2016,4/17/2020,Same Day,1434,Monika Benson,Home Office,Finland,Uusikaupunki,,23501,West,9402,Petite Baguette,Euro,Technology,Phones,17,0.15,Balboa
+519,2037,1/26/2012,4/4/2020,First Class,9298,Bobine Mingaye,Home Office,Bulgaria,Chernomorets,,8151,North,9587,Wine - Sauvignon Blanc,Lev,Furniture,Chairs,32,0.5,Rupee
+520,4426,10/7/2021,5/29/2010,First Class,6129,Letisha Waldera,Consumer,Ecuador,Bahía de Caráquez,,,East,1790,Yogurt - Assorted Pack,Dollar,Office Supplies,Accessories,63,0.03,Lempira
+521,5434,10/25/2012,7/23/2018,Standard Class,7276,Kai Milthorpe,Home Office,Angola,N’dalatando,,,North,7149,Garbage Bag - Clear,Kwanza,Technology,Phones,54,0.47,Yuan Renminbi
+522,6037,8/6/2010,2/19/2010,Same Day,1125,Luce Schutt,Corporate,Venezuela,Caramuca,,,South,2978,Coffee Caramel Biscotti,Bolivar,Furniture,Phones,35,0.31,Real
+523,7365,4/24/2022,8/26/2012,Standard Class,8994,Stirling Wheeldon,Consumer,France,Perpignan,Languedoc-Roussillon,66845 CEDEX,South,5491,Bread - White Epi Baguette,Euro,Office Supplies,Chairs,57,0.11,Ruble
+524,1708,12/13/2019,12/26/2016,First Class,1674,Findlay Tilson,Corporate,Nigeria,Bornu Yassu,,,South,1158,Cake - Sheet Strawberry,Naira,Technology,Paper,100,0.16,Rupiah
+525,4318,12/28/2010,9/20/2014,Same Day,7515,Aloin Busek,Home Office,Tunisia,Jammāl,,,North,6597,Chips Potato Swt Chilli Sour,Dinar,Technology,Phones,3,0.12,Peso
+526,1935,10/20/2015,5/17/2011,First Class,1199,Jobyna MacMoyer,Consumer,Ireland,Stradbally,,Y34,South,4002,Marjoram - Fresh,Euro,Office Supplies,Paper,82,0.5,Dollar
+527,1161,1/20/2018,11/26/2011,Standard Class,3981,Deirdre Bevan,Corporate,China,Lixin,,,East,8438,Baking Powder,Yuan Renminbi,Technology,Tables,22,0.42,Ruble
+528,1778,10/26/2013,6/19/2012,First Class,6985,Sarene O'Siaghail,Corporate,China,Shetangpo,,,North,1017,Nut - Macadamia,Yuan Renminbi,Furniture,Accessories,58,0.05,Yuan Renminbi
+529,2114,4/12/2018,8/5/2014,Same Day,7772,Honey Brew,Home Office,Argentina,General Pinedo,,3732,East,9271,Cake - Night And Day Choclate,Peso,Technology,Phones,25,0.11,Yen
+530,6364,3/8/2015,5/1/2012,Second Class,1351,Karlan Juris,Corporate,Philippines,Polomolok,,9504,South,2492,Bread - Italian Corn Meal Poly,Peso,Furniture,Phones,54,0.4,Dollar
+531,4677,3/7/2019,6/12/2015,Second Class,5125,Gery Robbel,Consumer,Japan,Yugawara,,259-0318,West,1275,"Nut - Walnut, Pieces",Yen,Office Supplies,Phones,63,0.13,Baht
+532,5829,3/5/2014,12/21/2016,First Class,8593,Banky Meatcher,Corporate,Indonesia,Pliwetan,,,West,4496,"Corn - Cream, Canned",Rupiah,Furniture,Phones,30,0.24,Ruble
+533,3199,11/23/2014,11/19/2015,Standard Class,1624,Howey Seaborn,Home Office,Ukraine,Krasnokuts’k,,,South,2247,"Pail - 15l White, With Handle",Hryvnia,Furniture,Accessories,68,0.37,Peso
+534,9673,6/23/2015,12/4/2020,Second Class,1549,Rory De Bruijn,Corporate,Indonesia,Bojong,,,North,3342,Green Tea Refresher,Rupiah,Technology,Chairs,6,0.14,Ariary
+535,6010,8/25/2022,4/19/2012,Second Class,5264,Billy Reddlesden,Corporate,Indonesia,Ili,,,West,3767,"Mushroom - Trumpet, Dry",Rupiah,Furniture,Tables,41,0.48,Rupiah
+536,2536,8/5/2012,10/26/2011,First Class,6311,Gustav Clitsome,Corporate,Japan,Ōtsu-shi,,601-1386,West,2468,Truffle - Peelings,Yen,Technology,Chairs,74,0.09,Rupiah
+537,6085,9/18/2012,2/1/2021,Second Class,9017,Delilah Pullar,Consumer,Indonesia,Tempel,,,West,8944,"Doilies - 7, Paper",Rupiah,Technology,Accessories,59,0.21,Yuan Renminbi
+538,1241,6/9/2012,11/21/2013,First Class,4780,Ivar MacFadzan,Corporate,South Africa,Welkom,,9488,North,7404,Beef - Striploin,Rand,Technology,Paper,53,0.27,Franc
+539,9602,4/24/2016,2/21/2016,Same Day,8384,Riobard Meeking,Home Office,Argentina,Lincoln,,6070,West,7757,"Chicken - White Meat, No Tender",Peso,Office Supplies,Accessories,34,0.13,Dollar
+540,1527,5/10/2014,11/18/2014,Second Class,6878,Jobi Loddy,Home Office,Russia,Ekazhevo,,386150,South,2651,Dc - Frozen Momji,Ruble,Office Supplies,Phones,35,0.29,Yuan Renminbi
+541,4804,12/22/2010,11/22/2015,Second Class,5429,Nat Dulin,Corporate,Brazil,Mirador,,87840-000,West,7266,Wine - Peller Estates Late,Real,Technology,Chairs,1,0.31,Dollar
+542,6235,8/3/2010,1/22/2020,Same Day,7849,Sena Gooch,Corporate,Armenia,Sevan,,,West,6372,Onions - Red Pearl,Dram,Office Supplies,Chairs,63,0.28,Peso
+543,9505,1/24/2017,9/24/2011,Standard Class,9328,Nanon Novelli,Corporate,Cuba,Corralillo,,,West,3716,Cookies - Amaretto,Peso,Furniture,Chairs,19,0.24,Real
+544,6555,3/6/2022,7/3/2012,First Class,2826,Asia Camacke,Corporate,Indonesia,Bantilan,,,North,8712,Squid U5 - Thailand,Rupiah,Technology,Accessories,22,0.08,Rupiah
+545,5817,7/4/2020,7/29/2019,Standard Class,9241,Filippa Hulburt,Consumer,Russia,Novaya Derevnya,,186326,South,6989,Flour Dark Rye,Ruble,Office Supplies,Tables,58,0.24,Rand
+546,7059,2/16/2020,11/4/2015,First Class,4935,Michele Grahamslaw,Consumer,Indonesia,Langkaplancar,,,West,3595,"Appetizer - Spring Roll, Veg",Rupiah,Technology,Accessories,29,0.42,Yuan Renminbi
+547,8769,7/12/2014,6/5/2017,Same Day,3759,Ashleigh Prichard,Home Office,China,Xushuguan,,,North,7032,"Rum - Light, Captain Morgan",Yuan Renminbi,Furniture,Tables,24,0.46,Krona
+548,3139,8/4/2021,5/12/2017,First Class,3051,Emilia Cheel,Consumer,Indonesia,Banjar Kelodan,,,East,6758,Wine - Maipo Valle Cabernet,Rupiah,Furniture,Phones,77,0.39,Zloty
+549,3217,12/27/2021,3/8/2018,First Class,8979,Chrystel Peatman,Consumer,Tunisia,Qaşr Hallāl,,,East,7047,Sprouts - Baby Pea Tendrils,Dinar,Technology,Phones,76,0.27,Koruna
+550,4247,4/20/2019,3/28/2014,First Class,1650,Hadley Carl,Home Office,Philippines,Maigo,,9206,North,8106,Nacho Chips,Peso,Office Supplies,Phones,67,0.2,Som
+551,9828,11/12/2013,11/4/2016,Standard Class,6979,Frederick Kittel,Home Office,China,Caicun,,,West,7315,Flour - Bread,Yuan Renminbi,Furniture,Paper,2,0.44,Ariary
+552,1461,12/1/2019,3/28/2010,First Class,4660,Tyson Gateley,Consumer,Ecuador,Nueva Loja,,,East,8986,"Turkey - Breast, Double",Dollar,Furniture,Tables,27,0.43,Hryvnia
+553,2852,4/27/2011,1/29/2013,First Class,1607,Glendon Brave,Consumer,Russia,Meget,,155381,West,5360,"Chicken - Breast, 5 - 7 Oz",Ruble,Office Supplies,Chairs,5,0.05,Yuan Renminbi
+554,5591,12/2/2021,10/11/2015,First Class,3379,Candra Cloney,Corporate,Canada,Saint-Lambert-de-Lauzon,Québec,V6L,South,3178,Yoplait Drink,Dollar,Technology,Phones,85,0.37,Dollar
+555,3359,10/24/2013,9/22/2022,Same Day,2188,Rocky Kubista,Home Office,China,Shuangpengxi,,,North,1164,Bag Clear 10 Lb,Yuan Renminbi,Furniture,Phones,68,0.38,Yuan Renminbi
+556,8726,10/8/2017,2/15/2017,Same Day,2495,Vanny Greenig,Consumer,Norway,Tønsberg,Vestfold,3114,North,2220,Lemonade - Pineapple Passion,Krone,Technology,Paper,90,0.06,Rial
+557,1539,11/20/2010,2/5/2015,Second Class,3366,Joscelin Labrow,Home Office,Indonesia,Tanjungrejo Lor,,,South,6326,Coffee Cup 8oz 5338cd,Rupiah,Furniture,Tables,95,0.04,Yuan Renminbi
+558,1342,6/24/2016,1/29/2018,Same Day,2586,Gillian Millson,Corporate,Philippines,Dobdoban,,6126,West,8747,"Rum - White, Gg White",Peso,Technology,Accessories,1,0.18,Denar
+559,4442,5/10/2017,3/9/2020,Standard Class,8863,Shayne Kunert,Consumer,Portugal,Donim,Braga,4805-178,South,1246,Broom Handle,Euro,Technology,Tables,65,0.15,Dollar
+560,3929,10/2/2015,3/17/2010,Standard Class,8735,Raimondo Vigours,Home Office,China,Shatou,,,East,1533,"Beans - Fava, Canned",Yuan Renminbi,Furniture,Tables,53,0.45,Peso
+561,8925,5/21/2022,8/28/2019,Standard Class,3349,Tamera Boome,Home Office,Nigeria,Kari,,,North,8170,"Bread - Bagels, Plain",Naira,Furniture,Paper,25,0.4,Koruna
+562,7164,7/24/2011,8/15/2020,Same Day,8889,Jourdan Scopham,Corporate,Ivory Coast,Bondoukou,,,South,1729,"Doilies - 10, Paper",Franc,Technology,Paper,90,0.21,Peso
+563,6009,8/31/2015,4/1/2015,First Class,8771,Ferdinand Howroyd,Home Office,Indonesia,Ngrayun,,,West,3635,Bagelers,Rupiah,Office Supplies,Accessories,40,0.02,Dong
+564,3367,3/27/2013,9/12/2013,Same Day,4817,Jennine Bessey,Corporate,Indonesia,Gebang,,,East,6105,Cake - Box Window 10x10x2.5,Rupiah,Furniture,Paper,88,0.25,Peso
+565,7273,11/2/2019,2/24/2019,Standard Class,3090,Anthiathia Glenton,Consumer,South Africa,Emnambithi-Ladysmith,,3384,West,3749,Cookie Double Choco,Rand,Technology,Phones,9,0.32,Yuan Renminbi
+566,5845,2/5/2010,11/15/2018,First Class,3581,Clive Brittin,Home Office,Philippines,La Dicha,,7039,East,8822,Cucumber - English,Peso,Furniture,Tables,90,0.31,Rupee
+567,9535,3/30/2017,5/28/2016,Standard Class,3259,Osmond Southway,Home Office,Venezuela,La Asunción,,,South,3290,Longos - Assorted Sandwich,Bolivar,Technology,Paper,20,0.22,Ruble
+568,4136,8/17/2018,9/17/2020,Standard Class,8963,Benetta Sorley,Corporate,Portugal,Quinta dos Frades,Leiria,2420-334,North,5961,Shortbread - Cookie Crumbs,Euro,Furniture,Chairs,36,0.49,Zloty
+569,8995,7/11/2015,6/7/2020,Standard Class,1329,Marigold Somerset,Corporate,China,Dadian,,,South,5595,Lobster - Cooked,Yuan Renminbi,Furniture,Chairs,54,0.12,Ruble
+570,8915,10/14/2022,1/23/2020,First Class,8437,Nickola Toulamain,Consumer,China,Changqiao,,,South,5686,Chinese Foods - Chicken,Yuan Renminbi,Furniture,Phones,51,0.45,Marka
+571,9556,3/28/2014,11/10/2012,Same Day,2232,Lilas Weight,Home Office,Liberia,Monrovia,,,East,9824,Bread - Onion Focaccia,Dollar,Office Supplies,Chairs,94,0.1,Kwacha
+572,9061,11/17/2015,1/18/2018,Standard Class,7883,Sella Steiner,Consumer,Croatia,Žrnovnica,,21251,North,9598,Crab - Imitation Flakes,Kuna,Office Supplies,Chairs,22,0.08,Euro
+573,7369,6/28/2015,7/22/2016,Standard Class,5396,Kass Rehorek,Corporate,Bangladesh,Bogra,,4520,South,7752,Mix - Cocktail Strawberry Daiquiri,Taka,Office Supplies,Paper,29,0.25,Cordoba
+574,1875,11/16/2015,12/10/2015,Second Class,8953,Christopher Broxis,Home Office,China,Dali,,,South,4267,Wine - Remy Pannier Rose,Yuan Renminbi,Furniture,Chairs,78,0.49,Peso
+575,8537,2/24/2016,12/1/2020,Standard Class,7023,Inesita Windsor,Consumer,China,Linjiang,,,West,9360,Sorrel - Fresh,Yuan Renminbi,Office Supplies,Paper,49,0.13,Euro
+576,7279,9/9/2019,8/1/2018,First Class,7806,Darell Stanier,Home Office,China,Xiaoshi,,,South,2194,Langers - Cranberry Cocktail,Yuan Renminbi,Technology,Chairs,41,0.02,Shilling
+577,2330,6/20/2018,3/7/2011,Same Day,6726,Maurie Mumbey,Consumer,Norway,Askim,Ostfold,1808,North,8031,Wine - Black Tower Qr,Krone,Furniture,Accessories,46,0.27,Yuan Renminbi
+578,7453,3/18/2013,6/12/2016,Standard Class,1315,Rafi Wallbank,Home Office,Indonesia,Mbongawani,,,East,4665,Thyme - Fresh,Rupiah,Furniture,Chairs,49,0.12,Afghani
+579,7285,6/22/2015,10/13/2016,Same Day,9964,Grethel Andrews,Consumer,Mexico,San Antonio,San Luis Potosi,78436,West,1264,The Pop Shoppe Pinapple,Peso,Office Supplies,Tables,57,0.23,Yuan Renminbi
+580,6968,9/5/2021,2/9/2018,Standard Class,2775,Xenos Bradbury,Home Office,Japan,Ōta,,373-0862,East,5102,Mustard - Dijon,Yen,Furniture,Paper,74,0.46,Tenge
+581,1897,12/24/2021,6/21/2019,Standard Class,5618,Caro Vigar,Consumer,Indonesia,Sumberan,,,South,8363,"Lemonade - Black Cherry, 591 Ml",Rupiah,Furniture,Accessories,43,0.38,Real
+582,1789,7/28/2014,7/10/2019,Standard Class,9818,Krishna Dowson,Home Office,China,Jinjiang,,,North,6370,"Chicken - Breast, 5 - 7 Oz",Yuan Renminbi,Technology,Accessories,26,0.18,Ruble
+583,6444,1/30/2017,4/11/2017,Standard Class,9397,Launce Povah,Home Office,China,Yushu,,,West,7832,Sugar - Palm,Yuan Renminbi,Office Supplies,Accessories,5,0.21,Yuan Renminbi
+584,5206,2/16/2013,7/3/2014,Standard Class,7260,Sosanna Hoble,Corporate,Russia,Loukhi,,186660,North,5548,Bread Base - Goodhearth,Ruble,Furniture,Tables,27,0.06,Rupiah
+585,2801,6/27/2015,4/16/2021,Second Class,4455,Consalve Lorman,Consumer,Luxembourg,Lamadelaine,,L-4888,West,8555,"Wine - White, Mosel Gold",Euro,Office Supplies,Tables,5,0.26,Naira
+586,9785,11/19/2013,10/10/2016,Standard Class,5173,Emilie Sharpless,Corporate,Brazil,Pindamonhangaba,,12400-000,North,1897,Artichokes - Jerusalem,Real,Technology,Accessories,22,0.16,Hryvnia
+587,9169,3/30/2011,9/3/2022,Second Class,6697,Celestyna Larver,Home Office,Argentina,Esquina,,5131,East,6434,"Nut - Hazelnut, Ground, Natural",Peso,Technology,Chairs,66,0.13,Peso
+588,4027,4/24/2014,5/8/2011,Second Class,2161,Daveen Winspar,Home Office,Indonesia,Nyapar,,,North,4811,"Sauce - Gravy, Au Jus, Mix",Rupiah,Technology,Accessories,71,0.29,Dinar
+589,6283,1/2/2016,3/7/2019,First Class,6632,Dion Mayling,Consumer,Philippines,Saraza,,2804,North,1585,Bouillion - Fish,Peso,Furniture,Paper,36,0.08,Rupiah
+590,2975,9/10/2022,1/20/2013,Same Day,6855,Dominik Flescher,Home Office,Indonesia,Pilang,,,East,4695,"Coconut - Shredded, Sweet",Rupiah,Office Supplies,Accessories,42,0.46,Real
+591,4238,12/5/2013,11/14/2020,First Class,5552,Philip Stentiford,Consumer,Venezuela,Queniquea,,,West,1746,Chicken - Whole Roasting,Bolivar,Technology,Tables,66,0.49,Yuan Renminbi
+592,7471,11/11/2015,7/23/2012,Same Day,9159,Keane Ivasyushkin,Corporate,Philippines,Lapu-Lapu City,,6015,North,1050,Lychee - Canned,Peso,Technology,Accessories,2,0.14,Peso
+593,7115,12/15/2017,4/8/2011,Standard Class,2188,Sharleen Smyth,Corporate,Indonesia,Banjarbaru,,,East,9368,Ecolab - Solid Fusion,Rupiah,Furniture,Paper,16,0.08,Kyat
+594,7937,7/30/2014,11/7/2018,Second Class,9776,Gradeigh Wholesworth,Home Office,Greece,Kónitsa,,,South,5539,Straw - Regular,Euro,Office Supplies,Accessories,8,0.12,Franc
+595,8924,11/13/2020,9/13/2016,Second Class,3400,Devonne Navaro,Home Office,Ivory Coast,Tiassalé,,,South,4328,Vinegar - Red Wine,Franc,Office Supplies,Phones,4,0.32,Yuan Renminbi
+596,8079,3/14/2012,5/4/2020,Same Day,7377,Kaja Zuker,Consumer,Peru,Caballococha,,,West,8404,Creme De Banane - Marie,Sol,Technology,Chairs,3,0.49,Real
+597,6973,7/24/2018,12/10/2017,First Class,9059,Hillary Figiovanni,Corporate,Philippines,Peñarrubia,,2804,West,9088,Oil - Sesame,Peso,Furniture,Paper,36,0.27,Ruble
+598,4728,4/27/2017,2/18/2012,Same Day,7972,Bartholemy Seegar,Consumer,United States,Wichita,Kansas,67236,East,3340,"Syrup - Monin, Swiss Choclate",Dollar,Furniture,Phones,52,0.49,Yen
+599,4916,7/17/2021,2/5/2010,Second Class,9342,Aubry Fountaine,Consumer,Colombia,Municipio de Copacabana,,051048,East,4740,"Shrimp - 21/25, Peel And Deviened",Peso,Office Supplies,Paper,92,0.1,Denar
+600,1483,10/16/2021,7/12/2016,Second Class,1057,Henrik Convery,Consumer,Panama,Colón,,,North,3714,Lettuce - Arugula,Balboa,Furniture,Chairs,95,0.05,Yuan Renminbi
+601,2181,10/16/2015,4/26/2010,Standard Class,7370,Albert Vernau,Consumer,China,Dongshui,,,South,2197,Pastry - Chocolate Marble Tea,Yuan Renminbi,Technology,Paper,84,0.16,Yuan Renminbi
+602,1705,4/18/2017,3/7/2018,Same Day,5937,Miran Poznan,Home Office,Iran,Kangān,,,West,2890,"Schnappes - Peach, Walkers",Rial,Technology,Paper,5,0.42,Real
+603,9156,8/29/2019,8/7/2021,Same Day,3389,Melodee Castlake,Corporate,Argentina,Zárate,,3423,West,4296,Bar Energy Chocchip,Peso,Furniture,Tables,63,0.28,Krone
+604,4397,11/2/2020,12/10/2016,Same Day,8414,Danny Simanenko,Corporate,Indonesia,Sarae,,,East,9324,Bacardi Raspberry,Rupiah,Office Supplies,Tables,35,0.1,Real
+605,9349,2/3/2021,6/12/2014,Second Class,8413,Maddy Tures,Consumer,Belarus,Slawharad,,,North,8888,Wine - Carmenere Casillero Del,Ruble,Office Supplies,Paper,99,0.3,Escudo
+606,7518,9/18/2021,4/24/2016,First Class,9779,Lilllie Ringsell,Consumer,Philippines,Santa Lucia,,2712,South,8035,Oven Mitts - 15 Inch,Peso,Technology,Paper,97,0.01,Dinar
+607,9736,1/28/2015,6/30/2022,First Class,1185,Marianne Aylmore,Corporate,Russia,Satinka,,399088,South,2777,Beer - True North Strong Ale,Ruble,Office Supplies,Accessories,34,0.06,Dollar
+608,5343,4/18/2019,9/27/2016,First Class,6204,Latisha Ivanin,Corporate,China,Lijiazui,,,West,3715,Squid Ink,Yuan Renminbi,Office Supplies,Phones,92,0.26,Colon
+609,8686,4/27/2014,3/10/2015,Second Class,8025,Eve Kennelly,Home Office,Sweden,Hässleholm,Skåne,281 43,West,1212,"Basil - Primerba, Paste",Krona,Furniture,Paper,84,0.28,Dollar
+610,1254,11/7/2012,7/31/2021,Same Day,8013,Lidia Ida,Consumer,China,Xiayunling,,,East,3947,Filo Dough,Yuan Renminbi,Office Supplies,Tables,50,0.37,Yuan Renminbi
+611,7554,6/12/2010,6/24/2019,Standard Class,3452,Rosabel Pinckard,Corporate,China,Huangwan,,,East,1458,Pasta - Canelloni,Yuan Renminbi,Technology,Phones,68,0.45,Krona
+612,2364,4/25/2010,6/27/2013,First Class,5834,Ellissa Coolahan,Home Office,China,Xiangtang,,,East,2021,Tea - Lemon Scented,Yuan Renminbi,Office Supplies,Chairs,99,0.34,Rupee
+613,7801,9/25/2019,5/8/2018,First Class,6138,Cordy Derricoat,Consumer,Russia,Borovikha,,658065,North,6569,"Pasta - Elbows, Macaroni, Dry",Ruble,Office Supplies,Tables,88,0.41,Naira
+614,7980,2/18/2019,6/16/2022,Second Class,6564,Dalenna Willeman,Corporate,China,Guozhuang,,,East,4945,Sprouts - Corn,Yuan Renminbi,Technology,Chairs,14,0.38,Dollar
+615,9594,6/19/2015,1/15/2013,Same Day,1717,Carleton Dugdale,Consumer,China,Puyang,,,West,6882,"Juice - Apple, 500 Ml",Yuan Renminbi,Office Supplies,Accessories,78,0.43,Hryvnia
+616,7863,10/13/2022,7/26/2021,Second Class,7847,Denys Sidnell,Home Office,Russia,Kulunda,,249070,East,9526,Lettuce - Iceberg,Ruble,Office Supplies,Tables,9,0.12,Yuan Renminbi
+617,7443,12/25/2012,12/20/2013,Second Class,7521,Hercules Vizard,Corporate,Portugal,Giesteira,Viana do Castelo,4950-830,North,9842,"Beef - Outside, Round",Euro,Furniture,Accessories,97,0.12,Peso
+618,9908,1/30/2014,12/13/2019,Second Class,1671,Kennith Schulze,Home Office,China,Lingkou,,,West,1925,Pastry - Apple Muffins - Mini,Yuan Renminbi,Office Supplies,Tables,53,0.27,Euro
+619,1791,8/9/2020,4/24/2022,Second Class,1718,Anitra Whatling,Consumer,Indonesia,Kawungsari,,,East,1939,Wine - Chablis J Moreau Et Fils,Rupiah,Furniture,Chairs,38,0.22,Rupiah
+620,5482,1/28/2020,12/11/2019,Second Class,7596,Abramo Delafoy,Home Office,Poland,Karsin,,83-440,North,4471,"Chestnuts - Whole,canned",Zloty,Technology,Tables,15,0.12,Shilling
+621,1966,1/28/2018,4/22/2022,Second Class,5962,Rosette Whitemarsh,Consumer,Russia,Ol’ginka,,352840,East,4376,Veal - Kidney,Ruble,Technology,Paper,69,0.07,Naira
+622,8132,1/14/2018,10/21/2016,Same Day,9756,Marie Janousek,Home Office,China,Longqiao,,,South,2858,Energy Drink Red Bull,Yuan Renminbi,Office Supplies,Paper,9,0.23,Rupiah
+623,9023,1/26/2020,11/25/2021,Standard Class,9597,Cilka Rowntree,Corporate,East Timor,Maliana,,,East,9079,"Trout - Rainbow, Fresh",Dollar,Technology,Accessories,95,0.38,Dollar
+624,4182,9/2/2017,2/28/2020,Standard Class,1344,Vivyanne Simone,Home Office,China,Baiyang,,,East,3574,Mousse - Mango,Yuan Renminbi,Technology,Paper,85,0.08,Euro
+625,2878,9/27/2022,11/23/2016,Same Day,7208,Paige Purselowe,Corporate,Indonesia,Jatake,,,East,7184,"Lamb - Whole, Fresh",Rupiah,Office Supplies,Tables,31,0.01,Taka
+626,3256,10/21/2011,2/20/2013,Standard Class,9967,Rowena Fechnie,Consumer,Colombia,Palmar de Varela,,083087,South,1796,Garbage Bags - Clear,Peso,Furniture,Tables,92,0.36,Ruble
+627,7946,8/16/2022,10/18/2020,Standard Class,4380,Phylis Farlowe,Corporate,China,Erhaodi,,,South,1137,Flour - Strong,Yuan Renminbi,Technology,Paper,72,0.46,Pound
+628,5016,11/12/2022,4/14/2022,Same Day,7399,Cammy Andrioli,Corporate,Macedonia,Радовиш,,2423,North,1479,Jam - Raspberry,Denar,Technology,Phones,24,0.32,Ruble
+629,6928,2/15/2019,5/23/2016,First Class,8519,Matti Josselson,Corporate,Brazil,Castro,,84160-000,West,8356,Urban Zen Drinks,Real,Technology,Phones,23,0.38,Real
+630,1879,6/19/2020,4/7/2013,Same Day,7488,Felecia Simcoe,Home Office,United States,Jacksonville,Florida,32209,West,2683,Anchovy Paste - 56 G Tube,Dollar,Technology,Paper,12,0.35,Real
+631,8399,3/20/2015,3/4/2012,Standard Class,7826,Juliette Gravenall,Home Office,Thailand,Wang Nam Yen,,27120,West,4296,"Carrots - Purple, Organic",Baht,Office Supplies,Tables,49,0.18,Real
+632,8128,1/9/2022,3/17/2016,Second Class,7179,Nathanael Brownhall,Consumer,Indonesia,Dopang,,,East,5464,Knife Plastic - White,Rupiah,Furniture,Accessories,28,0.0,Euro
+633,4581,10/6/2018,9/2/2012,Same Day,2068,Corney Siveyer,Consumer,Gabon,Mayumba,,,East,4551,"Salmon - Atlantic, No Skin",Franc,Technology,Accessories,60,0.49,Litas
+634,9516,3/3/2017,8/7/2012,Standard Class,3750,Charlot Harriman,Home Office,France,Montpellier,Languedoc-Roussillon,34004 CEDEX 1,North,2953,"Pepper - Chipotle, Canned",Euro,Technology,Tables,89,0.43,Rial
+635,6538,11/5/2010,2/17/2011,Standard Class,8501,Gerome Burgan,Corporate,Portugal,Bairro do Margaça,Setúbal,2965-530,West,6570,Mackerel Whole Fresh,Euro,Technology,Accessories,92,0.02,Ruble
+636,8141,2/15/2010,9/17/2016,First Class,9915,Tillie Eastmond,Home Office,Palestinian Territory,Ḩablah,,,West,8265,General Purpose Trigger,Shekel,Technology,Paper,71,0.12,Zloty
+637,9577,1/17/2017,6/30/2020,Same Day,1510,Sydney Windrum,Corporate,Jordan,Mafraq,,,East,9168,Wine - Sogrape Mateus Rose,Dinar,Technology,Tables,65,0.49,Euro
+638,8397,8/29/2015,1/20/2015,Second Class,3364,Joyous Hairyes,Consumer,United States,Tulsa,Oklahoma,74103,West,9608,Ice Cream Bar - Hagen Daz,Dollar,Furniture,Accessories,65,0.37,Dollar
+639,2443,8/8/2015,5/2/2011,Same Day,6886,Netti Preedy,Corporate,Afghanistan,Chandal Bā’ī,,,East,7351,"Soup - Campbells, Minestrone",Afghani,Furniture,Accessories,26,0.1,Euro
+640,7752,9/21/2012,10/18/2013,Same Day,6081,Jennee Doidge,Home Office,Estonia,Kunda,,,South,9313,Cup - 4oz Translucent,Euro,Office Supplies,Accessories,77,0.06,Krone
+641,1966,3/10/2021,12/23/2016,Same Day,1061,Mandi Good,Consumer,New Zealand,Wakefield,,7052,South,6897,"Water - Mineral, Natural",Dollar,Furniture,Accessories,26,0.37,Euro
+642,3539,4/12/2021,1/15/2013,Second Class,9027,Holmes Guilaem,Consumer,Sweden,Kristianstad,Skåne,291 41,South,6395,General Purpose Trigger,Krona,Furniture,Paper,83,0.47,Yuan Renminbi
+643,3350,5/31/2014,12/22/2016,Same Day,7073,Jammie Hugland,Corporate,Indonesia,Winong,,,West,4548,Flax Seed,Rupiah,Furniture,Phones,92,0.43,Koruna
+644,4422,12/13/2015,7/24/2015,Standard Class,3279,Bird O' Neligan,Home Office,Russia,Gaptsakh,,391625,West,6129,Mousse - Mango,Ruble,Technology,Chairs,60,0.47,Tenge
+645,2793,5/11/2021,10/9/2016,First Class,3420,Arlie Jarrad,Consumer,Canada,Mont-Laurier,Québec,J9L,East,7301,Emulsifier,Dollar,Office Supplies,Phones,89,0.33,Zloty
+646,5017,12/20/2011,5/1/2010,Same Day,2125,Brooks Bilbery,Corporate,China,Zoumaling,,,East,7922,Soy Protein,Yuan Renminbi,Office Supplies,Paper,1,0.45,Dollar
+647,2758,2/13/2017,12/8/2013,First Class,7187,Lucilia Crangle,Corporate,Thailand,Nakhon Nayok,,26120,West,7431,Cleaner - Bleach,Baht,Technology,Accessories,79,0.04,Yen
+648,3111,6/2/2018,10/6/2016,Standard Class,7998,Tom Dalrymple,Corporate,France,Aubergenville,Île-de-France,78415 CEDEX,West,2245,Bread - Granary Small Pull,Euro,Technology,Tables,17,0.14,Won
+649,9220,7/21/2018,6/15/2020,Second Class,6042,Shannah Doni,Corporate,China,Ximei,,,North,5409,Sauce - Balsamic Viniagrette,Yuan Renminbi,Office Supplies,Accessories,64,0.45,Peso
+650,6379,8/5/2017,2/4/2018,Standard Class,7118,Edie Grewcock,Home Office,Indonesia,Cikarang,,,South,3475,Monkfish Fresh - Skin Off,Rupiah,Office Supplies,Accessories,70,0.25,Rupiah
+651,7477,11/12/2017,1/28/2022,Standard Class,2604,Brandea Beller,Consumer,China,Jincun,,,East,6614,Cake - Miini Cheesecake Cherry,Yuan Renminbi,Office Supplies,Phones,19,0.06,Hryvnia
+652,3978,4/21/2022,6/18/2016,Standard Class,1349,Leigh Franzini,Consumer,China,Taiping,,,South,7013,Icecream - Dibs,Yuan Renminbi,Technology,Accessories,15,0.29,Baht
+653,8553,2/10/2021,6/1/2017,Second Class,7851,Gannie Pettet,Home Office,Indonesia,Cogreg Wetan,,,East,5705,Ice Cream Bar - Rolo Cone,Rupiah,Furniture,Paper,82,0.35,Peso
+654,6756,10/5/2021,5/29/2022,Second Class,5431,Hewet Cobson,Corporate,Serbia,Svrljig,,,West,3149,Wine - Cousino Macul Antiguas,Dinar,Technology,Phones,36,0.28,Sol
+655,8427,7/17/2020,8/16/2021,Same Day,8971,Emanuel Doole,Corporate,Indonesia,Banjar Pande,,,South,3847,Allspice - Jamaican,Rupiah,Office Supplies,Tables,50,0.31,Krona
+656,6816,9/6/2017,10/22/2022,Second Class,1586,Inglebert Sammes,Home Office,Kiribati,Banana Village,,,North,8189,Table Cloth 90x90 White,Dollar,Furniture,Phones,57,0.11,Tugrik
+657,7149,4/3/2011,8/23/2021,Same Day,6276,Arleen Banishevitz,Consumer,China,Duogongma,,,North,2247,"Schnappes - Peach, Walkers",Yuan Renminbi,Technology,Paper,58,0.36,Euro
+658,6737,6/15/2010,4/30/2011,Standard Class,3447,Vevay Gossop,Corporate,Jordan,Kurayyimah,,,South,3325,Toamtoes 6x7 Select,Dinar,Furniture,Paper,76,0.2,Yuan Renminbi
+659,3044,1/24/2021,1/8/2012,First Class,9661,Sela McHale,Consumer,Malaysia,Kota Kinabalu,Sabah,88592,East,9032,Milk - Homo,Ringgit,Office Supplies,Phones,59,0.37,Ruble
+660,8082,1/25/2022,4/7/2014,Standard Class,7280,Petrina Gorhardt,Consumer,Poland,Bielawy,,99-423,North,5001,Pork - Hock And Feet Attached,Zloty,Technology,Tables,53,0.27,Euro
+661,7994,7/28/2012,5/2/2010,Second Class,5219,Issi Coenraets,Home Office,China,Xiangcheng,,,South,3539,Water - Aquafina Vitamin,Yuan Renminbi,Furniture,Tables,35,0.04,Dong
+662,2486,7/4/2021,10/25/2011,Second Class,3618,Jorie Fairn,Corporate,Guinea,Siguiri,,,North,8369,Veal - Slab Bacon,Franc,Furniture,Phones,7,0.24,Ruble
+663,1183,11/21/2021,8/5/2015,First Class,8895,Leandra Randals,Corporate,Yemen,Madīnat Lab‘ūs,,,East,9046,Oil - Margarine,Rial,Technology,Accessories,3,0.16,Somoni
+664,7707,4/7/2016,5/28/2011,First Class,6385,Zorah Coe,Home Office,China,Hangji,,,East,8677,"Mushroom - Enoki, Fresh",Yuan Renminbi,Office Supplies,Chairs,46,0.31,Peso
+665,1329,6/30/2020,3/22/2020,Second Class,3326,Tuck Hakonsen,Corporate,France,Locminé,Bretagne,56504 CEDEX,South,1957,"Wine - Red, Pinot Noir, Chateau",Euro,Furniture,Chairs,47,0.25,Rupiah
+666,3800,9/30/2020,8/22/2010,First Class,3440,Kiele Tomich,Corporate,Palestinian Territory,Khallat Ḩamāmah,,,West,5314,Higashimaru Usukuchi Soy,Shekel,Technology,Accessories,80,0.48,Yuan Renminbi
+667,6514,12/9/2014,5/11/2018,First Class,4389,Tomlin Wraith,Corporate,Indonesia,Kabukarudi,,,West,6891,Cream - 10%,Rupiah,Technology,Phones,17,0.2,Zloty
+668,8793,8/30/2018,5/17/2014,Second Class,1544,Maurise Olanda,Corporate,Brazil,Rolante,,95690-000,South,5337,Wine - Prosecco Valdobiaddene,Real,Office Supplies,Chairs,80,0.47,Euro
+669,4697,9/4/2015,5/2/2019,Second Class,7917,Damien Meeland,Consumer,Tanzania,Kibara,,,East,5169,"Vodka - Lemon, Absolut",Shilling,Furniture,Phones,54,0.1,Yuan Renminbi
+670,6465,12/21/2020,3/16/2022,Second Class,3622,Johnath Whitfeld,Corporate,United States,Oklahoma City,Oklahoma,73119,West,6954,Chevere Logs,Dollar,Office Supplies,Accessories,46,0.19,Ruble
+671,8845,2/26/2015,11/29/2017,Standard Class,2048,Garald Brea,Home Office,Portugal,Casa Nova,Lisboa,2655-425,East,7836,Cattail Hearts,Euro,Furniture,Accessories,49,0.34,Yuan Renminbi
+672,1617,3/20/2013,9/27/2014,Standard Class,9395,Orelie Dykes,Consumer,Nigeria,Iwo,,,South,9583,"Salmon - Atlantic, Skin On",Naira,Technology,Paper,34,0.36,Real
+673,7141,5/23/2022,3/1/2018,Same Day,6870,Ransell Studart,Home Office,Panama,Llano de Piedra,,,South,7808,Broom - Angled,Balboa,Office Supplies,Chairs,36,0.44,Krona
+674,4626,11/5/2021,1/13/2022,Second Class,6788,Thomasine Scritch,Consumer,Kenya,Muhoroni,,,South,7262,Wine - Spumante Bambino White,Shilling,Technology,Accessories,9,0.33,Yuan Renminbi
+675,4156,12/9/2014,12/10/2021,Second Class,5729,Esme Zelake,Home Office,Indonesia,Ngurensiti,,,West,1671,Pork - Backs - Boneless,Rupiah,Furniture,Paper,98,0.09,Dollar
+676,5202,8/3/2014,4/30/2010,Standard Class,6652,Cassi Mattocks,Corporate,Poland,Koronowo,,86-010,East,7093,Grand Marnier,Zloty,Technology,Accessories,87,0.44,Real
+677,4932,3/19/2020,9/9/2018,Second Class,4061,Dannel Ramsdell,Home Office,Indonesia,Kalangbret,,,South,4378,Paper Cocktail Umberlla 80 - 180,Rupiah,Technology,Chairs,51,0.27,Yuan Renminbi
+678,9770,10/25/2018,10/20/2016,Standard Class,3780,Ardis Boulton,Consumer,Russia,Aniva,,694030,South,9510,Corn Syrup,Ruble,Furniture,Accessories,10,0.45,Pound
+679,9513,10/2/2018,8/8/2018,Same Day,1986,Merry Hannaford,Home Office,Argentina,Libertador General San Martín,,4514,South,8090,Cookie Choc,Peso,Technology,Phones,72,0.29,Euro
+680,1809,7/9/2013,8/24/2020,Second Class,3980,Ardisj Disbrey,Home Office,United States,Las Vegas,Nevada,89178,North,5474,Juice - Lemon,Dollar,Office Supplies,Accessories,25,0.27,Yuan Renminbi
+681,3648,2/5/2017,11/2/2019,Same Day,4904,Kahaleel Tunnicliffe,Corporate,China,Shajing,,,South,7645,Muffin Mix - Corn Harvest,Yuan Renminbi,Furniture,Chairs,99,0.11,Dollar
+682,3834,4/30/2021,11/30/2013,Same Day,2604,Jule Quinn,Home Office,China,Baimiao,,,West,2065,Muffin Mix - Lemon Cranberry,Yuan Renminbi,Furniture,Chairs,38,0.08,Dalasi
+683,7455,7/4/2020,6/27/2020,First Class,3492,Valle Rubanenko,Consumer,Malaysia,Kuala Lumpur,Kuala Lumpur,55908,North,7288,Soup - Campbells Beef Strogonoff,Ringgit,Office Supplies,Tables,34,0.32,Ruble
+684,3357,9/16/2011,5/6/2011,Standard Class,9587,Veriee O'Geneay,Corporate,Botswana,Letlhakane,,,South,5732,"Vinegar - Balsamic, White",Pula,Furniture,Accessories,93,0.41,Bolivar
+685,1291,8/26/2013,5/23/2018,First Class,6430,Meaghan Guilloux,Corporate,Sweden,Saltsjö-Boo,Stockholm,132 30,North,7114,Carbonated Water - Raspberry,Krona,Office Supplies,Paper,63,0.5,Rupiah
+686,6314,4/17/2015,7/2/2018,Second Class,6117,Keriann Iapico,Home Office,Indonesia,Cisewu,,,North,4768,Island Oasis - Strawberry,Rupiah,Furniture,Accessories,3,0.35,Dirham
+687,5711,6/16/2022,12/13/2018,Standard Class,3857,Oates Bullant,Home Office,South Sudan,Tambura,,,North,1688,Wine - Rioja Campo Viejo,Pound,Furniture,Tables,73,0.13,Rupiah
+688,3859,3/7/2015,8/9/2017,Standard Class,3261,Lamont Dunsmore,Consumer,Russia,Nikolayevskaya,,347272,North,7715,Bread - Ciabatta Buns,Ruble,Technology,Paper,45,0.17,Euro
+689,9820,4/12/2021,12/4/2012,Second Class,4108,Kenyon Southern,Consumer,Estonia,Kuressaare,,,West,2750,Calaloo,Euro,Office Supplies,Paper,30,0.38,Ruble
+690,3963,7/3/2014,5/18/2021,First Class,5864,Margarethe Kisby,Home Office,Poland,Lubowidz,,09-304,North,1307,Toothpick Frilled,Zloty,Furniture,Accessories,38,0.12,Krona
+691,4585,5/13/2010,10/18/2010,Same Day,8459,Curcio Long,Corporate,Portugal,Campo,Braga,4715-477,North,5319,Longos - Burritos,Euro,Technology,Paper,47,0.07,Dollar
+692,2362,9/21/2019,9/9/2015,Standard Class,9583,Carmella Townby,Home Office,France,Wissembourg,Alsace,67165 CEDEX,West,3745,Venison - Denver Leg Boneless,Euro,Furniture,Accessories,60,0.41,Rupiah
+693,7144,10/27/2019,4/18/2018,Second Class,5258,Binny Fredi,Home Office,Poland,Annopol,,23-235,West,8871,"Bread - Rolls, Rye",Zloty,Furniture,Chairs,33,0.39,Euro
+694,2370,9/5/2012,1/27/2015,Standard Class,6965,Umeko Dionsetti,Corporate,Philippines,Rizal,,7104,North,2688,Cheese - Marble,Peso,Furniture,Chairs,29,0.32,Franc
+695,5550,11/20/2013,11/29/2013,Standard Class,8822,Nappie Trouncer,Consumer,Indonesia,Manukaka,,,East,2889,Nacho Chips,Rupiah,Furniture,Chairs,33,0.17,Euro
+696,3650,12/10/2016,12/10/2018,Standard Class,8415,Helge Petrolli,Consumer,China,Taihe,,,North,9280,"Lamb - Whole, Frozen",Yuan Renminbi,Furniture,Chairs,5,0.29,Dollar
+697,5960,10/15/2014,9/14/2015,Same Day,8932,Kory Fullom,Home Office,Indonesia,Lengkongjaya,,,West,6054,Sword Pick Asst,Rupiah,Furniture,Phones,15,0.43,Rupiah
+698,2083,2/25/2015,10/15/2020,Standard Class,1044,Kermit Vedyasov,Home Office,United States,Shawnee Mission,Kansas,66225,West,8066,Pepper - Red Chili,Dollar,Office Supplies,Chairs,79,0.48,Euro
+699,5838,1/14/2021,10/11/2017,Standard Class,2078,Powell Ree,Corporate,Japan,Yokosuka,,987-2224,West,6017,Compound - Strawberry,Yen,Furniture,Chairs,19,0.27,Yuan Renminbi
+700,6748,11/19/2017,3/5/2012,Same Day,6453,Kipper Jennaway,Consumer,Poland,Ołpiny,,38-247,East,5852,Pastry - Chocolate Marble Tea,Zloty,Furniture,Phones,32,0.43,Euro
+701,3888,12/16/2010,12/2/2016,Second Class,9534,Etienne Tripcony,Corporate,Indonesia,Kademangan,,,West,4943,Soup Campbells Split Pea And Ham,Rupiah,Furniture,Phones,7,0.1,Krona
+702,5440,4/10/2021,7/11/2018,Second Class,7942,Hugibert Stickley,Corporate,Poland,Dukla,,38-450,South,7709,Sour Puss Raspberry,Zloty,Furniture,Paper,5,0.24,Euro
+703,8383,9/6/2017,6/29/2018,Standard Class,7888,Eloise Baress,Home Office,Sweden,Örebro,Örebro,702 16,North,4285,Wine - Zinfandel California 2002,Krona,Office Supplies,Chairs,4,0.06,Baht
+704,5282,9/15/2018,6/15/2015,Standard Class,7358,Dean Orleton,Consumer,Indonesia,Linggamanik,,,South,8465,Bag Clear 10 Lb,Rupiah,Technology,Accessories,1,0.08,Lev
+705,3248,2/8/2020,10/14/2013,Standard Class,9483,Jedidiah McRorie,Corporate,Kyrgyzstan,Karakol,,,South,9649,Cinnamon Buns Sticky,Som,Furniture,Tables,79,0.38,Ruble
+706,9491,12/12/2017,12/8/2016,Standard Class,4203,Dahlia Scimone,Home Office,Indonesia,Tual,,,West,6433,Tray - 16in Rnd Blk,Rupiah,Furniture,Chairs,17,0.05,Hryvnia
+707,7827,6/7/2022,10/26/2011,Second Class,7457,Reynolds Cutriss,Consumer,China,Changtang,,,South,4153,Basil - Thai,Yuan Renminbi,Office Supplies,Paper,37,0.09,Zloty
+708,8387,9/19/2015,4/12/2013,Standard Class,5034,Mark Bristowe,Consumer,Australia,Sydney,New South Wales,1134,South,2231,Bread - Calabrese Baguette,Dollar,Office Supplies,Paper,91,0.47,Real
+709,2440,8/27/2018,9/16/2014,Second Class,1314,Fredra Beauly,Home Office,Argentina,Villa Nueva,,5903,East,6794,"Beef - Chuck, Boneless",Peso,Office Supplies,Accessories,59,0.37,Rupiah
+710,3723,6/17/2018,4/20/2014,Standard Class,9782,Linnet Kumaar,Corporate,Sweden,Gislaved,Jönköping,332 37,North,6516,Absolut Citron,Krona,Office Supplies,Paper,59,0.43,Yuan Renminbi
+711,1656,7/23/2018,7/14/2020,Same Day,7828,Hedi Roby,Consumer,Russia,Nagornyy,,142817,South,5470,Beer - Heinekin,Ruble,Furniture,Tables,11,0.19,Dollar
+712,4744,9/30/2014,7/1/2013,Same Day,2515,Aurelia Tripean,Home Office,Poland,Płońsk,,09-101,East,2419,Chinese Foods - Chicken,Zloty,Technology,Paper,55,0.43,Euro
+713,1867,10/7/2018,3/22/2010,Second Class,7338,Rhona Duligal,Consumer,Oman,‘Ibrī,,,East,1764,Cucumber - Pickling Ontario,Rial,Technology,Chairs,80,0.41,Euro
+714,9070,5/20/2010,8/16/2013,Second Class,3239,Mureil Fraczek,Home Office,China,Erfangping,,,East,6761,Cookie - Dough Variety,Yuan Renminbi,Office Supplies,Tables,10,0.24,Rial
+715,4214,11/17/2010,12/31/2015,Second Class,9936,Chiquita Gueste,Home Office,Iran,Takāb,,,North,7129,Miso - Soy Bean Paste,Rial,Furniture,Paper,3,0.16,Rupiah
+716,5822,6/21/2020,11/19/2017,Same Day,5647,Dall Athowe,Home Office,China,Dolod,,,North,7832,Soap - Pine Sol Floor Cleaner,Yuan Renminbi,Office Supplies,Phones,54,0.49,Baht
+717,2104,10/8/2015,12/19/2010,Same Day,3756,Beverley Chinnick,Corporate,Portugal,Sardoal,Porto,4625-177,North,1694,"Juice - Tomato, 10 Oz",Euro,Furniture,Accessories,44,0.02,Yen
+718,5046,5/6/2019,2/6/2017,Second Class,1283,Filip Avent,Home Office,China,Hongsihu,,,South,5288,Puree - Blackcurrant,Yuan Renminbi,Technology,Phones,17,0.47,Yuan Renminbi
+719,8004,11/19/2014,6/21/2010,First Class,4697,Lemmie Burgise,Corporate,Tunisia,Majāz al Bāb,,,East,1762,Icecream - Dstk Strw Chseck,Dinar,Furniture,Phones,36,0.09,Koruna
+720,2224,12/14/2021,2/18/2019,Standard Class,8129,Valle Rojel,Home Office,Philippines,San Vicente,,6419,West,8437,"Juice - Tomato, 10 Oz",Peso,Furniture,Tables,44,0.05,Rupiah
+721,2631,7/21/2016,5/17/2011,Second Class,1350,Lindsy Mardall,Consumer,Brazil,Tremembé,,12120-000,North,4310,Truffle Cups - Red,Real,Technology,Chairs,61,0.08,Naira
+722,8983,8/24/2019,11/26/2021,First Class,4732,Angelina Canape,Consumer,China,Kanghe,,,West,7032,Sterno - Chafing Dish Fuel,Yuan Renminbi,Furniture,Accessories,56,0.45,Rupiah
+723,7428,5/18/2020,11/1/2016,Second Class,1620,Erhard McIlvenny,Consumer,China,Altan Emel,,,North,8400,Gelatine Leaves - Bulk,Yuan Renminbi,Office Supplies,Phones,27,0.07,Yuan Renminbi
+724,5557,10/9/2013,1/20/2014,Standard Class,4330,Rosana Briztman,Home Office,Russia,Staryy Oskol,,309509,South,8082,Oil - Pumpkinseed,Ruble,Furniture,Paper,38,0.1,Rupiah
+725,7755,2/2/2021,2/26/2015,Same Day,9508,Jillane Skill,Corporate,China,Yangdian,,,East,2715,Food Colouring - Green,Yuan Renminbi,Office Supplies,Chairs,67,0.31,Koruna
+726,4815,6/19/2013,7/1/2015,First Class,9201,Alexia Andriveaux,Corporate,United States,Reading,Pennsylvania,19610,West,1278,Soup - Cream Of Potato / Leek,Dollar,Furniture,Accessories,80,0.21,Yen
+727,8227,10/4/2011,5/26/2022,Second Class,3527,Carolyne Pibworth,Consumer,Tunisia,Gafsa,,,South,5268,Tomato - Tricolor Cherry,Dinar,Office Supplies,Chairs,90,0.26,Euro
+728,8269,12/1/2022,3/16/2014,First Class,2325,Billie Aspinell,Home Office,Russia,Kubachi,,368586,North,8675,Artichokes - Jerusalem,Ruble,Furniture,Accessories,91,0.34,Rupiah
+729,6421,3/3/2013,11/6/2019,Same Day,9687,Malorie Thurbon,Home Office,Argentina,Bell Ville,,2550,West,7087,Pork - Ham Hocks - Smoked,Peso,Office Supplies,Tables,37,0.27,Peso
+730,5226,3/26/2017,8/22/2019,Same Day,5127,Ninon Corney,Consumer,Sri Lanka,Negombo,,11500,North,7501,Peach - Halves,Rupee,Furniture,Tables,83,0.37,Yuan Renminbi
+731,9368,5/5/2018,11/4/2014,Standard Class,1871,Lynn Brierton,Consumer,Portugal,Chaves,Vila Real,5400-006,West,1009,"7up Diet, 355 Ml",Euro,Office Supplies,Paper,59,0.04,Euro
+732,3217,4/7/2012,5/2/2022,Second Class,7424,Malanie Caudray,Corporate,Thailand,Bang Len,,73130,South,1956,Soup Knorr Chili With Beans,Baht,Office Supplies,Accessories,11,0.08,Ouguiya
+733,2096,7/18/2019,8/13/2022,Second Class,4775,Quintin Woodcroft,Corporate,China,Xialiao,,,North,9034,Pastry - Lemon Danish - Mini,Yuan Renminbi,Furniture,Phones,66,0.27,Rupiah
+734,3165,5/30/2018,5/7/2010,Second Class,1037,Bert Swafield,Consumer,Indonesia,Ketawang,,,South,3792,Chivas Regal - 12 Year Old,Rupiah,Technology,Chairs,98,0.02,Ariary
+735,3423,9/27/2018,8/31/2021,First Class,1321,Pauly Glasner,Corporate,Venezuela,Casigua El Cubo,,,North,2844,Sugar - Individual Portions,Bolivar,Office Supplies,Accessories,41,0.48,Dollar
+736,6050,12/7/2010,1/18/2012,Same Day,2377,Almeria Potell,Home Office,Sudan,El Matama,,,West,8970,"Lemonade - Kiwi, 591 Ml",Pound,Furniture,Paper,51,0.47,Euro
+737,1584,3/6/2010,9/13/2016,Second Class,7141,Romeo MacFayden,Corporate,Japan,Kadoma,,571-0050,West,6106,"Trout - Hot Smkd, Dbl Fillet",Yen,Technology,Accessories,91,0.33,Euro
+738,6177,12/3/2016,10/31/2019,Second Class,5370,Dave Parsley,Consumer,Iran,‘Alīābād-e Katūl,,,South,1343,Appetizer - Southwestern,Rial,Office Supplies,Tables,14,0.44,Quetzal
+739,2663,8/9/2017,10/20/2013,Standard Class,2139,Trula Scrogges,Corporate,Philippines,Cotmon,,4500,West,9590,Truffle Cups Green,Peso,Technology,Chairs,41,0.15,Won
+740,1226,1/12/2020,2/24/2018,Same Day,9352,Kinsley Redmore,Corporate,Russia,Kasimov,,391360,East,2325,Pork - Smoked Back Bacon,Ruble,Technology,Accessories,56,0.15,Rupiah
+741,7733,2/17/2017,12/22/2011,Second Class,5227,Simone Jerwood,Corporate,Portugal,Quintas,Braga,4730-410,South,1942,Bread Base - Gold Formel,Euro,Technology,Tables,77,0.27,Sol
+742,4492,10/26/2013,10/8/2021,Standard Class,3819,Theresina Tregensoe,Corporate,Sweden,Boden,Norrbotten,961 61,East,3546,Bread - Assorted Rolls,Krona,Technology,Paper,70,0.33,Ruble
+743,9508,3/15/2019,12/21/2010,Same Day,1326,Westley Dannatt,Home Office,Brazil,Bela Vista,,79260-000,East,7236,Salmon - Canned,Real,Furniture,Phones,54,0.21,Ruble
+744,8406,8/17/2018,7/12/2016,First Class,5327,Farley Bresnen,Corporate,United States,Chattanooga,Tennessee,37410,East,5841,"Tart Shells - Barquettes, Savory",Dollar,Technology,Tables,43,0.46,Ruble
+745,8036,2/15/2012,2/5/2015,Second Class,1443,Zachariah Revie,Home Office,Brazil,Monte Azul Paulista,,14730-000,East,8724,Pineapple - Golden,Real,Furniture,Paper,30,0.23,Peso
+746,6711,5/9/2022,1/20/2011,Same Day,3120,Greg Scamerden,Home Office,Czech Republic,Dřevohostice,,751 14,South,4895,Bagels Poppyseed,Koruna,Furniture,Tables,48,0.12,Euro
+747,4651,8/12/2019,11/10/2011,Same Day,6411,Nicholle Dawson,Consumer,Israel,Mazkeret Batya,,,North,8741,Chips Potato All Dressed - 43g,Shekel,Furniture,Accessories,70,0.39,Peso
+748,2874,11/19/2016,10/1/2019,First Class,2131,Ardith Glascott,Corporate,Colombia,Puerto Santander,,548037,West,6516,Pails With Lids,Peso,Technology,Chairs,65,0.47,Real
+749,5128,1/31/2021,1/22/2020,First Class,4140,Eb Booij,Home Office,Uzbekistan,Yangiyŭl,,,South,6500,Sauce Tomato Pouch,Som,Technology,Tables,66,0.13,Rupiah
+750,3737,9/11/2020,7/17/2017,Second Class,8224,Konstance Overthrow,Consumer,Indonesia,Kadujangkung,,,East,2971,Sobe - Tropical Energy,Rupiah,Furniture,Phones,15,0.15,Peso
+751,3080,1/1/2016,12/10/2021,First Class,6289,Mathilda Pashba,Home Office,Philippines,Cabangan,,2203,West,9857,Straw - Regular,Peso,Technology,Accessories,48,0.16,Ruble
+752,8085,6/21/2010,10/27/2012,Same Day,7289,Jacky McGeaney,Corporate,Poland,Kamionka,,21-132,West,6118,Transfer Sheets,Zloty,Technology,Paper,1,0.21,Rupee
+753,6582,5/27/2010,3/31/2017,Second Class,2453,Ariela Awin,Home Office,Benin,Savalou,,,North,7733,Soup - Campbells Chili Veg,Franc,Office Supplies,Tables,14,0.03,Peso
+754,3183,3/1/2012,10/8/2015,Standard Class,1888,Yalonda Kollatsch,Consumer,China,Daixi,,,West,3716,Cream - 10%,Yuan Renminbi,Office Supplies,Phones,38,0.19,Yuan Renminbi
+755,6259,1/15/2016,12/20/2022,Standard Class,1898,Peter Fluin,Home Office,Mexico,Alvaro Obregon,Puebla,74060,North,3462,Chocolate - Semi Sweet,Peso,Technology,Accessories,38,0.03,Rupiah
+756,8602,2/16/2013,8/28/2015,Same Day,6396,Abigale Ivanikhin,Corporate,China,Dasongshu,,,West,7730,"Chocolate - Pistoles, Lactee, Milk",Yuan Renminbi,Furniture,Tables,12,0.14,Peso
+757,3526,4/3/2014,9/20/2015,Same Day,5477,Dory Hallows,Consumer,Sweden,Hova,Västra Götaland,548 32,North,8267,"Clams - Littleneck, Whole",Krona,Furniture,Chairs,32,0.36,Yen
+758,1484,2/13/2011,6/20/2012,Second Class,5537,Vivianne Bachnic,Consumer,Libya,Zliten,,,South,3377,Lamb - Loin Chops,Dinar,Office Supplies,Accessories,67,0.35,Peso
+759,1591,12/15/2021,2/14/2021,Same Day,3468,Franchot Vautre,Home Office,Mexico,Bellavista,Jalisco,47203,West,4557,Sage Ground Wiberg,Peso,Office Supplies,Chairs,98,0.17,Euro
+760,3535,8/15/2015,9/16/2019,Same Day,1474,Joycelin Zorener,Home Office,Poland,Gostyń,,63-816,West,6489,Beef - Texas Style Burger,Zloty,Technology,Tables,96,0.38,Euro
+761,6740,4/3/2014,12/31/2015,First Class,4395,Tuck Leftbridge,Corporate,Peru,Chocos,,,West,7855,"Oil - Shortening,liqud, Fry",Sol,Technology,Paper,4,0.17,Krona
+762,2062,3/16/2012,1/13/2017,Same Day,6193,Collin Ciccerale,Home Office,French Polynesia,Anau,,,West,6169,Cookies Almond Hazelnut,Franc,Furniture,Tables,85,0.47,Rupee
+763,1645,2/13/2021,3/20/2010,First Class,3485,Dolores Clemencet,Consumer,China,Yutan,,,South,6369,Wild Boar - Tenderloin,Yuan Renminbi,Furniture,Phones,20,0.19,Baht
+764,4853,9/20/2012,7/13/2017,Second Class,7383,Raven Lednor,Corporate,China,Huaqiao,,,South,7587,Syrup - Monin - Passion Fruit,Yuan Renminbi,Furniture,Tables,12,0.08,Zloty
+765,4932,4/22/2017,3/26/2018,First Class,2639,Benedetto Floyd,Home Office,Cameroon,Bamusso,,,South,4166,Bread - Ciabatta Buns,Franc,Technology,Chairs,83,0.28,Ruble
+766,8738,10/27/2018,1/2/2017,Standard Class,6006,Booth Clapton,Corporate,Philippines,San Mateo,,3318,South,8523,Spinach - Spinach Leaf,Peso,Office Supplies,Accessories,92,0.37,Manat
+767,3248,10/10/2016,8/6/2015,Standard Class,2608,Leisha Jewett,Consumer,Argentina,Trancas,,4124,North,3030,"Soup - Beef Conomme, Dry",Peso,Technology,Paper,89,0.1,Zloty
+768,8870,10/19/2015,3/27/2010,Same Day,9247,Aluino Clifford,Home Office,Sweden,Hallsberg,Örebro,694 24,North,6310,Wine La Vielle Ferme Cote Du,Krona,Furniture,Accessories,99,0.05,Dollar
+769,6251,5/25/2015,3/17/2018,Same Day,3250,Fifi De Rye Barrett,Home Office,China,Fuquan,,,East,8683,Parsnip,Yuan Renminbi,Office Supplies,Phones,51,0.11,Yuan Renminbi
+770,2154,10/27/2020,5/12/2022,Second Class,4809,Robin Kilbey,Home Office,Thailand,Samut Sakhon,,74000,West,4149,"Glass - Wine, Plastic, Clear 5 Oz",Baht,Office Supplies,Paper,20,0.19,Rand
+771,4208,11/30/2016,5/22/2017,Second Class,1427,Gabbey Gini,Home Office,Indonesia,Sebuku,,,East,1524,Sauce - Salsa,Rupiah,Furniture,Phones,26,0.47,Euro
+772,9088,1/17/2012,7/11/2021,Same Day,1100,Westleigh Grisenthwaite,Home Office,Japan,Bungo-Takada-shi,,879-0617,South,8818,Salt - Celery,Yen,Technology,Accessories,58,0.25,Real
+773,7362,3/10/2021,5/17/2019,Same Day,6516,Ambrosi Hitscher,Corporate,Libya,Az Zuwaytīnah,,,North,2439,"Cheese - Havarti, Salsa",Dinar,Office Supplies,Paper,64,0.11,Sol
+774,4766,5/11/2013,4/3/2016,First Class,8769,Claudian Hazeldene,Home Office,Sri Lanka,Pita Kotte,,10600,South,7733,Nantucket Apple Juice,Rupee,Office Supplies,Tables,86,0.45,Peso
+775,8310,9/14/2022,4/8/2015,Second Class,7547,Billye Graver,Home Office,Guatemala,Ostuncalco,,09009,West,4039,Tomatillo,Quetzal,Office Supplies,Tables,65,0.32,Peso
+776,8882,1/30/2015,6/23/2015,Standard Class,7162,Zara Brann,Corporate,Somalia,Baardheere,,,West,2436,Huck Towels White,Shilling,Office Supplies,Accessories,1,0.26,Franc
+777,1265,2/22/2016,10/4/2020,Same Day,1270,Mariam Anthonsen,Home Office,Brazil,Cruz Alta,,98000-000,South,3550,Scrubbie - Scotchbrite Hand Pad,Real,Furniture,Phones,5,0.25,Krona
+778,3727,4/7/2020,6/9/2022,First Class,1667,Bonny Greenough,Corporate,Sweden,Saltsjöbaden,Stockholm,133 41,East,1491,Sauce - Plum,Krona,Furniture,Paper,68,0.26,Dram
+779,4873,10/25/2018,10/9/2022,Same Day,9063,Stillmann Durrell,Corporate,Philippines,Balingcanaway,,1211,South,7777,Sauce - Salsa,Peso,Technology,Chairs,34,0.18,Dollar
+780,9029,7/30/2018,7/23/2016,Standard Class,4630,Irina Odda,Home Office,China,Xuelu,,,West,3857,Campari,Yuan Renminbi,Office Supplies,Tables,25,0.31,Peso
+781,6622,4/22/2012,6/18/2011,Second Class,8833,Cullie Dawidsohn,Corporate,Ghana,Duayaw Nkwanta,,,North,3835,Filter - Coffee,Cedi,Furniture,Tables,62,0.3,Yuan Renminbi
+782,7812,8/26/2019,2/21/2014,Standard Class,7061,Alvina Zuanazzi,Home Office,Poland,Sypniewo,,06-216,South,8149,Propel Sport Drink,Zloty,Technology,Tables,36,0.49,Dinar
+783,7458,3/4/2010,2/2/2019,Second Class,9127,Artair Ruffy,Corporate,Indonesia,Jatisari,,,West,2443,Jam - Raspberry,Rupiah,Office Supplies,Tables,47,0.18,Zloty
+784,5496,3/25/2014,12/14/2021,Standard Class,8086,Regina Baumaier,Corporate,Indonesia,Kliteh,,,South,9562,Vinegar - Sherry,Rupiah,Office Supplies,Tables,34,0.24,Yen
+785,3289,4/14/2014,4/29/2015,Standard Class,7798,Ricardo Arnhold,Corporate,Indonesia,Ketampak,,,North,7654,Muffin Batt - Carrot Spice,Rupiah,Technology,Chairs,11,0.06,Yuan Renminbi
+786,7050,12/12/2011,9/22/2020,Second Class,3435,Shandee Grinyakin,Home Office,Brazil,Trairi,,62690-000,South,5105,Savory,Real,Office Supplies,Phones,4,0.03,Yuan Renminbi
+787,9287,11/16/2011,6/10/2019,Same Day,8339,Dallis Duffil,Corporate,Indonesia,Sekongkang Bawah,,,North,6342,Cheese - Le Cheve Noir,Rupiah,Technology,Tables,65,0.16,Dollar
+788,8893,6/6/2012,9/23/2011,Same Day,8377,Lacee Brumen,Corporate,Indonesia,Drien Rampak,,,East,3832,Wine - Zonnebloem Pinotage,Rupiah,Furniture,Accessories,30,0.14,Rupiah
+789,2566,12/29/2013,8/22/2014,Second Class,9557,Toiboid Seppey,Corporate,Indonesia,Citampian,,,East,7993,Nantucket Cranberry Juice,Rupiah,Technology,Accessories,3,0.25,Real
+790,9208,12/11/2020,4/2/2017,Same Day,8001,Otis Ayliffe,Consumer,Indonesia,Kertosari,,,North,9372,"Coke - Diet, 355 Ml",Rupiah,Technology,Accessories,59,0.31,Peso
+791,4832,4/3/2016,11/30/2011,Standard Class,8854,Lucinda Swainsbury,Home Office,China,Kuangshan,,,South,7227,Mustard - Individual Pkg,Yuan Renminbi,Technology,Tables,55,0.35,Marka
+792,7845,8/27/2013,2/22/2015,Standard Class,4327,Jennee Dominey,Consumer,Thailand,Srinagarindra,,31150,East,9592,Compound - Orange,Baht,Office Supplies,Chairs,59,0.22,Euro
+793,8143,6/24/2022,7/12/2022,Second Class,6738,Florence Newitt,Corporate,China,Qingfenglin,,,South,1225,Water - Evian 355 Ml,Yuan Renminbi,Technology,Tables,62,0.05,Rupee
+794,8942,7/1/2013,3/18/2017,Same Day,4195,Saw Clibbery,Home Office,Somalia,Buurhakaba,,,South,5220,Chevril,Shilling,Office Supplies,Phones,67,0.26,Dollar
+795,4660,5/18/2012,1/15/2012,Standard Class,9166,Garfield Cleaton,Corporate,China,Tange Zhen,,,South,9292,Pork - Side Ribs,Yuan Renminbi,Technology,Paper,57,0.5,Ruble
+796,8657,2/3/2016,7/22/2015,Second Class,1275,Candi Pethrick,Corporate,China,Laiguangying,,,East,2576,"Yogurt - Strawberry, 175 Gr",Yuan Renminbi,Furniture,Tables,92,0.49,Yuan Renminbi
+797,5288,3/1/2014,1/16/2021,Second Class,2576,Cherey Durrad,Corporate,China,Nanyang,,,West,7438,Fib N9 - Prague Powder,Yuan Renminbi,Furniture,Phones,12,0.5,Franc
+798,1054,10/12/2014,12/28/2020,First Class,8011,Etan Abrahim,Home Office,Somalia,Lughaye,,,South,4173,"Wine - Magnotta, Merlot Sr Vqa",Shilling,Furniture,Paper,87,0.27,Ruble
+799,9974,9/22/2010,7/28/2020,Same Day,6332,Roselle Lott,Home Office,Panama,Guararé,,,East,6875,Soy Protein,Balboa,Furniture,Chairs,50,0.19,Sol
+800,1886,4/15/2016,4/25/2012,Same Day,8168,Reggis Tennant,Home Office,Bolivia,Mairana,,,South,1064,Lychee,Boliviano,Furniture,Tables,53,0.25,Baht
+801,3689,10/10/2012,12/30/2018,First Class,7132,Ynes Askaw,Corporate,China,Wulin,,,North,7807,Tea - Grapefruit Green Tea,Yuan Renminbi,Technology,Paper,79,0.41,Kip
+802,3458,2/27/2015,10/15/2014,Second Class,2064,Linet Rowling,Home Office,China,Guzhuyingzi,,,North,7584,"Juice - Apple, 341 Ml",Yuan Renminbi,Furniture,Accessories,54,0.47,Ruble
+803,4681,6/10/2020,5/1/2013,First Class,1180,Elden Morcombe,Home Office,Philippines,Culasian,,6530,North,4365,"Beef - Bones, Marrow",Peso,Technology,Phones,53,0.41,Rupiah
+804,2679,4/30/2017,1/30/2014,Second Class,4988,Palm Clacey,Corporate,Peru,Colcabamba,,,West,7140,"Pineapple - Canned, Rings",Sol,Technology,Paper,61,0.06,Yuan Renminbi
+805,3477,12/5/2019,1/21/2016,Second Class,3962,Dominik Faas,Home Office,Philippines,Pangapisan,,4001,South,6583,Container - Foam Dixie 12 Oz,Peso,Technology,Accessories,39,0.31,Rupee
+806,8498,5/30/2010,12/13/2014,Standard Class,2357,Sauveur Polo,Consumer,China,Yantian,,,South,1988,Bread - Triangle White,Yuan Renminbi,Furniture,Tables,88,0.47,Koruna
+807,3306,3/14/2017,9/22/2013,First Class,5705,Eldin Shevels,Corporate,Japan,Fujinomiya,,421-3305,East,6047,Cake - Pancake,Yen,Office Supplies,Tables,21,0.28,Rupiah
+808,8849,3/4/2018,11/11/2022,Standard Class,6945,Jasun Belson,Consumer,Philippines,Lalig,,4325,North,3086,Coffee - Cafe Moreno,Peso,Furniture,Tables,8,0.32,Yuan Renminbi
+809,3621,10/24/2016,5/10/2018,Same Day,9333,Dre Joanic,Home Office,China,Zongjia,,,South,2559,"Mushroom - Shitake, Dry",Yuan Renminbi,Technology,Phones,46,0.37,Shekel
+810,7565,7/1/2012,10/10/2022,First Class,8276,Elisabet Cahill,Corporate,Poland,Pawłowiczki,,47-280,East,7254,Wine - Rubyport,Zloty,Office Supplies,Phones,22,0.16,Rial
+811,3300,3/15/2017,9/8/2012,Same Day,8969,Aarika Wiffen,Home Office,Indonesia,Banjar Dukuh,,,North,1214,Clam Nectar,Rupiah,Technology,Paper,56,0.48,Ruble
+812,7150,12/27/2018,12/8/2013,Second Class,9012,Donetta Hyslop,Corporate,Indonesia,Banjar Dauhpura,,,West,7656,Schnappes Peppermint - Walker,Rupiah,Technology,Paper,35,0.5,Shekel
+813,1760,9/20/2014,9/14/2021,Same Day,3086,Janela Shelborne,Corporate,Portugal,Quinta,Viana do Castelo,4980-559,East,4109,Gherkin,Euro,Technology,Tables,75,0.24,Guarani
+814,3562,2/11/2015,6/19/2022,Same Day,8433,Kelby Chelam,Corporate,Indonesia,Pepe,,,South,8943,Pastry - Baked Scones - Mini,Rupiah,Furniture,Chairs,71,0.2,Baht
+815,5604,6/29/2010,8/1/2011,First Class,9849,Celestyn Gardner,Corporate,Bulgaria,Suvorovo,,9170,West,6948,Lamb Tenderloin Nz Fr,Lev,Furniture,Paper,7,0.21,Koruna
+816,1218,9/23/2016,8/24/2022,Same Day,3154,Sanders Kirke,Consumer,Japan,Okazaki,,800-0331,North,6106,Saskatoon Berries - Frozen,Yen,Technology,Accessories,10,0.01,Baht
+817,9997,8/16/2022,3/23/2012,First Class,7702,Eldon McCallion,Corporate,Chad,Bol,,,South,4359,Wine - Casillero Del Diablo,Franc,Office Supplies,Accessories,24,0.19,Dollar
+818,2627,3/5/2010,9/7/2021,First Class,6663,Anjela Bessant,Home Office,Philippines,Palompon,,6538,South,9368,Bandage - Flexible Neon,Peso,Furniture,Paper,25,0.44,Rial
+819,7683,4/28/2010,8/26/2017,First Class,5896,Marquita Glencorse,Home Office,Peru,Julcamarca,,,North,3541,Beer - True North Lager,Sol,Furniture,Chairs,21,0.14,Won
+820,5135,3/20/2022,4/4/2015,Standard Class,3457,Elyse Banbrook,Home Office,Norway,Kristiansand S,Vest-Agder,4663,East,6099,Sausage - Liver,Krone,Furniture,Tables,32,0.27,Yuan Renminbi
+821,1055,8/24/2021,5/24/2011,Same Day,3470,Cherianne Adanet,Corporate,Portugal,Gonça,Braga,4800-194,North,5955,Beer - Blue Light,Euro,Office Supplies,Paper,26,0.4,Somoni
+822,8132,6/28/2015,3/12/2011,Same Day,8147,Catarina Rooksby,Corporate,Philippines,Bintawan,,3605,East,5730,Soup - Campbells Chili Veg,Peso,Furniture,Paper,52,0.41,Peso
+823,1475,5/15/2010,7/7/2014,Second Class,7008,Spencer Labusquiere,Consumer,France,La Talaudière,Rhône-Alpes,42355 CEDEX,South,3560,"Corn - Cream, Canned",Euro,Furniture,Phones,31,0.18,Rupiah
+824,8103,10/30/2017,3/16/2017,First Class,5707,Hadley MacNab,Consumer,China,Shangxing,,,South,9285,Wine - Chateauneuf Du Pape,Yuan Renminbi,Furniture,Accessories,53,0.01,Franc
+825,4534,5/24/2010,7/29/2014,Standard Class,4579,Sherrie Thairs,Consumer,Bulgaria,Veliko Tŭrnovo,,6165,East,7754,Bagelers - Cinn / Brown,Lev,Technology,Phones,7,0.29,Rupiah
+826,6932,8/14/2013,11/6/2015,Second Class,4492,Clem Soitoux,Consumer,Czech Republic,Doksy,,472 01,East,8118,Corn - Mini,Koruna,Office Supplies,Tables,20,0.2,Peso
+827,7236,9/10/2021,1/29/2019,Same Day,9357,Brewer Pollack,Corporate,China,Kanshi,,,North,8017,Bag - Clear 7 Lb,Yuan Renminbi,Technology,Tables,95,0.11,Shilling
+828,1873,10/26/2010,3/24/2021,Second Class,7979,Elspeth Vennart,Corporate,China,Shensuo,,,North,6687,Sugar - Brown,Yuan Renminbi,Office Supplies,Accessories,83,0.24,Sol
+829,1173,8/7/2016,5/19/2018,Same Day,4226,Alexandr Jeeks,Consumer,China,Xingdian,,,South,2570,Coffee - Frthy Coffee Crisp,Yuan Renminbi,Technology,Chairs,15,0.13,Kyat
+830,5260,8/16/2015,11/20/2021,Second Class,9207,Amble Occleshaw,Corporate,China,Ya’ngan,,,South,2642,"Crush - Grape, 355 Ml",Yuan Renminbi,Technology,Accessories,34,0.42,Krona
+831,1782,3/7/2016,2/10/2011,First Class,8248,Kendrick Bortolutti,Home Office,China,Hucheng,,,South,5540,"Nut - Walnut, Chopped",Yuan Renminbi,Furniture,Accessories,31,0.48,Manat
+832,9848,12/13/2022,9/16/2010,Same Day,4381,Curtice Burness,Home Office,Indonesia,Ciheras,,,East,4786,Sweet Pea Sprouts,Rupiah,Furniture,Phones,98,0.04,Birr
+833,1733,4/12/2011,8/6/2013,Same Day,7486,Britni Ewell,Corporate,Philippines,Lomboy,,1126,East,4591,Muffin - Mix - Strawberry Rhubarb,Peso,Office Supplies,Phones,61,0.13,Peso
+834,1949,11/1/2013,5/18/2015,Standard Class,1338,Parry Connachan,Corporate,Nigeria,Zungeru,,,East,5292,"Pasta - Fett Alfredo, Single Serve",Naira,Technology,Accessories,82,0.06,Euro
+835,3533,2/27/2012,6/4/2013,Same Day,8332,See Menauteau,Corporate,China,Hejia,,,North,3439,Chivas Regal - 12 Year Old,Yuan Renminbi,Furniture,Paper,48,0.29,Naira
+836,3617,12/26/2011,8/29/2022,Second Class,1709,Deedee Gotecliffe,Consumer,Russia,Tayzhina,,143814,West,9114,Chicken Thigh - Bone Out,Ruble,Furniture,Phones,25,0.29,Peso
+837,5868,7/17/2020,3/11/2013,First Class,1352,Cyrille Cardoe,Corporate,Philippines,Magsaysay,,9221,West,2469,"Cheese - Brie,danish",Peso,Office Supplies,Chairs,18,0.25,Lari
+838,7608,5/2/2022,11/22/2013,First Class,3939,Pearle Guittet,Consumer,Indonesia,Sonder,,,South,9522,Foil - 4oz Custard Cup,Rupiah,Office Supplies,Paper,82,0.18,Yuan Renminbi
+839,9135,5/25/2022,2/5/2014,Same Day,6793,Carlota Farnall,Corporate,China,Yantai,,,East,4791,Snapple - Iced Tea Peach,Yuan Renminbi,Furniture,Paper,25,0.21,Yuan Renminbi
+840,1233,8/15/2010,3/19/2014,Same Day,7394,Jaclyn Hannaby,Consumer,Russia,Baltiysk,,238528,East,5227,Salmon - Fillets,Ruble,Technology,Accessories,33,0.21,Zloty
+841,6556,5/28/2020,2/18/2010,Same Day,5448,Lethia Putton,Consumer,Finland,Askainen,,21240,West,4557,"Gingerale - Schweppes, 355 Ml",Euro,Office Supplies,Phones,64,0.42,Rupiah
+842,5810,12/31/2016,1/2/2018,First Class,8633,Marietta Rosbotham,Home Office,Guatemala,San José Poaquil,,04002,West,9271,Dr. Pepper - 355ml,Quetzal,Office Supplies,Tables,76,0.23,Dollar
+843,5760,1/16/2015,4/30/2011,Second Class,4185,Jaquenette Gooderham,Home Office,Indonesia,Pantai,,,North,6532,Black Currants,Rupiah,Office Supplies,Phones,89,0.01,Baht
+844,1683,3/21/2014,1/28/2020,First Class,5472,Dallis Adiscot,Corporate,France,Strasbourg,Alsace,67013 CEDEX,South,9779,Spice - Paprika,Euro,Furniture,Chairs,34,0.49,Baht
+845,7184,12/1/2013,10/8/2016,Same Day,2855,Paige Sandall,Corporate,Portugal,Fonte do Feto,Setúbal,2835-526,North,9210,"Nut - Chestnuts, Whole",Euro,Technology,Tables,1,0.16,Yuan Renminbi
+846,3170,2/28/2020,10/9/2016,Standard Class,6337,Hayward Spoors,Consumer,Indonesia,Tamanan,,,North,5417,"Pork - Loin, Boneless",Rupiah,Office Supplies,Phones,91,0.22,Euro
+847,2865,7/30/2013,2/4/2017,First Class,8018,Bibbye Zavittieri,Home Office,Indonesia,Pare,,,North,3729,"Chestnuts - Whole,canned",Rupiah,Office Supplies,Chairs,88,0.23,Yuan Renminbi
+848,4290,9/25/2017,12/19/2013,First Class,4720,Henka Meriel,Corporate,Indonesia,Karangsuko,,,West,7261,Bar Nature Valley,Rupiah,Office Supplies,Phones,53,0.28,Rial
+849,8130,11/12/2015,10/15/2012,Second Class,7731,Henry Hedde,Consumer,Croatia,Čačinci,,33514,South,5074,"Bar Mix - Pina Colada, 355 Ml",Kuna,Furniture,Tables,63,0.34,Rupiah
+850,9616,6/7/2015,12/8/2017,First Class,7189,Francesca Rodear,Corporate,Indonesia,Matango,,,West,6241,"Beef - Tongue, Cooked",Rupiah,Office Supplies,Phones,65,0.2,Bolivar
+851,9378,4/19/2022,12/5/2011,First Class,8130,Augustus Muncie,Home Office,Indonesia,Tagog,,,North,6256,Wine - Mondavi Coastal Private,Rupiah,Technology,Accessories,21,0.05,Peso
+852,6349,9/8/2020,4/12/2010,Same Day,3461,Gaylor Kleinber,Corporate,China,Heka,,,West,2777,Lid - 16 Oz And 32 Oz,Yuan Renminbi,Technology,Chairs,24,0.43,Ruble
+853,3219,12/26/2018,6/27/2010,First Class,4809,Andy Greatbach,Home Office,France,Colombes,Île-de-France,92709 CEDEX,East,4581,Ocean Spray - Kiwi Strawberry,Euro,Office Supplies,Paper,83,0.42,Peso
+854,1430,9/7/2017,8/19/2022,First Class,9763,Normie Downey,Consumer,Indonesia,Titiakar,,,South,1091,Breadfruit,Rupiah,Furniture,Chairs,78,0.47,Euro
+855,1897,8/10/2011,2/24/2015,Same Day,2252,Marieann Earthfield,Consumer,Indonesia,Kumanis,,,North,3750,V8 - Vegetable Cocktail,Rupiah,Furniture,Accessories,91,0.41,Yen
+856,6397,8/21/2013,8/2/2011,Same Day,1546,Karisa Brito,Corporate,Democratic Republic of the Congo,Businga,,,East,1204,Honey - Comb,Franc,Technology,Chairs,73,0.32,Dollar
+857,6564,3/23/2012,2/1/2010,Same Day,2193,Dulcinea Nairn,Corporate,Japan,Ikedachō,,779-5166,West,3793,Grapefruit - Pink,Yen,Office Supplies,Tables,81,0.22,Rupiah
+858,9347,8/9/2011,8/20/2018,Standard Class,6391,Orren Lindblom,Corporate,Moldova,Basarabeasca,,MD-6425,West,5784,Chocolate - Compound Coating,Leu,Office Supplies,Paper,55,0.19,Yuan Renminbi
+859,7513,6/13/2014,9/29/2012,Standard Class,9794,Abigale Timmermann,Consumer,China,Fenghuang,,,West,2337,Fudge - Cream Fudge,Yuan Renminbi,Office Supplies,Paper,65,0.04,Yuan Renminbi
+860,5959,9/15/2019,8/22/2010,Second Class,1098,Jeanelle Mcsarry,Consumer,China,Xigaoshan,,,North,7393,Appetizer - Asian Shrimp Roll,Yuan Renminbi,Furniture,Paper,75,0.24,Zloty
+861,4452,6/20/2013,8/10/2013,Second Class,8653,Derrik MacMichael,Consumer,China,Xiejia,,,East,4463,Beer - Camerons Cream Ale,Yuan Renminbi,Office Supplies,Chairs,1,0.09,Colon
+862,9296,1/5/2022,1/30/2019,Second Class,1413,Morly Wildman,Corporate,China,Jingmao,,,West,6914,Lentils - Green Le Puy,Yuan Renminbi,Furniture,Tables,12,0.16,Pound
+863,7146,5/12/2021,4/29/2017,Same Day,1340,Noelyn Merrywether,Consumer,Portugal,São Domingos de Rana,Lisboa,2785-581,North,1294,Coffee Decaf Colombian,Euro,Office Supplies,Phones,73,0.47,Ruble
+864,1634,2/16/2018,7/25/2019,Standard Class,4611,Cacilie Chasemore,Home Office,Indonesia,Sulitair,,,West,8551,Pastry - Apple Large,Rupiah,Office Supplies,Chairs,15,0.37,Yuan Renminbi
+865,9474,10/1/2013,12/13/2017,Second Class,1958,Lammond Spellecy,Consumer,Poland,Drzewica,,26-340,East,9869,Shrimp - 31/40,Zloty,Furniture,Paper,50,0.28,Yuan Renminbi
+866,7004,12/23/2011,3/13/2018,Same Day,4332,Egan Siviter,Corporate,Brazil,Oliveira,,35540-000,North,9470,Spice - Onion Powder Granulated,Real,Technology,Tables,83,0.12,Rupiah
+867,4566,6/11/2010,3/15/2015,Second Class,1318,Duane Trahair,Home Office,Brazil,Piúma,,29285-000,West,7529,Rappini - Andy Boy,Real,Office Supplies,Tables,85,0.48,Peso
+868,3512,9/23/2016,5/15/2018,Standard Class,7352,Vikki Dufaur,Home Office,Poland,Wierzchowo,,78-530,West,2525,Wine - Two Oceans Sauvignon,Zloty,Technology,Tables,97,0.35,Peso
+869,9014,10/14/2017,10/18/2014,Same Day,4446,Cherye Habershaw,Consumer,Nigeria,Bode Sadu,,,West,8007,Butter Sweet,Naira,Furniture,Phones,14,0.09,Krona
+870,3658,4/19/2010,1/23/2021,Same Day,8203,Vance Holtham,Corporate,Philippines,Calape,,6328,North,7430,"Leeks - Baby, White",Peso,Furniture,Tables,51,0.08,Peso
+871,7198,5/26/2011,7/19/2013,First Class,4716,Joelle Hopkynson,Consumer,Pakistan,Hāsilpur,,51130,East,8648,"Wine - Red, Cabernet Sauvignon",Rupee,Technology,Chairs,72,0.46,Peso
+872,4844,10/10/2018,2/17/2014,Standard Class,9991,Trixy Abade,Home Office,Colombia,La Estrella,,055468,North,9875,Dried Cherries,Peso,Technology,Phones,63,0.43,Bolivar
+873,7416,12/18/2020,12/10/2021,First Class,7025,Melony Tesh,Corporate,Nigeria,Gujba,,,West,1218,Catfish - Fillets,Naira,Technology,Chairs,19,0.09,Dinar
+874,3401,7/2/2022,5/9/2014,First Class,4848,Magda Vogele,Corporate,Argentina,Unquillo,,5109,West,4321,Sesame Seed,Peso,Technology,Accessories,20,0.03,Afghani
+875,5246,6/30/2014,1/21/2016,Same Day,6904,Virge Coultish,Consumer,China,Yonghe,,,East,8939,Cheese - Shred Cheddar / Mozza,Yuan Renminbi,Office Supplies,Accessories,60,0.39,Yuan Renminbi
+876,8054,1/13/2017,1/25/2017,Standard Class,8720,Emmalynn Milksop,Home Office,Venezuela,Puerto Ayacucho,,,West,9818,Container - Clear 16 Oz,Bolivar,Office Supplies,Paper,79,0.3,Sol
+877,2901,4/20/2011,7/30/2018,Second Class,6787,Eadith Attril,Consumer,Vietnam,Hữu Lũng,,,West,8789,Wine - Chateau Timberlay,Dong,Technology,Phones,69,0.0,Dollar
+878,5560,7/23/2014,5/31/2018,First Class,8602,Melesa Duggan,Consumer,France,Tarbes,Midi-Pyrénées,65911 CEDEX 9,West,8371,Pork - Hock And Feet Attached,Euro,Office Supplies,Paper,61,0.22,Peso
+879,1185,8/19/2011,3/12/2010,Second Class,9080,Marylee Gillis,Home Office,France,Montaigu,Pays de la Loire,85614 CEDEX,West,7972,Venison - Denver Leg Boneless,Euro,Technology,Paper,26,0.07,Yuan Renminbi
+880,1186,3/18/2011,9/4/2020,Standard Class,3056,Tades Greensall,Corporate,Brazil,Coruripe,,57230-000,East,9588,Garam Masala Powder,Real,Furniture,Phones,72,0.49,Yuan Renminbi
+881,5946,9/27/2016,11/25/2013,First Class,3672,Sam Sackes,Consumer,Vietnam,Lý Sơn,,,East,1252,Foie Gras,Dong,Office Supplies,Paper,96,0.15,Dollar
+882,4493,8/10/2022,11/29/2013,First Class,4676,Marsiella Thirlwell,Consumer,Philippines,Lanas,,1552,East,1694,"Beef - Bones, Marrow",Peso,Office Supplies,Tables,92,0.42,Baht
+883,9289,11/16/2021,1/25/2010,Standard Class,9669,Irwin Antos,Home Office,Portugal,Venda,Porto,4620-472,East,1094,Chambord Royal,Euro,Office Supplies,Accessories,43,0.29,Yuan Renminbi
+884,6695,7/23/2015,8/20/2014,Same Day,8787,Dale Bushby,Home Office,France,Mantes-la-Jolie,Île-de-France,78718 CEDEX,North,7825,Lemonade - Pineapple Passion,Euro,Technology,Phones,73,0.24,Real
+885,8926,11/6/2018,7/23/2012,First Class,5321,Jarad Raeside,Consumer,Mauritius,Pailles,,,East,2959,Lemon Balm - Fresh,Rupee,Technology,Phones,78,0.44,Euro
+886,6590,2/11/2011,8/14/2017,Second Class,3131,Ericka Lohoar,Home Office,Sweden,Hudiksvall,Gävleborg,824 26,North,3578,"Coffee - Beans, Whole",Krona,Furniture,Paper,17,0.47,Peso
+887,1550,10/13/2010,1/16/2015,First Class,3010,Rudie Penelli,Home Office,Lithuania,Akademija (Kaunas),,53088,South,7763,"Juice - Apple, 341 Ml",Litas,Furniture,Paper,43,0.17,Euro
+888,4008,6/20/2015,1/24/2017,Same Day,4061,Van Ferries,Home Office,France,Pau,Aquitaine,64039 CEDEX,South,6216,Table Cloth 72x144 White,Euro,Office Supplies,Chairs,43,0.44,Koruna
+889,2650,9/26/2021,8/4/2019,First Class,4103,Leslie Collingridge,Corporate,Philippines,Suyo,,2715,North,8001,Beef Ground Medium,Peso,Technology,Tables,85,0.06,Balboa
+890,7307,7/31/2017,5/25/2021,Same Day,8470,Burk Chaim,Consumer,France,Montpellier,Languedoc-Roussillon,34186 CEDEX 4,East,4711,Cheese - Bocconcini,Euro,Office Supplies,Chairs,52,0.33,Hryvnia
+891,4746,10/21/2020,1/22/2011,First Class,4554,Dorine Malbon,Home Office,China,Gaoping,,,West,6608,Pastry - Baked Scones - Mini,Yuan Renminbi,Furniture,Tables,91,0.06,Peso
+892,5997,6/20/2016,12/31/2017,Second Class,6671,Kienan Wreath,Consumer,China,Majunying,,,South,4211,"Beef - Roasted, Cooked",Yuan Renminbi,Office Supplies,Paper,10,0.3,Real
+893,2098,9/17/2019,1/28/2014,Standard Class,8893,Whitby Caldow,Corporate,Norway,Trondheim,Sor-Trondelag,7419,South,4771,Cup - 4oz Translucent,Krone,Furniture,Chairs,28,0.5,Rupiah
+894,5941,12/12/2015,12/21/2017,First Class,2128,Marlo Tugman,Corporate,Argentina,Gualeguay,,2840,East,9291,Prunes - Pitted,Peso,Furniture,Tables,73,0.29,Yuan Renminbi
+895,9059,7/24/2011,11/2/2017,First Class,9106,Melli Fotheringham,Corporate,China,Niaohe,,,North,9176,Nantucket - Carrot Orange,Yuan Renminbi,Furniture,Paper,60,0.35,Zloty
+896,1872,9/11/2014,5/20/2011,Second Class,2458,Templeton Kingswold,Consumer,Philippines,Bislig,,8311,West,4524,Dip - Tapenade,Peso,Furniture,Tables,16,0.19,Rupiah
+897,3473,5/14/2019,1/11/2012,Second Class,1879,Preston Viger,Home Office,Brazil,Lagoa do Itaenga,,55840-000,West,8499,Breakfast Quesadillas,Real,Technology,Phones,52,0.15,Yuan Renminbi
+898,7596,2/12/2014,12/26/2011,Same Day,1915,Brent Rowcliffe,Home Office,Poland,Świecie nad Osą,,28-425,East,2373,Appetizer - Escargot Puff,Zloty,Office Supplies,Phones,57,0.09,Rial
+899,6645,1/12/2011,1/15/2014,First Class,7055,Joyan Tomaszczyk,Corporate,United States,Huntington,West Virginia,25709,East,4736,"Chicken - Leg, Fresh",Dollar,Furniture,Accessories,51,0.29,Ruble
+900,5255,1/29/2020,1/3/2019,Second Class,2628,Star Crimmins,Corporate,China,Xiangzikou,,,North,3497,Apple - Macintosh,Yuan Renminbi,Technology,Phones,72,0.16,Real
+901,7115,4/19/2019,9/30/2011,Standard Class,1766,Jacqueline Apple,Home Office,Brazil,Sinop,,78550-000,East,5823,The Pop Shoppe - Lime Rickey,Real,Technology,Paper,12,0.41,Yuan Renminbi
+902,9033,6/17/2011,12/29/2015,First Class,3651,Wini Enga,Corporate,Mongolia,Maanĭt,,,West,4292,Rice - Sushi,Tugrik,Technology,Chairs,46,0.37,Krona
+903,6996,8/29/2020,9/15/2016,First Class,1249,Fitzgerald Pouton,Home Office,China,Songfeng,,,West,5851,Chocolate - Mi - Amere Semi,Yuan Renminbi,Office Supplies,Tables,34,0.22,Krone
+904,8207,8/28/2017,8/7/2020,Second Class,6701,Annis Goulder,Home Office,Germany,Witzenhausen,Hessen,37217,North,3274,Tofu - Firm,Euro,Technology,Paper,38,0.05,Zloty
+905,5110,2/21/2015,4/21/2022,First Class,7361,Clarice Hallowes,Corporate,Armenia,Arevashogh,,,West,5383,"Capon - Breast, Double, Wing On",Dram,Technology,Phones,40,0.44,Won
+906,6293,7/4/2021,2/4/2016,Same Day,4310,Billy Kenward,Consumer,China,Gaoxu,,,North,5407,Ice Cream Bar - Oreo Cone,Yuan Renminbi,Office Supplies,Accessories,24,0.08,Ruble
+907,7748,9/11/2020,8/24/2015,Standard Class,8016,Tara Brownsmith,Corporate,Macedonia,Struga,,6330,South,6608,"Coconut - Creamed, Pure",Denar,Office Supplies,Accessories,45,0.04,Rupiah
+908,2007,4/19/2011,9/15/2016,Second Class,4163,Lizabeth Aloigi,Home Office,Indonesia,Mbongawani,,,South,9096,Energy Drink - Franks Original,Rupiah,Office Supplies,Paper,26,0.26,Pound
+909,8192,11/18/2018,7/13/2020,First Class,7993,Danny Olle,Home Office,Lithuania,Seda,,89051,East,4071,Chicken Breast Wing On,Litas,Technology,Paper,38,0.09,Peso
+910,9524,8/2/2017,2/29/2016,First Class,5345,Ware Capel,Consumer,Russia,Vatutino,,141032,West,9950,Carbonated Water - Orange,Ruble,Office Supplies,Paper,75,0.41,Euro
+911,6349,1/10/2019,12/24/2013,Same Day,4980,Adham Ceaplen,Home Office,Indonesia,Beringinjaya,,,North,6812,Carbonated Water - Cherry,Rupiah,Furniture,Paper,11,0.23,Pound
+912,7790,10/26/2019,10/29/2010,Same Day,7713,Angel Paur,Home Office,Czech Republic,Hudlice,,267 03,North,1186,Carbonated Water - Raspberry,Koruna,Technology,Accessories,39,0.45,Rupiah
+913,9819,5/13/2015,4/27/2015,Second Class,2170,Nonna De Andreis,Corporate,Indonesia,Sadabumi,,,South,4419,"Juice - Pineapple, 341 Ml",Rupiah,Technology,Accessories,9,0.43,Yuan Renminbi
+914,4240,11/18/2022,1/13/2013,First Class,5068,Ganny Ledley,Consumer,Malta,Mosta,,MST,North,5734,Shopper Bag - S - 4,Euro,Furniture,Accessories,42,0.05,Real
+915,8978,4/28/2022,11/15/2017,Same Day,5851,Orrin Faucett,Corporate,South Africa,Prince Albert,,6932,West,9504,Longos - Chicken Caeser Salad,Rand,Furniture,Accessories,7,0.31,Dollar
+916,6400,5/16/2012,8/1/2016,Second Class,7827,Darsie Fargher,Home Office,Indonesia,Hobonio,,,North,6014,Cabbage - Nappa,Rupiah,Furniture,Tables,85,0.25,Yuan Renminbi
+917,9273,8/21/2022,12/11/2011,First Class,3631,Parsifal Crookshanks,Consumer,Afghanistan,Rabāţ-e Sangī-ye Pā’īn,,,North,2219,Browning Caramel Glace,Afghani,Office Supplies,Paper,59,0.28,Rupiah
+918,4198,10/26/2012,3/4/2018,Second Class,7131,Eldon Cornils,Home Office,France,Chantepie,Bretagne,35574 CEDEX,South,8324,Beets,Euro,Furniture,Tables,88,0.25,Peso
+919,6856,4/29/2020,2/18/2017,Same Day,8992,Cyrillus Delyth,Home Office,Japan,Chikushino-shi,,818-0138,East,4270,Puree - Kiwi,Yen,Office Supplies,Paper,62,0.28,Peso
+920,4021,8/19/2011,10/14/2012,Same Day,6985,Hazlett Bushen,Corporate,China,Meicheng,,,West,1870,Wine - Baron De Rothschild,Yuan Renminbi,Furniture,Tables,14,0.5,Dollar
+921,1540,12/27/2012,12/30/2016,Second Class,4644,Tamra O'Shevlin,Corporate,Pakistan,Haveli,,69091,West,6183,"Cup - 6oz, Foam",Rupee,Technology,Accessories,55,0.08,Yuan Renminbi
+922,7558,12/9/2013,4/2/2012,First Class,2530,Harriet Wetwood,Consumer,Mexico,La Soledad,Oaxaca,68430,South,9243,Longos - Burritos,Peso,Office Supplies,Paper,81,0.43,Euro
+923,5647,8/12/2010,11/26/2014,First Class,1980,Cissiee Cantor,Corporate,Mauritius,Melrose,,,West,8322,"Mushroom - Trumpet, Dry",Rupee,Technology,Phones,13,0.46,Rupee
+924,7878,2/28/2018,6/13/2017,First Class,6648,Anjela Newbury,Corporate,Portugal,Alcainça,Lisboa,2640-705,South,2557,Cake - Sheet Strawberry,Euro,Office Supplies,Paper,76,0.28,Rupiah
+925,3465,9/7/2014,10/23/2015,Same Day,3525,Burke Meak,Consumer,Greece,Kými,,,West,6917,Octopus,Euro,Office Supplies,Chairs,25,0.11,Ruble
+926,6779,7/21/2011,9/5/2020,First Class,6575,Darn Grinter,Corporate,Uganda,Kitamilo,,,North,3555,Lotus Rootlets - Canned,Shilling,Technology,Paper,53,0.33,Peso
+927,4776,8/14/2015,9/9/2010,Standard Class,1111,Lola Clawsley,Consumer,Kenya,Homa Bay,,,South,5133,"Soup - Campbells, Beef Barley",Shilling,Office Supplies,Accessories,35,0.45,Euro
+928,8414,12/23/2015,8/25/2015,First Class,6381,Clarie Creed,Home Office,China,Laxiong,,,South,8368,"Wine - Red, Pelee Island Merlot",Yuan Renminbi,Office Supplies,Phones,28,0.33,Kip
+929,1889,7/27/2011,5/12/2018,Same Day,1664,Jackson Tivenan,Consumer,Paraguay,Villa Hayes,,,South,8150,Tahini Paste,Guarani,Furniture,Tables,49,0.48,Real
+930,2565,5/8/2021,10/19/2011,Second Class,1658,Edita Guile,Consumer,China,Houping,,,East,6029,Jerusalem Artichoke,Yuan Renminbi,Office Supplies,Chairs,44,0.24,Yen
+931,7572,10/16/2015,12/11/2016,Standard Class,4091,Camel Wookey,Home Office,Indonesia,Banjar Bucu,,,West,1999,Chips Potato Swt Chilli Sour,Rupiah,Technology,Chairs,23,0.21,Euro
+932,6260,11/23/2019,1/23/2011,First Class,7326,Alexandrina Hamby,Home Office,Portugal,Loureiro,Braga,4810-050,West,3043,"Bread - Pita, Mini",Euro,Office Supplies,Tables,8,0.21,Rupiah
+933,3092,5/29/2015,10/4/2016,Standard Class,1646,Xena Geerits,Corporate,Philippines,Ronda,,6034,South,7573,Veal - Kidney,Peso,Furniture,Phones,68,0.14,Euro
+934,6946,3/10/2013,8/31/2020,Standard Class,2053,Benedetta Hanlin,Consumer,Afghanistan,Qal‘ah-ye Shāhī,,,North,6470,Plaintain,Afghani,Office Supplies,Chairs,92,0.33,Peso
+935,9154,5/1/2010,3/18/2020,First Class,1847,Dennis Strawbridge,Home Office,Ukraine,Lozova,,,South,4451,Hold Up Tool Storage Rack,Hryvnia,Technology,Chairs,33,0.33,Peso
+936,2836,8/17/2022,10/8/2018,Standard Class,2083,Verine Rippin,Consumer,Peru,Obas,,,West,1173,Beef - Top Sirloin - Aaa,Sol,Furniture,Phones,85,0.28,Yuan Renminbi
+937,6332,3/4/2017,3/22/2019,Same Day,6462,Keefe Money,Home Office,Indonesia,Kendung Timur,,,West,3372,"Wine - Magnotta, White",Rupiah,Furniture,Paper,63,0.28,Euro
+938,5894,4/16/2016,4/19/2021,Second Class,5213,Reinhard Mazillius,Corporate,Peru,Tantamayo,,,West,9829,Sea Bass - Whole,Sol,Technology,Tables,39,0.33,Dong
+939,9547,3/19/2011,6/14/2021,Same Day,3912,Sapphire McAllen,Consumer,Japan,Koshigaya,,344-0025,West,1104,Cheese - Grana Padano,Yen,Technology,Chairs,4,0.29,Peso
+940,7861,4/29/2011,6/10/2019,Second Class,4500,Chantalle Renachowski,Consumer,Indonesia,Pakel,,,West,3079,Tomatoes - Grape,Rupiah,Technology,Paper,76,0.35,Krona
+941,2215,8/17/2019,12/5/2016,Standard Class,5188,Hendrik Klimkowski,Corporate,Sweden,Skövde,Västra Götaland,541 45,South,3695,"Trout - Rainbow, Frozen",Krona,Technology,Tables,4,0.24,Yuan Renminbi
+942,8872,1/14/2013,4/24/2020,First Class,5084,Nicole Danzey,Home Office,Brazil,Palmares,,55540-000,South,2911,Snails - Large Canned,Real,Furniture,Chairs,41,0.48,Yuan Renminbi
+943,5192,3/19/2013,3/23/2018,Standard Class,1464,Brena Planks,Corporate,China,Foluo,,,South,2104,Cattail Hearts,Yuan Renminbi,Furniture,Accessories,35,0.05,Rupiah
+944,2335,1/6/2017,2/20/2022,Standard Class,7889,Robbi Simmgen,Consumer,China,Baoquan,,,North,8492,Canadian Emmenthal,Yuan Renminbi,Technology,Tables,52,0.46,Dollar
+945,7713,11/26/2015,9/7/2018,Standard Class,9153,Prissie Emlen,Corporate,Dominica,Calibishie,,,East,7717,Wine - Sogrape Mateus Rose,Dollar,Furniture,Paper,96,0.11,Zloty
+946,9172,11/18/2016,7/6/2012,Second Class,8334,Bartolomeo Swatradge,Corporate,Philippines,Santiago,,8608,North,3245,"Napkin - Cocktail,beige 2 - Ply",Peso,Furniture,Paper,89,0.46,Zloty
+947,7411,12/1/2018,4/16/2018,First Class,7970,Cooper Bellchamber,Consumer,China,Maojia,,,South,1132,Soup Campbells Turkey Veg.,Yuan Renminbi,Technology,Chairs,54,0.46,Peso
+948,8825,9/2/2018,10/28/2012,Standard Class,4484,Nikola Wrigley,Home Office,Philippines,Danao,,6344,West,1340,"Tart Shells - Savory, 4",Peso,Technology,Chairs,84,0.29,Baht
+949,2207,11/1/2021,12/27/2019,Same Day,5629,Jo-anne Tinker,Home Office,Dominican Republic,Azua,,10607,West,6916,"Wine - Saint - Bris 2002, Sauv",Peso,Technology,Chairs,61,0.15,Yuan Renminbi
+950,9842,6/23/2019,1/24/2013,Standard Class,6865,Consolata D'Ruel,Home Office,Armenia,Spitak,,,West,1691,Cinnamon Buns Sticky,Dram,Technology,Paper,99,0.42,Euro
+951,4168,3/20/2015,2/8/2017,Same Day,3116,Reynolds Tarbet,Corporate,Gambia,Gunjur Kuta,,,East,8681,Goldschalger,Dalasi,Office Supplies,Phones,21,0.08,Ruble
+952,2579,2/19/2014,1/1/2013,Standard Class,3966,Chelsy Lotherington,Consumer,Indonesia,Ntoke,,,West,9569,Soap - Mr.clean Floor Soap,Rupiah,Office Supplies,Chairs,34,0.43,Peso
+953,2048,9/4/2013,5/7/2022,Same Day,5971,Norry Abrahams,Corporate,Poland,Regimin,,06-461,North,2209,"Tart Shells - Savory, 2",Zloty,Technology,Accessories,6,0.23,Quetzal
+954,4791,3/24/2015,5/27/2018,Second Class,2426,Laurena Clough,Corporate,Brazil,Arroio do Meio,,95940-000,East,1557,Poppy Seed,Real,Technology,Chairs,74,0.46,Yuan Renminbi
+955,9093,4/27/2010,10/22/2015,Second Class,9426,Kaylyn Arr,Consumer,Mexico,Benito Juarez,Coahuila De Zaragoza,27443,North,1716,Garbage Bags - Black,Peso,Technology,Tables,40,0.45,Real
+956,6850,2/17/2018,2/7/2016,Standard Class,6590,Ryun Schutte,Home Office,Kazakhstan,Ülken,,,North,3264,Straw - Regular,Tenge,Technology,Accessories,42,0.2,Yuan Renminbi
+957,6713,2/28/2010,7/7/2021,Second Class,6096,Arman Pountain,Home Office,China,Gaoqiao,,,South,9628,Pastry - Lemon Danish - Mini,Yuan Renminbi,Furniture,Accessories,32,0.16,Zloty
+958,6629,9/13/2015,1/20/2010,Same Day,6996,Mervin Kadwallider,Corporate,Japan,Isehara,,277-0883,West,3717,Chef Hat 20cm,Yen,Technology,Phones,46,0.22,Rand
+959,8763,8/21/2015,12/7/2010,Second Class,4949,Vinni Demanche,Home Office,Kazakhstan,Kishkenekol’,,,West,1160,"Brocolinni - Gaylan, Chinese",Tenge,Furniture,Phones,42,0.49,Pound
+960,3338,12/5/2014,7/10/2014,Second Class,7549,Sonnie McGaughie,Consumer,China,Shuangpengxi,,,South,5604,Bread - White Epi Baguette,Yuan Renminbi,Furniture,Phones,50,0.46,Baht
+961,6179,1/7/2012,5/22/2021,Same Day,6523,Bordie Terron,Consumer,Myanmar,Sagaing,,,South,1626,Sage - Ground,Kyat,Office Supplies,Phones,19,0.06,Yuan Renminbi
+962,4300,3/15/2014,8/30/2014,Standard Class,4155,Rodi Eddoes,Home Office,Egypt,Iţsā,,,North,3367,Sausage - Chorizo,Pound,Furniture,Phones,79,0.13,Euro
+963,1579,3/12/2018,10/27/2016,Standard Class,9353,Garnette Traynor,Corporate,United States,Biloxi,Mississippi,39534,West,2118,"Potatoes - Purple, Organic",Dollar,Office Supplies,Tables,68,0.17,Tenge
+964,9601,1/8/2016,4/13/2018,Standard Class,3304,Kathryn Lant,Consumer,Brazil,Rio Branco,,78275-000,West,9499,Wine - Rosso Del Veronese Igt,Real,Furniture,Tables,38,0.05,Rupiah
+965,6709,7/14/2012,4/2/2012,Same Day,7789,Emmet McCaskill,Home Office,Mexico,Las Palmas,Guanajuato,36200,East,9716,"Club Soda - Schweppes, 355 Ml",Peso,Furniture,Accessories,32,0.23,Rupiah
+966,8192,10/21/2010,7/5/2019,Second Class,1097,Nada Tonn,Home Office,Indonesia,Kebonagung,,,North,3937,Spinach - Baby,Rupiah,Technology,Chairs,34,0.23,Dong
+967,6982,3/13/2022,2/10/2013,First Class,6490,Corrie Freemantle,Corporate,Portugal,Terrugem,Lisboa,2770-024,West,5837,Chicken - Leg / Back Attach,Euro,Furniture,Accessories,66,0.34,Dollar
+968,2033,1/31/2018,7/24/2022,Standard Class,5527,Nobie Choat,Home Office,Czech Republic,Město Libavá,,783 06,East,1871,Lid - 3oz Med Rec,Koruna,Furniture,Phones,95,0.44,Franc
+969,9852,5/19/2012,5/28/2018,First Class,6934,Ava Simic,Consumer,Poland,Czarna Białostocka,,16-020,West,3607,Coffee - 10oz Cup 92961,Zloty,Furniture,Accessories,30,0.35,Krona
+970,8028,9/5/2016,1/27/2013,First Class,8926,Demott Symes,Home Office,Yemen,Qishn,,,East,6267,Table Cloth 90x90 White,Rial,Technology,Chairs,54,0.04,Kuna
+971,4223,6/9/2014,11/8/2018,First Class,1017,Ansley Gwinnel,Home Office,Czech Republic,Poříčí nad Sázavou,,257 21,East,1642,Quinoa,Koruna,Technology,Paper,35,0.08,Dollar
+972,5147,1/17/2014,11/2/2022,First Class,3368,Barnaby Filintsev,Home Office,Indonesia,Larangan,,,South,4942,"Shrimp - 16/20, Iqf, Shell On",Rupiah,Office Supplies,Chairs,28,0.32,Rupiah
+973,1892,4/15/2010,11/24/2011,Second Class,8820,Hilliary Kubes,Consumer,Indonesia,Klatakan,,,East,1197,Longos - Grilled Veg Sandwiches,Rupiah,Office Supplies,Paper,42,0.34,Real
+974,3890,10/10/2018,5/4/2013,First Class,4334,Perri McKune,Corporate,China,Hadapu Zhen,,,West,5959,"Mushroom - Enoki, Dry",Yuan Renminbi,Technology,Phones,41,0.45,Peso
+975,5927,5/16/2021,9/14/2015,First Class,7059,Weider Blachford,Home Office,Brazil,Espumoso,,99400-000,West,9772,Glove - Cutting,Real,Furniture,Paper,21,0.08,Yuan Renminbi
+976,4983,4/6/2016,1/30/2014,Standard Class,8522,Amye Vernazza,Consumer,Kazakhstan,Zhambyl,,,North,5505,Oven Mitts 17 Inch,Tenge,Office Supplies,Phones,92,0.39,Rupiah
+977,3914,8/14/2011,6/28/2014,First Class,9459,Gustie Roderighi,Home Office,China,Zhishan,,,South,4126,Broom - Push,Yuan Renminbi,Office Supplies,Accessories,56,0.27,Yuan Renminbi
+978,3425,11/2/2017,5/13/2015,First Class,6163,Casie Beacon,Consumer,Indonesia,Semboropasar,,,South,6426,Beer - Corona,Rupiah,Furniture,Phones,27,0.23,Yuan Renminbi
+979,2873,2/23/2017,11/15/2022,Second Class,7267,Alanna Filov,Corporate,Russia,Kromy,,303211,North,9959,Mustard - Individual Pkg,Ruble,Technology,Tables,94,0.32,Hryvnia
+980,3687,10/29/2018,10/15/2011,Standard Class,2291,Ralina MacParland,Consumer,Uzbekistan,Denov,,,East,9170,Cloves - Ground,Som,Furniture,Paper,64,0.45,Peso
+981,2467,4/5/2014,7/12/2019,Same Day,2984,Benito MacGorrie,Home Office,Azerbaijan,Ağdaş,,,North,3767,"Mushroom - Porcini, Dry",Manat,Furniture,Chairs,40,0.03,Rupiah
+982,5443,3/20/2018,6/26/2018,Second Class,5692,Dian Yeoman,Consumer,Brazil,Acopiara,,63560-000,West,2684,Gatorade - Xfactor Berry,Real,Office Supplies,Tables,36,0.3,Afghani
+983,6689,3/7/2020,10/30/2014,Same Day,5521,Amalea Pate,Consumer,Malaysia,Puchong,Selangor,47140,West,2504,Appetizer - Asian Shrimp Roll,Ringgit,Furniture,Tables,50,0.47,Yuan Renminbi
+984,6776,8/21/2018,10/31/2014,Standard Class,6355,Joelle Bischoff,Corporate,China,Shangxing,,,North,4362,Heavy Duty Dust Pan,Yuan Renminbi,Technology,Accessories,99,0.27,Rupiah
+985,2276,3/1/2019,11/13/2012,Second Class,3584,Katrine Wrigley,Corporate,Serbia,Novi Sad,,,North,9384,Muffin - Bran Ind Wrpd,Dinar,Office Supplies,Phones,39,0.42,Manat
+986,4227,12/27/2012,5/8/2012,First Class,2648,Roderic Alloisi,Consumer,China,Heichengzi,,,West,6175,Wine - Lou Black Shiraz,Yuan Renminbi,Furniture,Paper,32,0.47,Rupee
+987,4228,8/1/2014,2/11/2021,Standard Class,1869,Dolores Gawthorp,Corporate,China,Beihe,,,West,1493,Ice Cream - Super Sandwich,Yuan Renminbi,Office Supplies,Paper,52,0.47,Rupiah
+988,4270,12/17/2011,10/18/2015,Same Day,6454,Ashla MacKibbon,Consumer,Portugal,Água de Pau,Ilha de São Miguel,9560-205,East,8466,Sprouts - Alfalfa,Euro,Furniture,Accessories,79,0.23,Peso
+989,3503,6/30/2018,6/8/2012,Standard Class,9010,Sacha Thowless,Corporate,Egypt,Bilqās,,,West,8911,Tea - Decaf Lipton,Pound,Office Supplies,Tables,6,0.35,Krona
+990,4168,5/9/2014,3/24/2022,Same Day,1145,Geno Seagrove,Consumer,China,Dachun,,,North,9913,Pastry - Apple Muffins - Mini,Yuan Renminbi,Technology,Phones,85,0.27,Yuan Renminbi
+991,1460,7/7/2014,1/2/2022,First Class,7765,Lou Blodgett,Consumer,Iran,Tajrīsh,,,North,3260,"Tomatoes - Vine Ripe, Yellow",Rial,Furniture,Paper,94,0.08,Yuan Renminbi
+992,4094,4/8/2021,6/11/2022,First Class,1827,Miguel Browse,Corporate,Brazil,Mogi Guaçu,,13840-000,South,1284,"Cherries - Maraschino,jar",Real,Furniture,Chairs,46,0.24,Dollar
+993,1464,7/4/2012,7/27/2016,Standard Class,3479,Nyssa Warbys,Home Office,Cuba,Nuevitas,,,West,4082,Cheese - La Sauvagine,Peso,Office Supplies,Paper,75,0.1,Dinar
+994,1807,8/13/2021,3/8/2015,Same Day,7031,Junie Crampsy,Corporate,Argentina,Villa Nueva,,5903,South,8189,Nectarines,Peso,Furniture,Paper,88,0.46,Ruble
+995,7325,8/24/2012,7/27/2016,Second Class,7519,Daune Smithyman,Consumer,Russia,Sychëvo,,143650,West,6118,"Appetizer - Mini Egg Roll, Shrimp",Ruble,Office Supplies,Paper,45,0.27,Real
+996,9907,4/9/2011,4/1/2019,Standard Class,6023,Ximenez Croal,Corporate,China,Xiashan,,,South,2583,Soup - Campbells Mushroom,Yuan Renminbi,Technology,Accessories,87,0.43,Yuan Renminbi
+997,3700,2/3/2010,1/14/2022,Same Day,6010,Fiann Peckham,Consumer,United States,Johnson City,Tennessee,37605,South,4671,"Basil - Dry, Rubbed",Dollar,Furniture,Tables,99,0.36,Dollar
+998,9512,11/3/2014,3/30/2022,Same Day,8264,Kimbell Benian,Corporate,Indonesia,Siborong-borong,,,North,5483,Dill Weed - Dry,Rupiah,Technology,Chairs,49,0.06,Euro
