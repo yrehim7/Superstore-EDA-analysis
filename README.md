@@ -15,12 +15,13 @@ Key findings and visualizations are included in the notebook (`main.ipynb`).
 
 ## Dataset
 
-This analysis utilizes the [Superstore Sales Dataset][dataset-url] provided by [Rohit Sahoo][author-url] on Kaggle. The dataset is licensed under the [GNU General Public License v2.0][[gpl2-url](http://gnu.org/licenses/old-licenses/gpl-2.0.en.html)].
+This analysis utilizes the [Superstore Sales Dataset][dataset-url] . The dataset is licensed under the [GNU General Public License v2.0][gpl2-url].
 
 **Dataset Details**:
 - **Title**: Superstore Sales Dataset
 - **License**: [GNU General Public License v2.0][[gpl2-url](http://gnu.org/licenses/old-licenses/gpl-2.0.en.html)]
 
 [dataset-url]: https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
+[gpl2-url]: https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
 
 
